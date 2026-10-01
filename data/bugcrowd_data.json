@@ -90,7 +90,7 @@
           "target": "https://marketplace.atlassian.com/apps/1218391/dependency-map-for-jira-link-viewer?hosting=cloud",
           "uri": "https://marketplace.atlassian.com/apps/1218391/dependency-map-for-jira-link-viewer?hosting=cloud",
           "name": "https://marketplace.atlassian.com/apps/1218391/dependency-map-for-jira-link-viewer?hosting=cloud",
-          "ipAddress": ""
+          "ipAddress": null
         }
       ],
       "out_of_scope": []
@@ -203,13 +203,6 @@
         },
         {
           "type": "website",
-          "target": "https://www.gohenry.com/",
-          "uri": "https://www.gohenry.com/",
-          "name": "https://www.gohenry.com/",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
           "target": "https://www.pixpay.fr/",
           "uri": "https://www.pixpay.fr/",
           "name": "https://www.pixpay.fr/",
@@ -259,153 +252,6 @@
         }
       ],
       "out_of_scope": []
-    }
-  },
-  {
-    "name": "Afterpay Bug Bounty Program",
-    "url": "https://bugcrowd.com/engagements/afterpay",
-    "allows_disclosure": true,
-    "managed_by_bugcrowd": true,
-    "safe_harbor": "full",
-    "max_payout": 5000,
-    "targets": {
-      "in_scope": [
-        {
-          "type": "ios",
-          "target": "████████████████",
-          "uri": null,
-          "name": "████████████████",
-          "ipAddress": null
-        },
-        {
-          "type": "android",
-          "target": "████████████████████",
-          "uri": null,
-          "name": "████████████████████",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "███████████████████",
-          "uri": null,
-          "name": "███████████████████",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "██████████████",
-          "uri": null,
-          "name": "██████████████",
-          "ipAddress": null
-        },
-        {
-          "type": "api",
-          "target": "██████████████████████",
-          "uri": null,
-          "name": "██████████████████████",
-          "ipAddress": null
-        },
-        {
-          "type": "api",
-          "target": "████████████████████████",
-          "uri": null,
-          "name": "████████████████████████",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "███████████████████████",
-          "uri": null,
-          "name": "███████████████████████",
-          "ipAddress": null
-        },
-        {
-          "type": "ios",
-          "target": "████████████████",
-          "uri": null,
-          "name": "████████████████",
-          "ipAddress": null
-        },
-        {
-          "type": "android",
-          "target": "████████████████████",
-          "uri": null,
-          "name": "████████████████████",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "██████████████",
-          "uri": null,
-          "name": "██████████████",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "████████████",
-          "uri": null,
-          "name": "████████████",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "███████████████████",
-          "uri": null,
-          "name": "███████████████████",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "█████████████████████",
-          "uri": null,
-          "name": "█████████████████████",
-          "ipAddress": null
-        },
-        {
-          "type": "api",
-          "target": "██████████████████████",
-          "uri": null,
-          "name": "██████████████████████",
-          "ipAddress": null
-        },
-        {
-          "type": "api",
-          "target": "███████████████████████████",
-          "uri": null,
-          "name": "███████████████████████████",
-          "ipAddress": null
-        },
-        {
-          "type": "api",
-          "target": "████████████████",
-          "uri": null,
-          "name": "████████████████",
-          "ipAddress": null
-        }
-      ],
-      "out_of_scope": [
-        {
-          "type": "website",
-          "target": "████████████████████",
-          "uri": null,
-          "name": "████████████████████",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "███████████████████████",
-          "uri": null,
-          "name": "███████████████████████",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "███████████████████",
-          "uri": null,
-          "name": "███████████████████",
-          "ipAddress": null
-        }
-      ]
     }
   },
   {
@@ -14432,6 +14278,174 @@
     }
   },
   {
+    "name": "lululemon",
+    "url": "https://bugcrowd.com/engagements/lululemon",
+    "allows_disclosure": true,
+    "managed_by_bugcrowd": true,
+    "safe_harbor": null,
+    "max_payout": 8000,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "https://shop.lululemon.com",
+          "uri": "https://shop.lululemon.com",
+          "name": "shop.lululemon.com",
+          "ipAddress": null
+        },
+        {
+          "type": "other",
+          "target": "*.lululemon.com",
+          "uri": null,
+          "name": "*.lululemon.com",
+          "ipAddress": null
+        },
+        {
+          "type": "ios",
+          "target": "https://apps.apple.com/us/app/lululemon/id920098546",
+          "uri": "https://apps.apple.com/us/app/lululemon/id920098546",
+          "name": "Lululemon Mobile App - iOS",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://www.lululemon.com.au/  ",
+          "uri": "https://www.lululemon.com.au/  ",
+          "name": "https://www.lululemon.com.au",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://www.lululemon.de/",
+          "uri": "https://www.lululemon.de/",
+          "name": "https://www.lululemon.de",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://www.lululemon.es/ ",
+          "uri": "https://www.lululemon.es/ ",
+          "name": "https://www.lululemon.es",
+          "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "https://www.eu.lululemon.com/",
+          "uri": "https://www.eu.lululemon.com/",
+          "name": "https://www.eu.lululemon.com",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://www.lululemon.fr/",
+          "uri": "https://www.lululemon.fr/",
+          "name": "https://www.lululemon.fr",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://www.lululemon.com.hk/",
+          "uri": "https://www.lululemon.com.hk/",
+          "name": "https://www.lululemon.com.hk",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://www.lululemon.co.jp/",
+          "uri": "https://www.lululemon.co.jp/",
+          "name": "http://www.lululemon.co.jp",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "http://www.lululemon.co.kr/",
+          "uri": "http://www.lululemon.co.kr/",
+          "name": "http://www.lululemon.co.kr",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://www.lululemon.co.nz/",
+          "uri": "https://www.lululemon.co.nz/",
+          "name": "https://www.lululemon.co.nz",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://www.lululemon.co.uk/",
+          "uri": "https://www.lululemon.co.uk/",
+          "name": "https://www.lululemon.co.uk",
+          "ipAddress": null
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "*.lululemon.cn",
+          "uri": "",
+          "name": "*.lululemon.cn",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://fr.shop.lululemon.com",
+          "uri": "https://fr.shop.lululemon.com",
+          "name": "https://fr.shop.lululemon.com",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://www.lululemon.me",
+          "uri": "https://www.lululemon.me",
+          "name": "*.lululemon.me",
+          "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "https://careers.lululemon.com/",
+          "uri": "https://careers.lululemon.com/",
+          "name": "careers.lululemon.com",
+          "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "https://info.lululemon.com",
+          "uri": "https://info.lululemon.com",
+          "name": "https://info.lululemon.com",
+          "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "https://pnimage.lululemon.com",
+          "uri": "https://pnimage.lululemon.com",
+          "name": "https://pnimages.lululemon.com",
+          "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "AEM - Assets",
+          "uri": "",
+          "name": "AEM - Assets",
+          "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "AEM - Sites",
+          "uri": "",
+          "name": "AEM - Sites",
+          "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "https://www.mirror.co/",
+          "uri": "https://www.mirror.co/",
+          "name": "https://www.mirror.co",
+          "ipAddress": ""
+        }
+      ]
+    }
+  },
+  {
     "name": "Luno Bug Bounty Program",
     "url": "https://bugcrowd.com/engagements/luno-og",
     "allows_disclosure": false,
@@ -17121,100 +17135,9 @@
         },
         {
           "type": "website",
-          "target": "clientwise.com",
-          "uri": "",
-          "name": "clientwise.com",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "cloud.em.northwesternmutual.com",
-          "uri": "",
-          "name": "cloud.em.northwesternmutual.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "disabilityinsurancecoveragenow.com",
-          "uri": "",
-          "name": "disabilityinsurancecoveragenow.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "events.nmfn.com",
-          "uri": "",
-          "name": "events.nmfn.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "eventscloud.com",
-          "uri": "",
-          "name": "eventscloud.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "ftph1.northwesternmutual.com",
-          "uri": "",
-          "name": "ftph1.northwesternmutual.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
           "target": "gbpwealth.com",
           "uri": "",
           "name": "gbpwealth.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "icapitalnetwork.com",
-          "uri": "",
-          "name": "icapitalnetwork.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "icims.com",
-          "uri": "",
-          "name": "icims.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "ideas.northwesternmutual.com",
-          "uri": "",
-          "name": "ideas.northwesternmutual.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "iggateway.com",
-          "uri": "",
-          "name": "iggateway.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "m3.nml.com",
-          "uri": "",
-          "name": "m3.nml.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "metrics.northwesternmutual.com",
-          "uri": "",
-          "name": "metrics.northwesternmutual.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "metricssecure.northwesternmutual.com",
-          "uri": "",
-          "name": "metricssecure.northwesternmutual.com",
           "ipAddress": ""
         },
         {
@@ -17226,27 +17149,6 @@
         },
         {
           "type": "website",
-          "target": "mynmcu.com",
-          "uri": "",
-          "name": "mynmcu.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "nmcreative.space",
-          "uri": "",
-          "name": "nmcreative.space",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "nmis-stage.netxinvestor.com",
-          "uri": "",
-          "name": "nmis-stage.netxinvestor.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
           "target": "nmresearchlibrary.nml.com",
           "uri": "",
           "name": "nmresearchlibrary.nml.com",
@@ -17254,79 +17156,9 @@
         },
         {
           "type": "website",
-          "target": "northwesternmutual.aramarkcafe.com",
-          "uri": "",
-          "name": "northwesternmutual.aramarkcafe.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "northwesternmutual.jobinfo.com",
-          "uri": "",
-          "name": "northwesternmutual.jobinfo.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "northwesternmutual.starssmp.com",
-          "uri": "",
-          "name": "northwesternmutual.starssmp.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "northwesternmutualdigitalexplab.com",
-          "uri": "",
-          "name": "northwesternmutualdigitalexplab.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "northwesternmutualinnercircle.com",
-          "uri": "",
-          "name": "northwesternmutualinnercircle.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
           "target": "nwm.com",
           "uri": "",
           "name": "nwm.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "nwm.benselect.com",
-          "uri": "",
-          "name": "nwm.benselect.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "nwm.zenarate.com",
-          "uri": "",
-          "name": "nwm.zenarate.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "opportunities.northwesternmutual.com",
-          "uri": "",
-          "name": "opportunities.northwesternmutual.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "opportunities.northwesternmutual.com.career.page ",
-          "uri": "",
-          "name": "opportunities.northwesternmutual.com.career.page ",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "pugetsound.nmfn.com",
-          "uri": "",
-          "name": "pugetsound.nmfn.com",
           "ipAddress": ""
         },
         {
@@ -17348,20 +17180,6 @@
           "target": "themint.org",
           "uri": "",
           "name": "themint.org",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "u.nm.com",
-          "uri": "",
-          "name": "u.nm.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "wholelifeconversion.com",
-          "uri": "",
-          "name": "wholelifeconversion.com",
           "ipAddress": ""
         },
         {
@@ -27425,13 +27243,6 @@
       "in_scope": [
         {
           "type": "website",
-          "target": "https://marketplace.atlassian.com/apps/1216564/great-gadgets-for-jira-cloud?hosting=cloud&tab=overview",
-          "uri": "https://marketplace.atlassian.com/apps/1216564/great-gadgets-for-jira-cloud?hosting=cloud&tab=overview",
-          "name": "Great Gadgets for Jira Cloud - https://marketplace.atlassian.com/apps/1216564/great-gadgets-for-jira-cloud?hosting=cloud&tab=overview",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
           "target": "https://marketplace.atlassian.com/apps/1211062/documents-for-jira?hosting=cloud&tab=overview",
           "uri": "https://marketplace.atlassian.com/apps/1211062/documents-for-jira?hosting=cloud&tab=overview",
           "name": "Documents for Jira - Cloud - https://marketplace.atlassian.com/apps/1211062/documents-for-jira?hosting=cloud&tab=overview",
@@ -27453,10 +27264,38 @@
         },
         {
           "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1216564/great-gadgets-for-jira-cloud?hosting=cloud&tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1216564/great-gadgets-for-jira-cloud?hosting=cloud&tab=overview",
+          "name": "Great Gadgets for Jira Cloud - https://marketplace.atlassian.com/apps/1216564/great-gadgets-for-jira-cloud?hosting=cloud&tab=overview",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/607387265/velocity-throughput-charts-for-agile-scrum-kanban?hosting=cloud&tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/607387265/velocity-throughput-charts-for-agile-scrum-kanban?hosting=cloud&tab=overview",
+          "name": "Velocity & Throughput Charts for Agile, Scrum, Kanban - https://marketplace.atlassian.com/apps/607387265/velocity-throughput-charts-for-agile-scrum-kanban?hosting=cloud&tab=overview",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
           "target": "https://marketplace.atlassian.com/apps/1237211/devops-gadgets-for-jira-insights-from-github-bb?hosting=cloud&tab=overview",
           "uri": "https://marketplace.atlassian.com/apps/1237211/devops-gadgets-for-jira-insights-from-github-bb?hosting=cloud&tab=overview",
           "name": "DevOps Gadgets for Jira (Insights from GitHub & BB) - https://marketplace.atlassian.com/apps/1237211/devops-gadgets-for-jira-insights-from-github-bb?hosting=cloud&tab=overview",
           "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/2077076462/wip-run-wip-aging-charts-for-scrum-kanban-scaled-agile?hosting=cloud&tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/2077076462/wip-run-wip-aging-charts-for-scrum-kanban-scaled-agile?hosting=cloud&tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/2077076462/wip-run-wip-aging-charts-for-scrum-kanban-scaled-agile?hosting=cloud&tab=overview",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/375826955/burndown-burnup-charts-with-forecast-for-agile-teams?hosting=cloud&tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/375826955/burndown-burnup-charts-with-forecast-for-agile-teams?hosting=cloud&tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/375826955/burndown-burnup-charts-with-forecast-for-agile-teams?hosting=cloud&tab=overview",
+          "ipAddress": null
         }
       ],
       "out_of_scope": [

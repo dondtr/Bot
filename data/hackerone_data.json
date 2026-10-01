@@ -1,5 +1,37 @@
 [
   {
+    "allows_bounty_splitting": true,
+    "average_time_to_bounty_awarded": null,
+    "average_time_to_first_program_response": null,
+    "average_time_to_report_resolved": null,
+    "handle": "omarchy",
+    "id": 0,
+    "managed_program": false,
+    "name": "Omarchy",
+    "offers_bounties": true,
+    "offers_swag": false,
+    "response_efficiency_percentage": 100,
+    "submission_state": "open",
+    "url": "https://hackerone.com/omarchy",
+    "website": "http://omarchy.org",
+    "targets": {
+      "in_scope": [
+        {
+          "asset_identifier": "https://github.com/omacom/omarchy",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": "",
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 1.0,
@@ -262,7 +294,7 @@
     "name": "d-you App & German EUDI Wallet Ecosystem",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 92,
+    "response_efficiency_percentage": 91,
     "submission_state": "open",
     "url": "https://hackerone.com/common_codes",
     "website": "https://eudi-wallet.gov.de/",
@@ -14011,7 +14043,7 @@
     "name": "DoorDash",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 77,
+    "response_efficiency_percentage": 76,
     "submission_state": "open",
     "url": "https://hackerone.com/doordash",
     "website": "http://doordash.com",
@@ -20671,7 +20703,7 @@
     "name": "Kong",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 81,
+    "response_efficiency_percentage": 80,
     "submission_state": "open",
     "url": "https://hackerone.com/kong",
     "website": "http://konghq.com",
@@ -26911,7 +26943,7 @@
     "name": "Hex",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 85,
+    "response_efficiency_percentage": 86,
     "submission_state": "open",
     "url": "https://hackerone.com/hex",
     "website": "https://hex.tech",
@@ -29153,7 +29185,7 @@
     "name": "BILL VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 77,
+    "response_efficiency_percentage": 68,
     "submission_state": "open",
     "url": "https://hackerone.com/bill_vdp",
     "website": "https://www.bill.com",
@@ -29307,7 +29339,7 @@
     "name": "The Browser Company of NYC",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 80,
+    "response_efficiency_percentage": 81,
     "submission_state": "open",
     "url": "https://hackerone.com/bcny",
     "website": "http://thebrowser.company",
@@ -29929,7 +29961,7 @@
     "name": "Starbucks China",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 67,
+    "response_efficiency_percentage": 65,
     "submission_state": "open",
     "url": "https://hackerone.com/starbucks_china",
     "website": "http://starbucks.com",
@@ -32994,7 +33026,7 @@
     "name": "AWS VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 41,
+    "response_efficiency_percentage": 40,
     "submission_state": "open",
     "url": "https://hackerone.com/aws_vdp",
     "website": "https://aws.amazon.com/",
@@ -39051,6 +39083,17 @@
           "max_severity": "none"
         },
         {
+          "asset_identifier": "https://github.com/strands-agents/*",
+          "asset_type": "WILDCARD",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": "",
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "node.e2ro.com/*",
           "asset_type": "OTHER",
           "availability_requirement": null,
@@ -39099,7 +39142,7 @@
     "name": "NBA Public Bug Bounty",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 86,
+    "response_efficiency_percentage": 85,
     "submission_state": "open",
     "url": "https://hackerone.com/nba-public",
     "website": "https://www.nba.com",
@@ -49015,7 +49058,7 @@
     "name": "Varonis",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 64,
+    "response_efficiency_percentage": 65,
     "submission_state": "open",
     "url": "https://hackerone.com/varonis",
     "website": "https://www.varonis.com/",
@@ -70306,7 +70349,7 @@
     "name": "Audible",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 86,
+    "response_efficiency_percentage": 84,
     "submission_state": "open",
     "url": "https://hackerone.com/audible",
     "website": "http://audible.com",
@@ -79023,7 +79066,7 @@
     "name": "Ring",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 72,
+    "response_efficiency_percentage": 70,
     "submission_state": "open",
     "url": "https://hackerone.com/ring",
     "website": "http://ring.com",
@@ -80738,7 +80781,7 @@
     "name": "Fertitta Entertainment",
     "offers_bounties": false,
     "offers_swag": true,
-    "response_efficiency_percentage": 67,
+    "response_efficiency_percentage": 60,
     "submission_state": "open",
     "url": "https://hackerone.com/fertitta_entertainment",
     "website": "https://www.fertittaentertainmentinc.com/",
@@ -84492,7 +84535,7 @@
     "name": "Fifth Third Bank VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 45,
+    "response_efficiency_percentage": 54,
     "submission_state": "open",
     "url": "https://hackerone.com/fifth_third_bank_vdp",
     "website": "http://53.com",
@@ -158226,7 +158269,7 @@
     "name": "MetaMask",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 69,
+    "response_efficiency_percentage": 70,
     "submission_state": "open",
     "url": "https://hackerone.com/metamask",
     "website": "https://metamask.io/",
@@ -162024,7 +162067,7 @@
     "name": "Arc",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 95,
+    "response_efficiency_percentage": 94,
     "submission_state": "open",
     "url": "https://hackerone.com/arc-bbp",
     "website": "https://www.arc.io",
@@ -171840,7 +171883,7 @@
     "name": "Capital One Bug Bounty",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 80,
+    "response_efficiency_percentage": 81,
     "submission_state": "open",
     "url": "https://hackerone.com/capital-one-bounty",
     "website": "http://capitalone.com",
@@ -174121,7 +174164,7 @@
     "name": "Zurich Insurance",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 72,
+    "response_efficiency_percentage": 73,
     "submission_state": "open",
     "url": "https://hackerone.com/zurich-insurance",
     "website": "http://zurich.com",
@@ -199623,6 +199666,39 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "greatmidwestbank-c2.configure-digital-cert.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "greatmidwestbank-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "greatnationsbank-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "greatnhrestaurants.wgiftcard.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -199667,7 +199743,51 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "greenfieldsavings-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "greensboropostalcu-dc.cert.fec-dc.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "greenvillefederal-c2.configure-digital-cert.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "greenvillefederal-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "greenvillefederal.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -199712,6 +199832,17 @@
         },
         {
           "asset_identifier": "grinnell.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "grnbank-p2.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -200129,6 +200260,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "havanabank-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "hawaiicountyfcu-dc.cert.fec-dc.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -200163,6 +200305,17 @@
         },
         {
           "asset_identifier": "hcbanks-admin.originate.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "hcbanks-p2.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -200229,6 +200382,17 @@
         },
         {
           "asset_identifier": "hcnbank.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "hcsbank-p2.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -200514,6 +200678,39 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "heritagebankandtrust-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "heritagebankmn-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "heritagebankofcommerce-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "heritagebankofcommerce.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -200657,6 +200854,28 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "highlands-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "highlandstatebank-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "highwaydistrict21fcu-admin.originate.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -200691,6 +200910,17 @@
         },
         {
           "asset_identifier": "hilltopcert-temp.olbanking.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "holcombbank-p2.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -200767,7 +200997,62 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "homefederalne-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "homefederalnebank-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "homelandcb-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "homenatlbank-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "homenatlbank.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "homesavingsbanknky-p2.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -200812,6 +201097,17 @@
         },
         {
           "asset_identifier": "hometrust.olbanking.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "hometrustbank-p2.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -200976,6 +201272,28 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "hoyne-c2.configure-digital-cert.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "hoyne-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "hoyne.caaweb.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -200987,7 +201305,40 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "hoyne.configure-digital-cert.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "hoyne.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "hoyneuat.caaweb.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "hsbank-p2.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -256977,6 +257328,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "hustisfordstatebank-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "hustisfordstatebank.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -257065,7 +257427,40 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "ibank7-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "ibankeaston-admin.originate.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "ibankeaston-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "ibankeaston.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -257099,6 +257494,17 @@
         },
         {
           "asset_identifier": "ibiz.broadway.bank",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "ibyourbank-p2.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -257143,6 +257549,17 @@
         },
         {
           "asset_identifier": "icom.fiserv.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "idahotrust-p2.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -257527,6 +257944,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "insightcreditunion-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "insightcreditunion.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -257736,6 +258164,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "investmentsb-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "iowastatebank-admin.originate.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -257759,6 +258198,17 @@
         },
         {
           "asset_identifier": "iowatrust-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "iowatrustbank-p2.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -257858,6 +258308,17 @@
         },
         {
           "asset_identifier": "ispsfd.businesstrack.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "issbbank-p2.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -258330,7 +258791,29 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "joinbsb-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "joinbsb.caaweb.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "joinbsb.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -258418,6 +258901,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "katahdintrust-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "katahdintrust.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -258463,6 +258957,28 @@
         },
         {
           "asset_identifier": "kccu-dc.cert.fec-dc.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "kcsbank-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "kearneytrust-p2.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -258594,6 +259110,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "keysavingsbank-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "keysavingsbank.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -258616,6 +259143,28 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "keystonesavings-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "keystonesavings.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "kfc.gift.solutions",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -258628,6 +259177,17 @@
         },
         {
           "asset_identifier": "kfc.wgiftcard.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "kingstonnationalbank-p2.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -258935,6 +259495,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "ladysmithfederal-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "ladysmithfederal.originate.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -259035,6 +259606,17 @@
         },
         {
           "asset_identifier": "lakeviewfcu.originate.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "lamesanb-p2.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -259211,6 +259793,28 @@
         },
         {
           "asset_identifier": "latam.3ds.firstdata.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "lauderdalecountybank-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "lauderdalecountybank.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -259485,6 +260089,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "libertybanknj-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "libertybanknj.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -259694,6 +260309,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "locusimpact-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "loganmedicalfcu-dc.cert.fec-dc.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -259892,6 +260518,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "loyaltrustbank-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "loyaltrustbank.originate.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -259936,6 +260573,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "lsbhank-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "lsfcu-admin.originate.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -259970,6 +260618,17 @@
         },
         {
           "asset_identifier": "lusitaniabank-admin.originate.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "lusitaniabank-p2.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -260189,6 +260848,61 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "makeitmcb.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "maketiccb-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "malvern-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "malvernbank-p2.olbanking.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "malvernbank-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "man.auth.govone.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -260288,6 +261002,39 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "manasquan-c2.configure-cert.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "manasquan-c2.configure-digital-cert.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "manasquan-c2.configure-digital.cert.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "manasquan-p2.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -260300,6 +261047,17 @@
         },
         {
           "asset_identifier": "manasquan.configure-cert.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "manasquan.configure-digital-cert.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -260563,6 +261321,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "mcbank-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "mcbanktx.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -260696,6 +261465,17 @@
         },
         {
           "asset_identifier": "mcsbank.originate.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "mct-p2.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -261190,6 +261970,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "meritbank-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "methodbank-p2.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -261410,6 +262201,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "micsb-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "micsb.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -261476,6 +262278,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "midcountrybank-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "middlefield.caaweb.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -261521,6 +262334,17 @@
         },
         {
           "asset_identifier": "midpenn.olbanking.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "midpennbank-p2.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -261631,6 +262455,17 @@
         },
         {
           "asset_identifier": "milbnk-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "milbnk.onlinebank.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -301479,6 +302314,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "partsdataproductapi-ext.deere.com",
+          "asset_type": "URL",
+          "availability_requirement": "medium",
+          "confidentiality_requirement": "medium",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "medium",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "partsdesk.deere.com",
           "asset_type": "URL",
           "availability_requirement": "medium",
@@ -325571,7 +326417,7 @@
     "name": "Mars",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 85,
+    "response_efficiency_percentage": 83,
     "submission_state": "open",
     "url": "https://hackerone.com/mars",
     "website": "http://mars.com",
@@ -423574,7 +424420,7 @@
     "name": "Doppler",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 87,
+    "response_efficiency_percentage": 86,
     "submission_state": "open",
     "url": "https://hackerone.com/doppler",
     "website": "https://www.doppler.com",
@@ -434076,7 +434922,7 @@
     "name": "Amazon Vulnerability Research Program",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 73,
+    "response_efficiency_percentage": 72,
     "submission_state": "open",
     "url": "https://hackerone.com/amazonvrp",
     "website": "https://www.amazon.com",
@@ -441055,7 +441901,7 @@
     "name": "MTN Group",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 75,
+    "response_efficiency_percentage": 76,
     "submission_state": "open",
     "url": "https://hackerone.com/mtn_group",
     "website": "https://www.mtn.com/",
@@ -454231,7 +455077,7 @@
     "name": "Top Echelon Software",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 50,
+    "response_efficiency_percentage": 67,
     "submission_state": "open",
     "url": "https://hackerone.com/top_echelon_software",
     "website": "https://www.topechelon.com",
@@ -454963,7 +455809,7 @@
     "name": "Xiaomi",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 64,
+    "response_efficiency_percentage": 63,
     "submission_state": "open",
     "url": "https://hackerone.com/xiaomi",
     "website": "http://www.mi.com",
@@ -455917,7 +456763,7 @@
     "name": "Capital One",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 88,
+    "response_efficiency_percentage": 92,
     "submission_state": "open",
     "url": "https://hackerone.com/capital-one",
     "website": "https://capitalone.com",
@@ -459213,7 +460059,7 @@
     "name": "Credit Karma",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 76,
+    "response_efficiency_percentage": 78,
     "submission_state": "open",
     "url": "https://hackerone.com/creditkarma",
     "website": "https://creditkarma.com",
@@ -459760,6 +460606,17 @@
         },
         {
           "asset_identifier": "Tier 3",
+          "asset_type": "OTHER",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "Wonder",
           "asset_type": "OTHER",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -466503,7 +467360,7 @@
     "name": "PayPal",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 89,
+    "response_efficiency_percentage": 90,
     "submission_state": "open",
     "url": "https://hackerone.com/paypal",
     "website": "http://paypal.com/",
@@ -467140,7 +467997,7 @@
     "name": "Chaturbate",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 65,
+    "response_efficiency_percentage": 80,
     "submission_state": "open",
     "url": "https://hackerone.com/chaturbate",
     "website": "https://chaturbate.com",
@@ -468279,7 +469136,7 @@
     "name": "Ping Identity",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 65,
+    "response_efficiency_percentage": 64,
     "submission_state": "open",
     "url": "https://hackerone.com/pingidentity",
     "website": "https://www.pingidentity.com/",
@@ -474416,7 +475273,7 @@
     "name": "Sony",
     "offers_bounties": false,
     "offers_swag": true,
-    "response_efficiency_percentage": 91,
+    "response_efficiency_percentage": 92,
     "submission_state": "open",
     "url": "https://hackerone.com/sony",
     "website": "http://www.sony.com",
@@ -474456,11 +475313,11 @@
     "average_time_to_report_resolved": null,
     "handle": "malwarebytes",
     "id": 0,
-    "managed_program": false,
+    "managed_program": true,
     "name": "Malwarebytes",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 72,
+    "response_efficiency_percentage": 73,
     "submission_state": "open",
     "url": "https://hackerone.com/malwarebytes",
     "website": "https://www.malwarebytes.com",
@@ -475707,7 +476564,19 @@
           "max_severity": "critical"
         }
       ],
-      "out_of_scope": []
+      "out_of_scope": [
+        {
+          "asset_identifier": "https://github.com/bitwarden/passwordless-react-example",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": "not_defined",
+          "confidentiality_requirement": "not_defined",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": "not_defined",
+          "max_severity": "none"
+        }
+      ]
     }
   },
   {
@@ -484584,7 +485453,7 @@
     "name": "Wealthsimple",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 75,
+    "response_efficiency_percentage": 74,
     "submission_state": "open",
     "url": "https://hackerone.com/wealthsimple",
     "website": "https://www.wealthsimple.com",
@@ -491557,7 +492426,7 @@
     "name": "Uber",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 64,
+    "response_efficiency_percentage": 63,
     "submission_state": "open",
     "url": "https://hackerone.com/uber",
     "website": "https://www.uber.com",
@@ -492030,7 +492899,7 @@
     "name": "Informatica",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 92,
+    "response_efficiency_percentage": 91,
     "submission_state": "open",
     "url": "https://hackerone.com/informatica",
     "website": "https://www.informatica.com/",
@@ -492887,7 +493756,7 @@
     "name": "LinkedIn",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 63,
+    "response_efficiency_percentage": 62,
     "submission_state": "open",
     "url": "https://hackerone.com/linkedin",
     "website": "https://www.linkedin.com",
@@ -493676,7 +494545,7 @@
     "name": "X / xAI",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 75,
+    "response_efficiency_percentage": 74,
     "submission_state": "open",
     "url": "https://hackerone.com/x",
     "website": "https://x.com",
@@ -494841,7 +495710,7 @@
     "name": "Automattic",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 55,
+    "response_efficiency_percentage": 56,
     "submission_state": "open",
     "url": "https://hackerone.com/automattic",
     "website": "https://automattic.com",

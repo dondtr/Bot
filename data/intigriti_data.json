@@ -12413,73 +12413,6 @@
     }
   },
   {
-    "id": "5ed6962a-7017-4d60-8805-e169b638528d",
-    "name": "Sqills",
-    "company_handle": "sqills",
-    "handle": "sqillscorporatewebsite",
-    "url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
-    "status": "open",
-    "confidentiality_level": "public",
-    "tacRequired": false,
-    "twoFactorRequired": false,
-    "min_bounty": {
-      "value": 0,
-      "currency": "EUR"
-    },
-    "max_bounty": {
-      "value": 2500,
-      "currency": "EUR"
-    },
-    "targets": {
-      "in_scope": [
-        {
-          "type": "wildcard",
-          "endpoint": "*.sqills.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.sqills.team",
-          "description": null,
-          "impact": "Tier 3"
-        }
-      ],
-      "out_of_scope": [
-        {
-          "type": "wildcard",
-          "endpoint": "*.red.sqills.team",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "booking.*.cloud.sqills.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "booking.*.sqills.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "careers.sqills.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "welcome.sqills.com",
-          "description": null,
-          "impact": "Out of scope"
-        }
-      ]
-    }
-  },
-  {
     "id": "5111e2de-2d04-4ec8-9f24-c0b76cbfd38e",
     "name": "Storebrand Responsible Disclosure",
     "company_handle": "spp-storebrand",
@@ -13123,127 +13056,6 @@
     }
   },
   {
-    "id": "025558a4-e74e-41eb-9bf6-a01dbe8e5a7a",
-    "name": "The Coca-Cola Company Vulnerability Disclosure Program",
-    "company_handle": "tccc",
-    "handle": "coca-cola",
-    "url": "https://www.intigriti.com/programs/tccc/coca-cola/detail",
-    "status": "open",
-    "confidentiality_level": "public",
-    "tacRequired": false,
-    "twoFactorRequired": false,
-    "min_bounty": {
-      "value": 0,
-      "currency": "USD"
-    },
-    "max_bounty": {
-      "value": 0,
-      "currency": "USD"
-    },
-    "targets": {
-      "in_scope": [
-        {
-          "type": "other",
-          "endpoint": "Brand Sites",
-          "description": "Brand sites owned by The Coca-Cola Company. These brands can be viewed from the following URL: https://www.coca-colacompany.com/brands",
-          "impact": "No Bounty"
-        },
-        {
-          "type": "url",
-          "endpoint": "Corporate Sites",
-          "description": "*.us.coca-cola.com\n*.coca-cola.com\n*.ko.com\n*.testko.com\n*.coca-colacompany.com\n*.coke.com\n*.cokeurl.com\n*.tccc-aem.com",
-          "impact": "No Bounty"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.fairlife.com",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.fofbrands.com",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.goodcow.com",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "other",
-          "endpoint": "Hindustan Coca-Cola Beverages",
-          "description": "Since our establishment on 14th February 1997 in Bengaluru, Karnataka, Hindustan Coca-Cola Beverages (HCCB) has been on a mission to refresh the nation. Having flourished into one of the Top 5 leading beverage companies in India, all our operations are geared towards creating nothing but the best. We specialize in manufacturing, packaging and distributing a vast range of beverages from The Coca-Cola Company portfolio nationwide. But at the same time, we are more than just a leading beverage company in India, we are a company that is profoundly about the impact we make on our people and planet. \n\n**Domains**\n*.hccb.in\n*.hccbpl.in",
-          "impact": "No Bounty"
-        },
-        {
-          "type": "other",
-          "endpoint": "Mobile Applications",
-          "description": "[CokeOn iOS App](https://apps.apple.com/jp/app/coke-on/id1088184021?l=en-US)\n\n[CokeOn Android App](https://play.google.com/store/apps/details?id=com.coke.cokeon&hl=en_US&pli=1)\n\n[CokePLAY](https://cokeplay.cocacola.co.kr/main)\n\n[Coca-Cola iOS App](https://apps.apple.com/us/app/one-by-the-coca-cola-company/id1310675636)\n\n[Coca-Cola Android App](https://play.google.com/store/apps/details?id=com.cocacola.app.cee&pli=1)\n\n[Costa Coffee iOS App](https://itunes.apple.com/app/id578627826)\n\n[Costa Coffee Android App](https://play.google.com/store/apps/details?id=uk.co.club.costa.costa)\n\n[Costa Coffee Club Poland iOS App](https://itunes.apple.com/app/id1435140959)\n\n[Costa Coffee Club Poland Android App](https://play.google.com/store/apps/details?id=pl.costacoffee.club)",
-          "impact": "No Bounty"
-        },
-        {
-          "type": "other",
-          "endpoint": "Publicly Facing Assets Related to The Coca-Cola Company",
-          "description": "Researchers are welcome to submit reports on any publicly facing asset(s) attributed to The Coca-Cola Company.",
-          "impact": "No Bounty"
-        }
-      ],
-      "out_of_scope": [
-        {
-          "type": "other",
-          "endpoint": "Food and Beverage Dispensing Devices",
-          "description": "Due to the unique nature of these devices (usually present on networks operated by 3rd parties), we do not authorize testing against them.\n\n* Coca-Cola Freestyle Machines\n* Dasani Purefill Water Dispensers\n* Intelligent Vending Machines\n* Connected Coolers",
-          "impact": "Out of scope"
-        },
-        {
-          "type": "other",
-          "endpoint": "Coke One North America (CONA)",
-          "description": "Any application or asset owned by Coke One North America (CONA)",
-          "impact": "Out of scope"
-        },
-        {
-          "type": "other",
-          "endpoint": "Assets Related to China",
-          "description": "All assets located in or related to China are out of scope and reports will not be accepted.",
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "limonsoda.cl",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.ccnag.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.connect.coca-cola.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.crewconnect.coca-cola.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "other",
-          "endpoint": "All Coke Stores",
-          "description": "Applications or assets related to any Coke Stores.",
-          "impact": "Out of scope"
-        }
-      ]
-    }
-  },
-  {
     "id": "b1be2cd1-cb7c-4456-86f4-8e541955a51a",
     "name": "The Perfume Shop",
     "company_handle": "aswatson",
@@ -13755,6 +13567,307 @@
           "type": "url",
           "endpoint": "actie.trouw.nl",
           "description": "SaaS platform - Report at https://qualifio.com/.well-known/security.txt",
+          "impact": "Out of scope"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ed04d1ef-1aa3-49dd-92f1-06f50f9756b9",
+    "name": "TrueLayer",
+    "company_handle": "truelayer",
+    "handle": "truelayer",
+    "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "tacRequired": false,
+    "twoFactorRequired": false,
+    "min_bounty": {
+      "value": 75,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 6000,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "api.truelayer[-sandbox].com",
+          "description": "The majority of our API endpoints live here",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "api.mtls.truelayer[-sandbox].com",
+          "description": "The same API as `api.truelayer[-sandbox].com` but with mutual TLS setup",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "auth.truelayer[-sandbox].com",
+          "description": "Our service for getting OAuth access tokens to access our APIs",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "auth.mtls.truelayer[-sandbox].com",
+          "description": "The same service as `auth.truelayer[-sandbox].com` but with mutual TLS setup",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "app.truelayer[-sandbox].com",
+          "description": "Hosted Payments Page v2",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "login-api.truelayer[-sandbox].com",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "login.truelayer[-sandbox].com",
+          "description": "Where you can connect your bank account and use Open Banking to pull data such as transactions",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "onboarding-api.truelayer.com",
+          "description": "Used in the developer console",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "pay-api.truelayer[-sandbox].com",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "pay.truelayer[-sandbox].com",
+          "description": "Some of our older payment API endpoints live here rather than on api.truelayer.com",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "paydirect.truelayer[-sandbox].com",
+          "description": "Some of our older payment API endpoints live here rather than on api.truelayer.com",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "payment.truelayer[-sandbox].com",
+          "description": "Our hosted payments page for merchants that want us to manage the UI screens for making payments",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "payments-experience-api.truelayer[-sandbox].com",
+          "description": "Hosted Payments Page dependency (e.g. for handoff)",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "user-authentication-api.truelayer[-sandbox].com",
+          "description": "Remember Me functionality for payments. See https://truelayer.com/legal/enduser_tos/#save-my-details-remember-me",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "users-api.truelayer.com",
+          "description": "Internal service for managing users",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "other",
+          "endpoint": "C# SDK",
+          "description": "https://github.com/TrueLayer/truelayer-dotnet",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "console-backend.truelayer[-sandbox].com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "console.truelayer[-sandbox].com",
+          "description": "Our developer console where you can login, create applications, manage your OAuth client ID/secret, upload public keys for request signing, view transactions",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "sftp.reports.truelayer.com",
+          "description": "SFTP reporting functionality in the Console. See https://docs.truelayer.com/docs/sftp-in-console",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "other",
+          "endpoint": "Java SDK",
+          "description": "https://github.com/TrueLayer/truelayer-java",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "other",
+          "endpoint": "PHP SDK",
+          "description": "https://github.com/TrueLayer/truelayer-php",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "other",
+          "endpoint": "TrueLayer for Magento (Magento plugin)",
+          "description": "https://github.com/TrueLayer/magento2",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "shopify-admin.truelayer.com",
+          "description": "Shopify Plugin backend admin page. See https://docs.truelayer.com/docs/shopify",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "shop-pay-app-api.truelayer.com",
+          "description": "Shopify Plugin backend API. See https://docs.truelayer.com/docs/shopify",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "other",
+          "endpoint": "truelayer-signing",
+          "description": "https://github.com/TrueLayer/truelayer-signing is our open source library for generating signed requests for calling TrueLayer APIs. Many languages are supported including Rust, C#, NodeJS, Go, Java and PHP.",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "webhooks.truelayer[-sandbox].com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.truelayer.cloud",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.truelayer.com",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.truelayer.io",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "other",
+          "endpoint": "iOS SDK",
+          "description": "https://github.com/TrueLayer/TrueLayer-iOS-SDK",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "other",
+          "endpoint": "React Native SDK",
+          "description": "https://github.com/TrueLayer/truelayer-react-native-sdk",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "other",
+          "endpoint": "Web SDK",
+          "description": "https://www.npmjs.com/package/truelayer-web-sdk\n\nA lightweight web SDK for integrating Truelayer's payment services into your web application.",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "other",
+          "endpoint": "Rust SDK",
+          "description": "https://github.com/TrueLayer/truelayer-rust\n\nCurrently we are not paying bounties for this asset as it's still in alpha.",
+          "impact": "No Bounty"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "url",
+          "endpoint": "trust.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "other",
+          "endpoint": "TrueLayer for WooCommerce (WordPress plugin)",
+          "description": "https://wordpress.org/plugins/truelayer-for-woocommerce/ is our WordPress plugin allowing you to use TrueLayer as a checkout option in your WooCommerce store. The source code is also [available on GitHub](https://github.com/TrueLayer/truelayer-woocommerce).",
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "banks.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "careers.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "docs.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "docs.houston.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "https://truelayer.com/contact/",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "index.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "info.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "signin.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "support.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "status.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "truelayer.zendesk.com",
+          "description": null,
           "impact": "Out of scope"
         }
       ]
