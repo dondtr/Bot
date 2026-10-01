@@ -272,137 +272,137 @@
       "in_scope": [
         {
           "type": "ios",
-          "target": "https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588",
-          "uri": "https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588",
-          "name": "Afterpay iOS App",
+          "target": "████████████████",
+          "uri": null,
+          "name": "████████████████",
           "ipAddress": null
         },
         {
           "type": "android",
-          "target": "https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US",
-          "uri": "https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US",
-          "name": "Afterpay Android App",
+          "target": "████████████████████",
+          "uri": null,
+          "name": "████████████████████",
           "ipAddress": null
         },
         {
           "type": "website",
-          "target": "https://portal.afterpay.com",
-          "uri": "https://portal.afterpay.com",
-          "name": "portal.afterpay.com",
+          "target": "███████████████████",
+          "uri": null,
+          "name": "███████████████████",
           "ipAddress": null
         },
         {
           "type": "website",
-          "target": "https://afterpay.com",
-          "uri": "https://afterpay.com",
-          "name": "*.afterpay.com",
+          "target": "██████████████",
+          "uri": null,
+          "name": "██████████████",
           "ipAddress": null
         },
         {
           "type": "api",
-          "target": "https://mobileapi.afterpay.com",
-          "uri": "https://mobileapi.afterpay.com",
-          "name": "mobileapi.afterpay.com",
+          "target": "██████████████████████",
+          "uri": null,
+          "name": "██████████████████████",
           "ipAddress": null
         },
         {
           "type": "api",
-          "target": "https://portalapi.us.afterpay.com",
-          "uri": "https://portalapi.us.afterpay.com",
-          "name": "portalapi.*.afterpay.com",
+          "target": "████████████████████████",
+          "uri": null,
+          "name": "████████████████████████",
           "ipAddress": null
         },
         {
           "type": "website",
-          "target": "https://developers.afterpay.com",
-          "uri": "https://developers.afterpay.com",
-          "name": "developers.afterpay.com",
+          "target": "███████████████████████",
+          "uri": null,
+          "name": "███████████████████████",
           "ipAddress": null
         },
         {
           "type": "ios",
-          "target": "https://apps.apple.com/gb/app/clearpay-buy-now-pay-later/id1474022186",
-          "uri": "https://apps.apple.com/gb/app/clearpay-buy-now-pay-later/id1474022186",
-          "name": "Clearpay iOS App",
+          "target": "████████████████",
+          "uri": null,
+          "name": "████████████████",
           "ipAddress": null
         },
         {
           "type": "android",
-          "target": "https://play.google.com/store/apps/details?id=com.afterpaymobile.uk",
-          "uri": "https://play.google.com/store/apps/details?id=com.afterpaymobile.uk",
-          "name": "Clearpay Android App",
+          "target": "████████████████████",
+          "uri": null,
+          "name": "████████████████████",
           "ipAddress": null
         },
         {
           "type": "website",
-          "target": "https://clearpay.co.uk",
-          "uri": "https://clearpay.co.uk",
-          "name": "clearpay.co.uk",
+          "target": "██████████████",
+          "uri": null,
+          "name": "██████████████",
           "ipAddress": null
         },
         {
           "type": "website",
-          "target": "https://clearpay.com",
-          "uri": "https://clearpay.com",
-          "name": "clearpay.com",
+          "target": "████████████",
+          "uri": null,
+          "name": "████████████",
           "ipAddress": null
         },
         {
           "type": "website",
-          "target": "https://portal.clearpay.com",
-          "uri": "https://portal.clearpay.com",
-          "name": "portal.clearpay.com",
+          "target": "███████████████████",
+          "uri": null,
+          "name": "███████████████████",
           "ipAddress": null
         },
         {
           "type": "website",
-          "target": "https://portal.clearpay.co.uk",
-          "uri": "https://portal.clearpay.co.uk",
-          "name": "portal.clearpay.co.uk",
+          "target": "█████████████████████",
+          "uri": null,
+          "name": "█████████████████████",
           "ipAddress": null
         },
         {
           "type": "api",
-          "target": "https://mobileapi.clearpay.com",
-          "uri": "https://mobileapi.clearpay.com",
-          "name": "mobileapi.clearpay.com",
+          "target": "██████████████████████",
+          "uri": null,
+          "name": "██████████████████████",
           "ipAddress": null
         },
         {
           "type": "api",
-          "target": "https://portalapi.eu.clearpay.co.uk",
-          "uri": "https://portalapi.eu.clearpay.co.uk",
-          "name": "portalapi.eu.clearpay.co.uk",
+          "target": "███████████████████████████",
+          "uri": null,
+          "name": "███████████████████████████",
           "ipAddress": null
         },
         {
           "type": "api",
-          "target": "https://api.clearpay.com",
-          "uri": "https://api.clearpay.com",
-          "name": "api.clearpay.com",
+          "target": "████████████████",
+          "uri": null,
+          "name": "████████████████",
           "ipAddress": null
         }
       ],
       "out_of_scope": [
         {
           "type": "website",
-          "target": "https://afterpaytechblog.com",
-          "uri": "https://afterpaytechblog.com",
-          "name": "afterpaytechblog.com",
+          "target": "████████████████████",
+          "uri": null,
+          "name": "████████████████████",
           "ipAddress": null
         },
         {
           "type": "website",
-          "target": "https://genderfree.afterpay.com",
-          "uri": "https://genderfree.afterpay.com",
-          "name": "genderfree.afterpay.com",
+          "target": "███████████████████████",
+          "uri": null,
+          "name": "███████████████████████",
           "ipAddress": null
         },
         {
           "type": "website",
-          "target": "https://www.moneybyafterpay.com/",
-          "uri": "https://www.moneybyafterpay.com/",
-          "name": "moneybyafterpay.com",
+          "target": "███████████████████",
+          "uri": null,
+          "name": "███████████████████",
           "ipAddress": null
         }
       ]
@@ -990,6 +990,187 @@
           "ipAddress": ""
         }
       ]
+    }
+  },
+  {
+    "name": "AI | Apps+ Marketplace Bug Bounty Program ",
+    "url": "https://bugcrowd.com/engagements/apps-plus2",
+    "allows_disclosure": false,
+    "managed_by_bugcrowd": true,
+    "safe_harbor": "full",
+    "max_payout": 1500,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227541/ai-badges-for-confluence?tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1227541/ai-badges-for-confluence?tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1227541/ai-badges-for-confluence?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227543/ai-grammar-for-confluence?tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1227543/ai-grammar-for-confluence?tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1227543/ai-grammar-for-confluence?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227544/ai-summary-for-confluence?tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1227544/ai-summary-for-confluence?tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1227544/ai-summary-for-confluence?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227545/ai-sentiment-for-confluence?tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1227545/ai-sentiment-for-confluence?tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1227545/ai-sentiment-for-confluence?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227546/ai-glossary-for-confluence?tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1227546/ai-glossary-for-confluence?tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1227546/ai-glossary-for-confluence?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227547/ai-tables-for-confluence?tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1227547/ai-tables-for-confluence?tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1227547/ai-tables-for-confluence?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227548/ai-polls-for-confluence?tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1227548/ai-polls-for-confluence?tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1227548/ai-polls-for-confluence?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227549/ai-tooltips-for-confluence?tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1227549/ai-tooltips-for-confluence?tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1227549/ai-tooltips-for-confluence?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227550/ai-tags-for-confluence?tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1227550/ai-tags-for-confluence?tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1227550/ai-tags-for-confluence?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227551/ai-tabs-for-confluence?tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1227551/ai-tabs-for-confluence?tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1227551/ai-tabs-for-confluence?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227552/ai-latex-for-confluence?tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1227552/ai-latex-for-confluence?tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1227552/ai-latex-for-confluence?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227553/ai-headings-for-confluence?tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1227553/ai-headings-for-confluence?tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1227553/ai-headings-for-confluence?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227554/ai-forms-for-confluence?tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1227554/ai-forms-for-confluence?tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1227554/ai-forms-for-confluence?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227555/ai-copywriter-for-confluence?tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1227555/ai-copywriter-for-confluence?tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1227555/ai-copywriter-for-confluence?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227556/ai-code-for-confluence?tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1227556/ai-code-for-confluence?tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1227556/ai-code-for-confluence?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227557/ai-labels-for-confluence?tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1227557/ai-labels-for-confluence?tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1227557/ai-labels-for-confluence?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227558/ai-macros-for-confluence?tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1227558/ai-macros-for-confluence?tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1227558/ai-macros-for-confluence?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227559/ai-checklists-for-confluence?tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1227559/ai-checklists-for-confluence?tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1227559/ai-checklists-for-confluence?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227560/ai-buttons-for-confluence?tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1227560/ai-buttons-for-confluence?tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1227560/ai-buttons-for-confluence?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227561/ai-images-for-confluence?tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1227561/ai-images-for-confluence?tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1227561/ai-images-for-confluence?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1229018/ai-photos-for-confluence?tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1229018/ai-photos-for-confluence?tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1229018/ai-photos-for-confluence?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1232262/ai-support-for-jira?hosting=cloud",
+          "uri": "https://marketplace.atlassian.com/apps/1232262/ai-support-for-jira?hosting=cloud",
+          "name": "https://marketplace.atlassian.com/apps/1232262/ai-support-for-jira?hosting=cloud",
+          "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1235733/ai-autofill-for-jira?hosting=cloud",
+          "uri": "https://marketplace.atlassian.com/apps/1235733/ai-autofill-for-jira?hosting=cloud",
+          "name": "https://marketplace.atlassian.com/apps/1235733/ai-autofill-for-jira?hosting=cloud",
+          "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1237726/ai-charts-for-confluence?hosting=cloud",
+          "uri": "https://marketplace.atlassian.com/apps/1237726/ai-charts-for-confluence?hosting=cloud",
+          "name": "https://marketplace.atlassian.com/apps/1237726/ai-charts-for-confluence?hosting=cloud",
+          "ipAddress": ""
+        }
+      ],
+      "out_of_scope": []
     }
   },
   {
@@ -4348,51 +4529,51 @@
       "in_scope": [
         {
           "type": "other",
-          "target": "https://github.com/afterpay/sdk-ios",
-          "uri": "https://github.com/afterpay/sdk-ios",
-          "name": "https://github.com/afterpay/sdk-ios",
+          "target": "███████████████████████████████████",
+          "uri": null,
+          "name": "███████████████████████████████████",
           "ipAddress": ""
         },
         {
           "type": "other",
-          "target": "https://github.com/afterpay/sdk-android",
-          "uri": "https://github.com/afterpay/sdk-android",
-          "name": "https://github.com/afterpay/sdk-android",
+          "target": "███████████████████████████████████████",
+          "uri": null,
+          "name": "███████████████████████████████████████",
           "ipAddress": ""
         },
         {
           "type": "other",
-          "target": "https://github.com/cashapp/cash-app-pay-ios-sdk",
-          "uri": "https://github.com/cashapp/cash-app-pay-ios-sdk",
-          "name": "https://github.com/cashapp/cash-app-pay-ios-sdk",
+          "target": "███████████████████████████████████████████████",
+          "uri": null,
+          "name": "███████████████████████████████████████████████",
           "ipAddress": ""
         },
         {
           "type": "other",
-          "target": "https://github.com/cashapp/cash-app-pay-android-sdk",
-          "uri": "https://github.com/cashapp/cash-app-pay-android-sdk",
-          "name": "https://github.com/cashapp/cash-app-pay-android-sdk",
+          "target": "███████████████████████████████████████████████████",
+          "uri": null,
+          "name": "███████████████████████████████████████████████████",
           "ipAddress": ""
         },
         {
           "type": "other",
-          "target": "https://github.com/cashapp/hermit",
-          "uri": "https://github.com/cashapp/hermit",
-          "name": "https://github.com/cashapp/hermit",
+          "target": "█████████████████████████████████",
+          "uri": null,
+          "name": "█████████████████████████████████",
           "ipAddress": ""
         },
         {
           "type": "other",
-          "target": "https://github.com/cashapp/misk",
-          "uri": "https://github.com/cashapp/misk",
-          "name": "https://github.com/cashapp/misk",
+          "target": "███████████████████████████████",
+          "uri": null,
+          "name": "███████████████████████████████",
           "ipAddress": ""
         },
         {
           "type": "other",
-          "target": "https://github.com/square/wire",
-          "uri": "https://github.com/square/wire",
-          "name": "https://github.com/square/wire",
+          "target": "██████████████████████████████",
+          "uri": null,
+          "name": "██████████████████████████████",
           "ipAddress": null
         }
       ],
@@ -4456,6 +4637,138 @@
           "uri": "https://play.google.com/store/apps/details?id=com.blofin.wallet.wallet",
           "name": "https://play.google.com/store/apps/details?id=com.blofin.wallet.wallet",
           "ipAddress": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "Bloompeak's Bug Bounty",
+    "url": "https://bugcrowd.com/engagements/bloompeak",
+    "allows_disclosure": false,
+    "managed_by_bugcrowd": true,
+    "safe_harbor": "full",
+    "max_payout": 1500,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1226236/easy-reports-custom-charts-for-jira-dashboard-confluence?hosting=cloud&tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1226236/easy-reports-custom-charts-for-jira-dashboard-confluence?hosting=cloud&tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1226236/reports-charts-graphs-for-jira?tab=overview&hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1226236/easy-reports-custom-charts-for-jira-dashboard-confluence?hosting=datacenter&tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1226236/easy-reports-custom-charts-for-jira-dashboard-confluence?hosting=datacenter&tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1226236/reports-charts-and-graphs-for-jira?hosting=datacenter&tab=overview",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1226734/easy-reports-free-custom-charts-for-jira-dashboard?hosting=cloud&tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1226734/easy-reports-free-custom-charts-for-jira-dashboard?hosting=cloud&tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1226734/reports-charts-and-graphs-for-jira-dashboard-free?hosting=cloud&tab=overview",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1226734/easy-reports-free-custom-charts-for-jira-dashboard?hosting=datacenter&tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1226734/easy-reports-free-custom-charts-for-jira-dashboard?hosting=datacenter&tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1226734/reports-charts-and-graphs-for-jira-dashboard-free?hosting=datacenter&tab=overview",
+          "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1221826/status-time?hosting=cloud&tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1221826/status-time?hosting=cloud&tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1221826/status-time?hosting=cloud&tab=overview",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1221826/status-time-reports-time-in-status?hosting=datacenter&tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1221826/status-time-reports-time-in-status?hosting=datacenter&tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1221826/status-time-reports?hosting=datacenter&tab=overview",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1222051/status-time-reports-free-time-in-status?hosting=cloud&tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1222051/status-time-reports-free-time-in-status?hosting=cloud&tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1222051/status-time-free?tab=overview&hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1222051/status-time-free?hosting=datacenter&tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1222051/status-time-free?hosting=datacenter&tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1222051/status-time-free?hosting=datacenter&tab=overview",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1231321/sum-up-reports-for-jira?hosting=cloud&tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1231321/sum-up-reports-for-jira?hosting=cloud&tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1231321/sum-up-reports-for-jira?hosting=cloud&tab=overview",
+          "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1231321/sum-up-reports-for-jira?hosting=datacenter&tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1231321/sum-up-reports-for-jira?hosting=datacenter&tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1231321/sum-up-reports-for-jira?hosting=datacenter&tab=overview",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1222833/restore-deleted-issues?hosting=cloud&tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1222833/restore-deleted-issues?hosting=cloud&tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1222833/restore-deleted-issues?hosting=cloud&tab=overview",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1223002/track-deleted-issues?hosting=cloud&tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1223002/track-deleted-issues?hosting=cloud&tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1223002/track-deleted-issues?hosting=cloud&tab=overview",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1224572/issue-translator?hosting=cloud&tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1224572/issue-translator?hosting=cloud&tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1224572/issue-translator?hosting=cloud&tab=overview",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1226140/issue-translator-free?hosting=cloud&tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1226140/issue-translator-free?hosting=cloud&tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1226140/issue-translator-free?hosting=cloud&tab=overview",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/2529437344/sprint-capacity-planner-for-jira?hosting=cloud&tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/2529437344/sprint-capacity-planner-for-jira?hosting=cloud&tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/2529437344/sprint-capacity-planner-for-jira?hosting=cloud&tab=overview",
+          "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1224410/manage-users-for-jira-cloud?hosting=cloud",
+          "uri": "https://marketplace.atlassian.com/apps/1224410/manage-users-for-jira-cloud?hosting=cloud",
+          "name": "https://marketplace.atlassian.com/apps/1224410/manage-users-for-jira-cloud?hosting=cloud",
+          "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1223088/project-roles-groups-and-users?hosting=cloud&tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1223088/project-roles-groups-and-users?hosting=cloud&tab=overview",
+          "name": "https://marketplace.atlassian.com/apps/1223088/project-role-tab-for-jira-cloud?hosting=cloud&tab=overview",
+          "ipAddress": null
         }
       ],
       "out_of_scope": []
@@ -5354,30 +5667,30 @@
       "in_scope": [
         {
           "type": "ios",
-          "target": "https://itunes.apple.com/us/app/cash-app/id711923939?mt=8",
-          "uri": "https://itunes.apple.com/us/app/cash-app/id711923939?mt=8",
-          "name": "Cash App Mobile Application for iOS",
+          "target": "███████████████████████████████████",
+          "uri": null,
+          "name": "███████████████████████████████████",
           "ipAddress": null
         },
         {
           "type": "android",
-          "target": "https://play.google.com/store/apps/details?id=com.squareup.cash",
-          "uri": "https://play.google.com/store/apps/details?id=com.squareup.cash",
-          "name": "Cash App Mobile Application for Android",
+          "target": "███████████████████████████████████████",
+          "uri": null,
+          "name": "███████████████████████████████████████",
           "ipAddress": null
         },
         {
           "type": "website",
-          "target": "https://cash.app",
-          "uri": "https://cash.app",
-          "name": "*.cash.app",
+          "target": "██████████",
+          "uri": null,
+          "name": "██████████",
           "ipAddress": null
         },
         {
           "type": "website",
-          "target": "*.cashstaging.app",
-          "uri": "",
-          "name": "*.cashstaging.app",
+          "target": "█████████████████",
+          "uri": null,
+          "name": "█████████████████",
           "ipAddress": null
         }
       ],
@@ -15192,6 +15505,47 @@
           "ipAddress": ""
         }
       ]
+    }
+  },
+  {
+    "name": "Meetical",
+    "url": "https://bugcrowd.com/engagements/meetical",
+    "allows_disclosure": false,
+    "managed_by_bugcrowd": true,
+    "safe_harbor": "full",
+    "max_payout": 1500,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1222405/meetical-for-confluence-cloud",
+          "uri": "https://marketplace.atlassian.com/apps/1222405/meetical-for-confluence-cloud",
+          "name": "Meetical for Confluence Cloud - https://marketplace.atlassian.com/apps/1222405/meetical-for-confluence-cloud?hosting=cloud",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "For reporting purposes only. Use staging environment listed in brief.",
+          "uri": "",
+          "name": "For reporting purposes only. Use staging environment listed in brief.",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "For reporting purposes only. Use staging environment listed in brief. ",
+          "uri": "",
+          "name": "For reporting purposes only. Use staging environment listed in brief. ",
+          "ipAddress": null
+        },
+        {
+          "type": "other",
+          "target": "https://marketplace.atlassian.com/apps/1229489/easy-calendar-integration-for-jira-sync-issues-ics-export?hosting=cloud&tab=overview",
+          "uri": "https://marketplace.atlassian.com/apps/1229489/easy-calendar-integration-for-jira-sync-issues-ics-export?hosting=cloud&tab=overview",
+          "name": "Easy Calendar for Jira (Forge App) - https://marketplace.atlassian.com/apps/1229489/easy-calendar-integration-for-jira-sync-issues-ics-export?hosting=cloud",
+          "ipAddress": ""
+        }
+      ],
+      "out_of_scope": []
     }
   },
   {
@@ -26758,123 +27112,123 @@
       "in_scope": [
         {
           "type": "website",
-          "target": "https://squareup.com/",
-          "uri": "https://squareup.com/",
-          "name": "*.square.com",
+          "target": "████████████",
+          "uri": null,
+          "name": "████████████",
           "ipAddress": null
         },
         {
           "type": "website",
-          "target": "https://squareup.com/",
-          "uri": "https://squareup.com/",
-          "name": "*.squareup.com",
+          "target": "██████████████",
+          "uri": null,
+          "name": "██████████████",
           "ipAddress": null
         },
         {
           "type": "website",
-          "target": "https://square.online",
-          "uri": "https://square.online",
-          "name": "square.online",
+          "target": "█████████████",
+          "uri": null,
+          "name": "█████████████",
           "ipAddress": ""
         },
         {
           "type": "android",
-          "target": "https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US",
-          "uri": "https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US",
-          "name": "Square Point of Sale Mobile Application for Android",
+          "target": "███████████████████████████████████████████████████",
+          "uri": null,
+          "name": "███████████████████████████████████████████████████",
           "ipAddress": null
         },
         {
           "type": "ios",
-          "target": "https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788",
-          "uri": "https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788",
-          "name": "Square Point of Sale Mobile Application for iOS",
+          "target": "███████████████████████████████████████████████",
+          "uri": null,
+          "name": "███████████████████████████████████████████████",
           "ipAddress": null
         },
         {
           "type": "hardware",
-          "target": "Square Register",
-          "uri": "",
-          "name": "Square Register",
+          "target": "███████████████",
+          "uri": null,
+          "name": "███████████████",
           "ipAddress": ""
         },
         {
           "type": "hardware",
-          "target": "Square Terminal",
-          "uri": "",
-          "name": "Square Terminal",
+          "target": "███████████████",
+          "uri": null,
+          "name": "███████████████",
           "ipAddress": ""
         },
         {
           "type": "website",
-          "target": "https://www.weebly.com/",
-          "uri": "https://www.weebly.com/",
-          "name": "weebly.com",
+          "target": "██████████",
+          "uri": null,
+          "name": "██████████",
           "ipAddress": null
         }
       ],
       "out_of_scope": [
         {
           "type": "website",
-          "target": "https://afterpay.com",
-          "uri": "https://afterpay.com",
-          "name": "*.afterpay.com",
+          "target": "██████████████",
+          "uri": null,
+          "name": "██████████████",
           "ipAddress": null
         },
         {
           "type": "website",
-          "target": "https://cash.me",
-          "uri": "https://cash.me",
-          "name": "*.cash.me",
+          "target": "█████████",
+          "uri": null,
+          "name": "█████████",
           "ipAddress": null
         },
         {
           "type": "website",
-          "target": "https://designers.weebly.com/",
-          "uri": "https://designers.weebly.com/",
-          "name": "designers.weebly.com",
+          "target": "████████████████████",
+          "uri": null,
+          "name": "████████████████████",
           "ipAddress": ""
         },
         {
           "type": "website",
-          "target": "https://tidal.com/",
-          "uri": "https://tidal.com/",
-          "name": "*.tidal.com",
+          "target": "███████████",
+          "uri": null,
+          "name": "███████████",
           "ipAddress": null
         },
         {
           "type": "other",
-          "target": "https://app.squareupstaging.com/v1/ask-ai/copilot/spotlight/query",
-          "uri": "https://app.squareupstaging.com/v1/ask-ai/copilot/spotlight/query",
-          "name": "app.squareupstaging.com/v1/ask-ai/copilot/spotlight/query",
+          "target": "█████████████████████████████████████████████████████████",
+          "uri": null,
+          "name": "█████████████████████████████████████████████████████████",
           "ipAddress": ""
         },
         {
           "type": "other",
-          "target": "http://community.squareup.com",
-          "uri": "http://community.squareup.com",
-          "name": " community.squareup.com",
+          "target": "███████████████████████",
+          "uri": null,
+          "name": "███████████████████████",
           "ipAddress": ""
         },
         {
           "type": "android",
-          "target": "https://play.google.com/store/apps/details?id=com.squareup.cash",
-          "uri": "https://play.google.com/store/apps/details?id=com.squareup.cash",
-          "name": "Cash App Mobile Application for Android",
+          "target": "███████████████████████████████████████",
+          "uri": null,
+          "name": "███████████████████████████████████████",
           "ipAddress": null
         },
         {
           "type": "ios",
-          "target": "https://itunes.apple.com/us/app/cash-app/id711923939?mt=8",
-          "uri": "https://itunes.apple.com/us/app/cash-app/id711923939?mt=8",
-          "name": "Cash App Mobile Application for iOS",
+          "target": "███████████████████████████████████",
+          "uri": null,
+          "name": "███████████████████████████████████",
           "ipAddress": null
         },
         {
           "type": "website",
-          "target": "Any vulnerabilities found in Third-party software",
+          "target": "█████████████████████████████████████████████████",
           "uri": null,
-          "name": "Any vulnerabilities found in Third-party software",
+          "name": "█████████████████████████████████████████████████",
           "ipAddress": null
         }
       ]
@@ -28707,88 +29061,88 @@
       "in_scope": [
         {
           "type": "website",
-          "target": "https://tidal.com/",
-          "uri": "https://tidal.com/",
-          "name": "*.tidal.com",
+          "target": "███████████",
+          "uri": null,
+          "name": "███████████",
           "ipAddress": null
         },
         {
           "type": "website",
-          "target": "*.wimpmusic.com",
-          "uri": "",
-          "name": "*.wimpmusic.com",
+          "target": "███████████████",
+          "uri": null,
+          "name": "███████████████",
           "ipAddress": null
         },
         {
           "type": "website",
-          "target": "*.tidalhifi.com",
-          "uri": "",
-          "name": "*.tidalhifi.com",
+          "target": "███████████████",
+          "uri": null,
+          "name": "███████████████",
           "ipAddress": null
         },
         {
           "type": "api",
-          "target": "api.tidal.com",
-          "uri": "",
-          "name": "api.tidal.com",
+          "target": "█████████████",
+          "uri": null,
+          "name": "█████████████",
           "ipAddress": null
         },
         {
           "type": "website",
-          "target": "*tidalhi.fi",
-          "uri": "",
-          "name": "*tidalhi.fi",
+          "target": "███████████",
+          "uri": null,
+          "name": "███████████",
           "ipAddress": null
         },
         {
           "type": "website",
-          "target": "*.tdl.sh",
-          "uri": "",
-          "name": "*.tdl.sh",
+          "target": "████████",
+          "uri": null,
+          "name": "████████",
           "ipAddress": null
         },
         {
           "type": "ios",
-          "target": "Tidal Client for iOS",
-          "uri": "",
-          "name": "Tidal Client for iOS",
+          "target": "████████████████████",
+          "uri": null,
+          "name": "████████████████████",
           "ipAddress": null
         },
         {
           "type": "android",
-          "target": "Tidal Client for Android",
-          "uri": "",
-          "name": "Tidal Client for Android",
+          "target": "████████████████████████",
+          "uri": null,
+          "name": "████████████████████████",
           "ipAddress": null
         },
         {
           "type": "other",
-          "target": "https://offer.tidal.com/download",
-          "uri": "https://offer.tidal.com/download",
-          "name": "Tidal Desktop Client",
+          "target": "████████████████████",
+          "uri": null,
+          "name": "████████████████████",
           "ipAddress": null
         },
         {
           "type": "other",
-          "target": "Tidal Official Clients (e.g. Sonos integration, Tesla integration, etc.)",
-          "uri": "",
-          "name": "Tidal Official Clients (e.g. Sonos integration, Tesla integration, etc.)",
+          "target": "████████████████████████████████████████████████████████████████████████",
+          "uri": null,
+          "name": "████████████████████████████████████████████████████████████████████████",
           "ipAddress": null
         }
       ],
       "out_of_scope": [
         {
           "type": "other",
-          "target": "https://developer.tidal.com",
-          "uri": "https://developer.tidal.com",
-          "name": "developer.tidal.com",
+          "target": "███████████████████",
+          "uri": null,
+          "name": "███████████████████",
           "ipAddress": ""
         },
         {
           "type": "other",
-          "target": "https://embed.tidal.com",
-          "uri": "https://embed.tidal.com",
-          "name": "embed.tidal.com",
+          "target": "███████████████",
+          "uri": null,
+          "name": "███████████████",
           "ipAddress": ""
         }
       ]
