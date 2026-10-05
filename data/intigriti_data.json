@@ -328,7 +328,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "min_bounty": {
-      "value": 50,
+      "value": 0,
       "currency": "EUR"
     },
     "max_bounty": {
@@ -3191,199 +3191,6 @@
     }
   },
   {
-    "id": "bd22f48d-633e-4b26-bf71-e4778d41b247",
-    "name": "DataCamp",
-    "company_handle": "datacamp",
-    "handle": "datacamp",
-    "url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-    "status": "open",
-    "confidentiality_level": "public",
-    "tacRequired": false,
-    "twoFactorRequired": false,
-    "min_bounty": {
-      "value": 25,
-      "currency": "EUR"
-    },
-    "max_bounty": {
-      "value": 1500,
-      "currency": "EUR"
-    },
-    "targets": {
-      "in_scope": [
-        {
-          "type": "url",
-          "endpoint": "profiles-api.datacamp.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "app.datacamp.com/certification",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "app.datacamp.com/groups",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "app.datacamp.com/learn",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "assessment-api.datacamp.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "assessment-v2.datacamp.com ",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "assessment.datacamp.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "campus.datacamp.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "android",
-          "endpoint": "com.datacamp",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "ios",
-          "endpoint": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "practice.datacamp.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "projects.datacamp.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "www.datacamp.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "www.datacamp.com/datalab",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.datacamp.com",
-          "description": null,
-          "impact": "Tier 3"
-        }
-      ],
-      "out_of_scope": [
-        {
-          "type": "wildcard",
-          "endpoint": "*.it.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "app.datacamp.com/recruit",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "ast-viewer.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "confluence.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "dccertified.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "intranet.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "jira.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "links.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "rdocumentation.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "signature.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "status.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "support.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "talent-jobs-api.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        }
-      ]
-    }
-  },
-  {
     "id": "8bf1f259-cac9-4114-9b84-3b950897b1ec",
     "name": "De Morgen",
     "company_handle": "dpgm",
@@ -5479,21 +5286,51 @@
     "targets": {
       "in_scope": [
         {
-          "type": "wildcard",
-          "endpoint": "*.account.api.here.com",
+          "type": "url",
+          "endpoint": "registry.service.api.platform.here.com",
           "description": null,
           "impact": "Tier 2"
         },
         {
           "type": "wildcard",
-          "endpoint": "*.account.here.com",
+          "endpoint": "*.data.api.platform.here.com",
           "description": null,
           "impact": "Tier 2"
         },
         {
           "type": "wildcard",
-          "endpoint": "*.mobilitygraph.hereapi.com",
-          "description": "Including, but not limited to, following applications:\nhttps://predictor.mobilitygraph.hereapi.com/\nhttps://profile.mobilitygraph.hereapi.com/\nhttps://subscription.mobilitygraph.hereapi.com/\n",
+          "endpoint": "*.metrics.platform.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.platform.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "search.hereapi.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "transit.hereapi.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "vector.hereapi.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "mobilitygraph.hereapi.com",
+          "description": "Including, but not limited to, following applications:\nhttps://predictor.mobilitygraph.hereapi.com/\nhttps://profile.mobilitygraph.hereapi.com/\nhttps://subscription.mobilitygraph.hereapi.com/",
           "impact": "Tier 2"
         },
         {
@@ -5504,56 +5341,86 @@
         },
         {
           "type": "wildcard",
+          "endpoint": "*.subp-router.hereapi.com",
+          "description": "Including, but not limited to, following application:\nhttps://vip-als.subp-router.hereapi.com/",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.hereapi.com",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "url",
+          "endpoint": "account.api.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "account.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "listing.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "mapcreator.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "xyz.api.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
           "endpoint": "*.scbe.api.here.com",
           "description": null,
           "impact": "Tier 2"
         },
         {
           "type": "wildcard",
-          "endpoint": "*.subp-router.hereapi.com",
-          "description": "Including, but not limited to, following application:\nhttps://vip-als.subp-router.hereapi.com/\n",
-          "impact": "Tier 2"
+          "endpoint": "*.here.com",
+          "description": null,
+          "impact": "Tier 3"
         },
         {
           "type": "ios",
-          "endpoint": "955837609",
+          "endpoint": "HERE WeGo iOS",
           "description": null,
           "impact": "Tier 2"
         },
         {
           "type": "android",
-          "endpoint": "com.here.app.maps",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "https://jaguar.here.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "https://landrover.here.com",
+          "endpoint": "HERE WeGo Android",
           "description": null,
           "impact": "Tier 2"
         },
         {
           "type": "other",
-          "endpoint": "Leaked/compromised employee accounts *.here.com",
-          "description": "Any leaked/compromised employee accounts within the domain @here.com for any service in domains *.here.com (excluding unverified accounts on account.here.com) and here.okta.com, for example john.doe@here.com account for in.here.com. If you come across any such accounts, whether compromised due to malware infections, security breaches, or any other cause, please notify us. Depending on account setup and environment valid (belongs to HERE employee and active) and non-duplicate reports will be accepted with Low/Medium severity. Please make sure to provide as much information as you can on the source and the reason of account compromise, for example - date of compromise, hostname, stealer id, source you obtained info from.\n\nPlease use the CSV format for all credentials. For example:\n\n`username, password, service, source, date_of_leak`\n\nIf the exact `date_of_leak` is unknown, use \"unknown\" instead.\n\n",
+          "endpoint": "Leaked/Compromised Employee Credentials",
+          "description": null,
           "impact": "Tier 2"
         },
         {
-          "type": "wildcard",
-          "endpoint": "*.here.com",
-          "description": "This scope (*.here.com) is for Log4J and Spring4Shell RCE vulnerabilities only.",
-          "impact": "Tier 3"
+          "type": "other",
+          "endpoint": "Leaked Service Credentials",
+          "description": null,
+          "impact": "Tier 2"
         },
         {
-          "type": "wildcard",
-          "endpoint": "*.hereapi.com",
-          "description": "This scope (*.hereapi.com) is for Log4J and Spring4Shell RCE vulnerabilities only.",
+          "type": "other",
+          "endpoint": "All other related services owned by HERE",
+          "description": null,
           "impact": "Tier 3"
         }
       ],
@@ -9609,6 +9476,151 @@
     }
   },
   {
+    "id": "0fd1d85b-2d33-4966-b5a0-caabfda5108e",
+    "name": "Ninja Kiwi Games Bug Bounty program",
+    "company_handle": "ninjakiwigames",
+    "handle": "ninjakiwigames",
+    "url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "tacRequired": false,
+    "twoFactorRequired": false,
+    "min_bounty": {
+      "value": 75,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 4125,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "analytics.ninjakiwi.com",
+          "description": "This domain hosts the API that consumed analytics events from our game clients",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "api.ninjakiwi.com",
+          "description": "This domain hosts the API for our mobile and PC games. Monitoring traffic through one of our game clients is the easiest method to investigate our main API. Most of our applications are available for free on [Steam](https://store.steampowered.com/developer/ninjakiwigames/#browse). Please carefully read the in-scope section regarding what sorts of exploits will be considering in-scope for this domain.",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "guts.ninjakiwi.com",
+          "description": "This is the backend services for certain BTD6 in-game features such as Contested Territories and the Map Creator.",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.ninjakiwi.me",
+          "description": "ninjakiwi.me is a domain which hosts many of Ninja Kiwi's employtee only services. Any subdomain is eligible for the program.",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.nkstatic.com",
+          "description": "This domain hosts static content for Ninja Kiwi games and website.",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "battles.tv",
+          "description": "Battles.tv is used to share replays from our Bloons TD Battles game.",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "data.ninjakiwi.com",
+          "description": "This domain hosts our **public** data API which grants open access to in-game data from our biggest games. For example player profiles, leaderboards and event information is available through this domain.",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "ninja.kiwi",
+          "description": "This domain is used by Ninja Kiwi for our URL shortener service, ie https://ninja.kiwi/intigriti.",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "ninjakiwi.com",
+          "description": "Please note that the ninjakiwi.com domain has a number of subdomains which are not in-scope. These are domains which are managed by third party providers. This includes (but it not limited to):\n- support.ninjakiwi.com\n- store.ninjakiwi.com\n- btd6store.ninjakiwi.com\n- battles2store.ninjakiwi.com\n\nIf you are unsure please feel free to reach out to us at security@ninjakiwi.com.",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "alerts.ninjakiwi.com",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "url",
+          "endpoint": "boomer2.ninjakiwi.com",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "url",
+          "endpoint": "ct.ninjakiwi.com",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "url",
+          "endpoint": "mynk-dash.ninjakiwi.com",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "url",
+          "endpoint": "mynk.ninjakiwi.com",
+          "description": "This is a legacy domain which powers our Flash games. Uses Flash AMF.",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.souparea.com",
+          "description": "This domain will be considered out of scope unless it can be shown to allow an exploit on one of our Tier 1-3 domains.",
+          "impact": "No Bounty"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "url",
+          "endpoint": "rancher.ninjakiwi.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "rancher.ninjakiwi.me",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "store.ninjakiwi.com",
+          "description": "If you've found an issue with this domain you can contact Shopify here - https://www.shopify.com/bugbounty",
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "support.ninjakiwi.com",
+          "description": "If you've found an issue with this domain you can contact Zendesk here - https://support.zendesk.com/hc/en-us/articles/4409154830874-Zendesk-Bug-Bounty-Program",
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "icarusadmin.ninjakiwi.com",
+          "description": null,
+          "impact": "Out of scope"
+        }
+      ]
+    }
+  },
+  {
     "id": "9acf0f0e-f1c5-4b69-8f21-88458eb60009",
     "name": "NxtPort VDP",
     "company_handle": "portofantwerp",
@@ -11300,12 +11312,6 @@
         },
         {
           "type": "other",
-          "endpoint": "https://github.com/RIPE-NCC/rpki-commons",
-          "description": "This library contains an implementation of an X.509 v3 certificate extension which binds a list of IP address blocks or prefixes to the subject of a certificate (IP Address Delegation Extension).",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "other",
           "endpoint": "https://github.com/RIPE-NCC/rpki-core",
           "description": "This repository contains the source code for the RIPE NCC certification. We strive to publish as many components as possible with reasonable effort. Some elements or information are not included, either because of our threat model or because we can not publish them.",
           "impact": "Tier 1"
@@ -11350,6 +11356,12 @@
           "type": "url",
           "endpoint": "Assets owned by RIPE NCC",
           "description": null,
+          "impact": "No Bounty"
+        },
+        {
+          "type": "other",
+          "endpoint": "https://github.com/RIPE-NCC/rpki-commons",
+          "description": "This library contains an implementation of an X.509 v3 certificate extension which binds a list of IP address blocks or prefixes to the subject of a certificate (IP Address Delegation Extension).",
           "impact": "No Bounty"
         }
       ],
@@ -12139,42 +12151,6 @@
           "impact": "Out of scope"
         }
       ]
-    }
-  },
-  {
-    "id": "4352dcef-dfc5-4d74-8fd8-9bef5aa16f18",
-    "name": "Skoda Auto Bug Bounty Program",
-    "company_handle": "skodaauto",
-    "handle": "skodaautoprivatebugbountyprogram",
-    "url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
-    "status": "open",
-    "confidentiality_level": "public",
-    "tacRequired": false,
-    "twoFactorRequired": false,
-    "min_bounty": {
-      "value": 200,
-      "currency": "EUR"
-    },
-    "max_bounty": {
-      "value": 5000,
-      "currency": "EUR"
-    },
-    "targets": {
-      "in_scope": [
-        {
-          "type": "ios",
-          "endpoint": "https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "android",
-          "endpoint": "cz.skodaauto.myskoda",
-          "description": null,
-          "impact": "Tier 2"
-        }
-      ],
-      "out_of_scope": []
     }
   },
   {
@@ -14040,54 +14016,6 @@
           "impact": "Out of scope"
         }
       ]
-    }
-  },
-  {
-    "id": "724ad196-90de-4ba8-bf21-dc114ab7fce4",
-    "name": "Trusted Firmware",
-    "company_handle": "arm",
-    "handle": "trustedfirmware",
-    "url": "https://www.intigriti.com/programs/arm/trustedfirmware/detail",
-    "status": "open",
-    "confidentiality_level": "public",
-    "tacRequired": false,
-    "twoFactorRequired": false,
-    "min_bounty": {
-      "value": 1000,
-      "currency": "USD"
-    },
-    "max_bounty": {
-      "value": 20000,
-      "currency": "USD"
-    },
-    "targets": {
-      "in_scope": [
-        {
-          "type": "other",
-          "endpoint": "TrustedFirmware-A (TF-A)",
-          "description": "The Trusted Firmware-A project provides a reference implementation of secure world software for Armv8-A and Armv9-A class processors.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "other",
-          "endpoint": "TrustedFirmware-M (TF-M)",
-          "description": "Trusted Firmware-M (TF-M) implements the Secure Processing Environment (SPE) for Armv8-M, Armv8.1-M architectures (e.g. the Cortex-M33, Cortex-M23, Cortex-M55, Cortex-M85 processors) or dual-core platforms. It is the platform security architecture reference implementation aligning with PSA Certified guidelines, enabling chips, Real Time Operating Systems and devices to become PSA Certified.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "other",
-          "endpoint": "TF-PSA-Crypto",
-          "description": "The TF-PSA-Crypto repository provides an implementation of the PSA Cryptography API version 1.2, with the limitation that the implementation of the PAKE extension still has minor non-compliances, such as returned error codes.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "other",
-          "endpoint": "OP-TEE",
-          "description": "OP-TEE is a Trusted Execution Environment (TEE) designed as companion to a non-secure Linux kernel running on Arm; Cortex-A cores using the TrustZone technology.",
-          "impact": "Tier 2"
-        }
-      ],
-      "out_of_scope": []
     }
   },
   {
@@ -16902,8 +16830,8 @@
         {
           "type": "other",
           "endpoint": "Yahoo Open Source Projects",
-          "description": "## In Scope\n\n[Open Source Project Index \\- Yahoo Developer Network](https://developer.yahoo.com/opensource/projectindex/)\n\n## Bounty eligibility\n\n* Full bounty requires proof of impact to Yahoo production systems.  \n* 50% bounty will be considered in cases where the last release date is within 1 year of the submission date, but no proof of impact to Yahoo systems.  \n* No bounty if either conditions are not met.",
-          "impact": "Tier 2"
+          "description": "## In Scope\n\n[Open Source Project Index \\- Yahoo Developer Network](https://developer.yahoo.com/opensource/projectindex/)\n\n## Bounty eligibility\n\n* Full bounty requires proof of impact to Yahoo production systems.  \n* Bounty will be considered in cases where the last release date is within 1 year of the submission date, but no proof of impact to Yahoo systems.  \n* No bounty if either conditions are not met.\n\nNote: If you find proof of impact to Yahoo systems, please change the asset to the affected product.",
+          "impact": "Tier 3"
         },
         {
           "type": "other",
