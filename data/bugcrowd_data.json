@@ -16040,355 +16040,6 @@
     }
   },
   {
-    "name": "Monash University Bug Bounty",
-    "url": "https://bugcrowd.com/engagements/monash-mbb",
-    "allows_disclosure": false,
-    "managed_by_bugcrowd": true,
-    "safe_harbor": "full",
-    "max_payout": 7500,
-    "targets": {
-      "in_scope": [
-        {
-          "type": "website",
-          "target": "https://identity.monash.edu/",
-          "uri": "https://identity.monash.edu/",
-          "name": "  identity.monash.edu",
-          "ipAddress": ""
-        },
-        {
-          "type": "api",
-          "target": " mix.monash.edu ",
-          "uri": "",
-          "name": " mix.monash.edu ",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://connect.monash.edu",
-          "uri": "https://connect.monash.edu",
-          "name": "connect.monash.edu",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://identity.monash.edu",
-          "uri": "https://identity.monash.edu",
-          "name": "identity.monash.edu",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://www.monash.edu",
-          "uri": "https://www.monash.edu",
-          "name": "monash.edu",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://staff.monash",
-          "uri": "https://staff.monash",
-          "name": "Staff.monash",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "http://apps.connect.monash.edu/",
-          "uri": "http://apps.connect.monash.edu/",
-          "name": "apps.connect.monash.edu/",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "eassessment.monash.edu",
-          "uri": "",
-          "name": "eassessment.monash.edu",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://fileshare.ze.monash.edu",
-          "uri": "https://fileshare.ze.monash.edu",
-          "name": "fileshare.ze.monash.edu",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://cms.mobile.monash/ ",
-          "uri": "https://cms.mobile.monash/ ",
-          "name": "cms.mobile.monash",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://mobile.monash/ ",
-          "uri": "https://mobile.monash/ ",
-          "name": "mobile.monash",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://status.mobile.monash/",
-          "uri": "https://status.mobile.monash/",
-          "name": "status.mobile.monash",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://monashcollege.edu.au",
-          "uri": "https://monashcollege.edu.au",
-          "name": "https://monashcollege.edu.au",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://online.monash.edu/",
-          "uri": "https://online.monash.edu/",
-          "name": "https://online.monash.edu/",
-          "ipAddress": null
-        },
-        {
-          "type": "ios",
-          "target": "https://apps.apple.com/us/app/monash-study/id1462126829",
-          "uri": "https://apps.apple.com/us/app/monash-study/id1462126829",
-          "name": "Monash Study iOS App",
-          "ipAddress": null
-        },
-        {
-          "type": "android",
-          "target": "https://play.google.com/store/apps/details?id=edu.monash.monashmobile",
-          "uri": "https://play.google.com/store/apps/details?id=edu.monash.monashmobile",
-          "name": "Monash Study Android app",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://myapp.monash.edu/",
-          "uri": "https://myapp.monash.edu/",
-          "name": "https://myapp.monash.edu/",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://alumni-friends.monash.edu",
-          "uri": "https://alumni-friends.monash.edu",
-          "name": "https://alumni-friends.monash.edu",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://agent.apps.monash.edu/",
-          "uri": "https://agent.apps.monash.edu/",
-          "name": "https://agent.apps.monash.edu/",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://compulsoryunits.monash.edu/",
-          "uri": "https://compulsoryunits.monash.edu/",
-          "name": "https://compulsoryunits.monash.edu/",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://monash.app.nutrip.com",
-          "uri": "https://monash.app.nutrip.com",
-          "name": "monash.app.nutrip.com",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://*.gp.monash.edu",
-          "uri": "https://*.gp.monash.edu",
-          "name": "*.gp.monash.edu",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://studentplacements.monash.edu",
-          "uri": "https://studentplacements.monash.edu",
-          "name": "studentplacements.monash.edu",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://unihub.monash.edu/",
-          "uri": "https://unihub.monash.edu/",
-          "name": "unihub.monash.edu",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://interviews.monash.edu/",
-          "uri": "https://interviews.monash.edu/",
-          "name": "interviews.monash.edu",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://shop.monash.edu/",
-          "uri": "https://shop.monash.edu/",
-          "name": "shop.monash.edu",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://mlivetickets.monash.edu",
-          "uri": "https://mlivetickets.monash.edu",
-          "name": "mlivetickets.monash.edu",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://partner.apps.monash.edu",
-          "uri": "https://partner.apps.monash.edu",
-          "name": "partner.apps.monash.edu",
-          "ipAddress": ""
-        },
-        {
-          "type": "android",
-          "target": "https://play.google.com/store/apps/details?id=com.scu.bsafe",
-          "uri": "https://play.google.com/store/apps/details?id=com.scu.bsafe",
-          "name": "bSafe Android App",
-          "ipAddress": ""
-        },
-        {
-          "type": "ios",
-          "target": "https://apps.apple.com/au/app/monash-bsafe/id1462241951",
-          "uri": "https://apps.apple.com/au/app/monash-bsafe/id1462241951",
-          "name": "bSafe iPhone App",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://forms.apps.monash.edu/",
-          "uri": "https://forms.apps.monash.edu/",
-          "name": "forms.apps.monash.edu",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://formative.eassessment.monash.edu/",
-          "uri": "https://formative.eassessment.monash.edu/",
-          "name": "formative.eassessment.monas.edu",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://www.monashprofessional.edu.au/",
-          "uri": "https://www.monashprofessional.edu.au/",
-          "name": "monashprofessional.edu.au",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://account-registration.monash.edu/",
-          "uri": "https://account-registration.monash.edu/",
-          "name": "account-registration.monash.edu",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "http://pay.monashcollege.edu.au/",
-          "uri": "http://pay.monashcollege.edu.au/",
-          "name": "pay.monashcollege.edu.au",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://evigilation.monash.edu",
-          "uri": "https://evigilation.monash.edu",
-          "name": "Monash e-Vigilation",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://student.monash",
-          "uri": "https://student.monash",
-          "name": "student.monash",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://mids.monash.edu/",
-          "uri": "https://mids.monash.edu/",
-          "name": "mids.monash.edu",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://ims.monash.edu",
-          "uri": "https://ims.monash.edu",
-          "name": "ims.monash.edu",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://research.monash.edu/",
-          "uri": "https://research.monash.edu/",
-          "name": "research.monash.edu",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://researchmgt.monash.edu/",
-          "uri": "https://researchmgt.monash.edu/",
-          "name": "researchmgt.monash.edu",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://move.monash.edu/",
-          "uri": "https://move.monash.edu/",
-          "name": "move.monash.edu",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://collections.monash.edu/",
-          "uri": "https://collections.monash.edu/",
-          "name": "collections.monash.edu",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://equella.monash.edu",
-          "uri": "https://equella.monash.edu",
-          "name": "equella.monash.edu",
-          "ipAddress": ""
-        },
-        {
-          "type": "ios",
-          "target": "https://apps.apple.com/ky/app/m-space/id6761056432",
-          "uri": "https://apps.apple.com/ky/app/m-space/id6761056432",
-          "name": "M-Space App iOS",
-          "ipAddress": null
-        },
-        {
-          "type": "android",
-          "target": "https://play.google.com/store/apps/details?id=com.monashuniversity.mspace.android&pcampaignid=web_share",
-          "uri": "https://play.google.com/store/apps/details?id=com.monashuniversity.mspace.android&pcampaignid=web_share",
-          "name": "M-Space App Android",
-          "ipAddress": ""
-        },
-        {
-          "type": "api",
-          "target": "mix-qat.monash.edu/*",
-          "uri": "",
-          "name": "mix-qat.monash.edu/*",
-          "ipAddress": null
-        },
-        {
-          "type": "api",
-          "target": "mix-dev.monash.edu/*",
-          "uri": "",
-          "name": "mix-dev.monash.edu/*",
-          "ipAddress": null
-        }
-      ],
-      "out_of_scope": []
-    }
-  },
-  {
     "name": "Moneytree KK",
     "url": "https://bugcrowd.com/engagements/moneytreekkog",
     "allows_disclosure": false,
@@ -17500,6 +17151,125 @@
         }
       ],
       "out_of_scope": []
+    }
+  },
+  {
+    "name": "Octopus",
+    "url": "https://bugcrowd.com/engagements/octopus-og",
+    "allows_disclosure": false,
+    "managed_by_bugcrowd": true,
+    "safe_harbor": "full",
+    "max_payout": 6000,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "*.octopus.com",
+          "uri": "",
+          "name": "*.octopus.com",
+          "ipAddress": null
+        },
+        {
+          "type": "other",
+          "target": "https://github.com/OctopusDeploy",
+          "uri": "https://github.com/OctopusDeploy",
+          "name": "Octopus Deploy Git Repo",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://octopus.com",
+          "uri": "https://octopus.com",
+          "name": "octopus.com",
+          "ipAddress": null
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": " partners.octopus.com",
+          "uri": "",
+          "name": " partners.octopus.com",
+          "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "*.octopus.app",
+          "uri": null,
+          "name": "*.octopus.app",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "artifactorysample.octopus.com",
+          "uri": "",
+          "name": "artifactorysample.octopus.com",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "bamboosample.octopus.com",
+          "uri": "",
+          "name": "bamboosample.octopus.com",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "jenkinssample.octopus.com",
+          "uri": "",
+          "name": "jenkinssample.octopus.com",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "teamcitysample.octopus.com",
+          "uri": "",
+          "name": "teamcitysample.octopus.com",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "nexussample.octopus.com",
+          "uri": "",
+          "name": "nexussample.octopus.com",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "myget.octopus.com",
+          "uri": "",
+          "name": "myget.octopus.com",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "trust.octopus.com",
+          "uri": "",
+          "name": "trust.octopus.com",
+          "ipAddress": ""
+        },
+        {
+          "type": "other",
+          "target": "i.octopus.com",
+          "uri": "",
+          "name": "i.octopus.com",
+          "ipAddress": ""
+        },
+        {
+          "type": "other",
+          "target": "ir.octopus.com",
+          "uri": "",
+          "name": "ir.octopus.com",
+          "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "shop.octopus.com",
+          "uri": null,
+          "name": "shop.octopus.com",
+          "ipAddress": ""
+        }
+      ]
     }
   },
   {
@@ -21607,6 +21377,26 @@
           "target": "https://apps.apple.com/us/app/shuffles-by-pinterest/id1573869498",
           "uri": "https://apps.apple.com/us/app/shuffles-by-pinterest/id1573869498",
           "name": "Shuffles App for iOS",
+          "ipAddress": null
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "Pixabay",
+    "url": "https://bugcrowd.com/engagements/pixabay",
+    "allows_disclosure": false,
+    "managed_by_bugcrowd": true,
+    "safe_harbor": null,
+    "max_payout": 6000,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "https://pixabay.com/",
+          "uri": "https://pixabay.com/",
+          "name": "*.pixabay.com/",
           "ipAddress": null
         }
       ],
@@ -28106,195 +27896,6 @@
         }
       ],
       "out_of_scope": []
-    }
-  },
-  {
-    "name": "Tesla",
-    "url": "https://bugcrowd.com/engagements/tesla",
-    "allows_disclosure": false,
-    "managed_by_bugcrowd": true,
-    "safe_harbor": "partial",
-    "max_payout": 100000,
-    "targets": {
-      "in_scope": [
-        {
-          "type": "website",
-          "target": "*.tesla.cn",
-          "uri": null,
-          "name": "*.tesla.cn",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "*.tesla.services",
-          "uri": null,
-          "name": "*.tesla.services",
-          "ipAddress": null
-        },
-        {
-          "type": "ios",
-          "target": "https://apps.apple.com/us/app/tesla/id582007913",
-          "uri": "https://apps.apple.com/us/app/tesla/id582007913",
-          "name": "Official Tesla iOS apps",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "*.tesla.com",
-          "uri": null,
-          "name": "*.tesla.com",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "*.teslamotors.com",
-          "uri": null,
-          "name": "*.teslamotors.com",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)",
-          "uri": null,
-          "name": "Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "*.solarcity.com",
-          "uri": "",
-          "name": "*.solarcity.com",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "*.teslainsuranceservices.com",
-          "uri": null,
-          "name": "*.teslainsuranceservices.com",
-          "ipAddress": null
-        },
-        {
-          "type": "android",
-          "target": "https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US",
-          "uri": "https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US",
-          "name": "Official Tesla Android apps",
-          "ipAddress": null
-        },
-        {
-          "type": "hardware",
-          "target": "Tesla Energy hardware you own",
-          "uri": "",
-          "name": "Tesla Energy hardware you own",
-          "ipAddress": ""
-        },
-        {
-          "type": "hardware",
-          "target": "Tesla vehicle hardware that you own",
-          "uri": null,
-          "name": "Tesla vehicle hardware that you own",
-          "ipAddress": null
-        }
-      ],
-      "out_of_scope": [
-        {
-          "type": "website",
-          "target": "employeefeedback.tesla.com",
-          "uri": null,
-          "name": "employeefeedback.tesla.com",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "energysupport.tesla.com (you can report vulnerabilities to bugbounty.zoho.com)",
-          "uri": null,
-          "name": "energysupport.tesla.com (you can report vulnerabilities to bugbounty.zoho.com)",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://engage.tesla.com/",
-          "uri": "https://engage.tesla.com/",
-          "name": "engage.tesla.com",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "*.engage.tesla.com",
-          "uri": "",
-          "name": "*.engage.tesla.com",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "feedback.tesla.com",
-          "uri": null,
-          "name": "feedback.tesla.com",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "feedback.teslamotors.com",
-          "uri": null,
-          "name": "feedback.teslamotors.com",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "ir.tesla.com",
-          "uri": null,
-          "name": "ir.tesla.com",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "ir.teslamotors.com",
-          "uri": null,
-          "name": "ir.teslamotors.com",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "mkto.teslamotors.com",
-          "uri": null,
-          "name": "mkto.teslamotors.com",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "shop.eu.teslamotors.com",
-          "uri": null,
-          "name": "shop.eu.teslamotors.com",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "service.tesla.com/docs/*",
-          "uri": "",
-          "name": "service.tesla.com/docs/*",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "service.tesla.cn/docs/*",
-          "uri": "",
-          "name": "service.tesla.cn/docs/*",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "Any domains from acquisitions, such as maxwell.com",
-          "uri": null,
-          "name": "Any domains from acquisitions, such as maxwell.com",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "Any other third-party websites hosted by non-Tesla entities",
-          "uri": null,
-          "name": "Any other third-party websites hosted by non-Tesla entities",
-          "ipAddress": null
-        }
-      ]
     }
   },
   {
