@@ -5038,6 +5038,168 @@
     }
   },
   {
+    "id": "e85b4b33-7785-43b5-a5aa-5bcd226688b4",
+    "name": "Here Technologies",
+    "company_handle": "heretechnologies",
+    "handle": "heretechnologies",
+    "url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "tacRequired": false,
+    "twoFactorRequired": false,
+    "min_bounty": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2000,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "ios",
+          "endpoint": "HERE WeGo iOS",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "android",
+          "endpoint": "HERE WeGo Android",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "registry.service.api.platform.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.data.api.platform.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.metrics.platform.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.platform.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "search.hereapi.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "transit.hereapi.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "vector.hereapi.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "mobilitygraph.hereapi.com",
+          "description": "Including, but not limited to, following applications:\nhttps://predictor.mobilitygraph.hereapi.com/\nhttps://profile.mobilitygraph.hereapi.com/\nhttps://subscription.mobilitygraph.hereapi.com/",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.router.hereapi.com",
+          "description": "Including, but not limited to, following applications:\nhttps://matrix.router.hereapi.com/\nhttps://subp-als.matrix.router.hereapi.com/v8/matrix\nhttps://transit.router.hereapi.com/\nhttps://intermodal.router.hereapi.com/",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.subp-router.hereapi.com",
+          "description": "Including, but not limited to, following application:\nhttps://vip-als.subp-router.hereapi.com/",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.hereapi.com",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "url",
+          "endpoint": "account.api.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "account.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "listing.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "mapcreator.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "xyz.api.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.scbe.api.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.here.com",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "other",
+          "endpoint": "Leaked/Compromised Employee Credentials",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "other",
+          "endpoint": "Leaked Service Credentials",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "other",
+          "endpoint": "All other related services owned by HERE",
+          "description": null,
+          "impact": "Tier 3"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
     "id": "5c7a8f79-a23b-4367-a2c6-63a2d48586ee",
     "name": "Het Laatste Nieuws",
     "company_handle": "dpgm",
@@ -10771,7 +10933,7 @@
       "in_scope": [
         {
           "type": "url",
-          "endpoint": "access.ripe.net",
+          "endpoint": "https://access.ripe.net",
           "description": "This is the authentication service for our membership and community, mostly used for all of our membership (e.g. LIR) applications.",
           "impact": "Tier 1"
         },
@@ -10790,7 +10952,7 @@
         {
           "type": "url",
           "endpoint": "lirportal.ripe.net",
-          "description": "Our portal page for LIR's where they can access their information and more.\nSince this portal designed to give access only to LIR's, you can't create an account.\n\n**Until then**;\n\n* Be careful with the unauthorized data access here\n* Limit your tools requests",
+          "description": "The LIR portal allows RIPE members to manage their allocated resources. It is accessible only through authentication via our SSO application access.ripe.net.\nIt is not possible to get a test account for now.",
           "impact": "Tier 1"
         },
         {
@@ -10845,13 +11007,13 @@
         },
         {
           "type": "wildcard",
-          "endpoint": "*aso*ripe.net",
+          "endpoint": "*aso.ripe.net",
           "description": null,
           "impact": "Out of scope"
         },
         {
           "type": "wildcard",
-          "endpoint": "*nro*ripe.net",
+          "endpoint": "*nro.ripe.net",
           "description": null,
           "impact": "Out of scope"
         },
@@ -10875,7 +11037,7 @@
         },
         {
           "type": "url",
-          "endpoint": "exams.ripe.net",
+          "endpoint": "https://exams.ripe.net",
           "description": null,
           "impact": "Out of scope"
         },
@@ -10904,8 +11066,8 @@
           "impact": "Out of scope"
         },
         {
-          "type": "url",
-          "endpoint": "ripe(1to87).ripe.net",
+          "type": "other",
+          "endpoint": "ripe[1-100].ripe.net",
           "description": null,
           "impact": "Out of scope"
         }
@@ -11691,102 +11853,6 @@
           "endpoint": "Any product available on https://www.solarwinds.com/products",
           "description": null,
           "impact": "Tier 2"
-        }
-      ],
-      "out_of_scope": []
-    }
-  },
-  {
-    "id": "18058413-5255-4f5c-a9db-c6ac027bb5d6",
-    "name": "Soundtrack Technologies",
-    "company_handle": "syb",
-    "handle": "soundtrackyourbrand",
-    "url": "https://www.intigriti.com/programs/syb/soundtrackyourbrand/detail",
-    "status": "open",
-    "confidentiality_level": "public",
-    "tacRequired": false,
-    "twoFactorRequired": false,
-    "min_bounty": {
-      "value": 50,
-      "currency": "EUR"
-    },
-    "max_bounty": {
-      "value": 3500,
-      "currency": "EUR"
-    },
-    "targets": {
-      "in_scope": [
-        {
-          "type": "url",
-          "endpoint": "https://soundtrack.io",
-          "description": "Our public web site.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "ios",
-          "endpoint": "1114799709",
-          "description": "The iOS Player app that allows you to browse and play music.\n\nIn order to use the iOS Player you will need a pairing code that you can obtain through https://app.soundtrack.io/ using the test credentials.\n\nhttps://www.youtube.com/watch?v=y7HGAtsB6Tg",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "ios",
-          "endpoint": "1114800186",
-          "description": "The iOS Remote that allows you to remotely control your Soundtrack Players.\n\nIn order to use the iOS Remote you will need a remote code that you can obtain through https://app.soundtrack.io/ using the test credentials.\n\nhttps://www.youtube.com/watch?v=cmAe1kRvOeY",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "api.soundtrackyourbrand.com",
-          "description": "Our public API. Used by us as well as third parties. You can use your regular login token to authenticate.\n\nDocs: https://developer.soundtrackyourbrand.com/api\nGraphQL Explorer: https://api.soundtrackyourbrand.com/v2/explore\n\nPlease use one of the claimed test credentials. In order to use the API you can login using your claimed credentials (via loginUser) and use the token you get back to issue API calls.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "billing.api.soundtrackyourbrand.com",
-          "description": "Our billing service. Handles payments (one time and recurring), price and product management and subscription renewals.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "builds.soundtrackyourbrand.com",
-          "description": "Our service which does gradual rollout of our player software to our Windows client and hardware players.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "business.soundtrackyourbrand.com",
-          "description": "Our web based management console that allows users to administer their players, music and their account.\n\n**To claim bounties for this domain you need to use one of the claimed test credentials.**",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "android",
-          "endpoint": "com.soundtrackyourbrand.soundtrack.player",
-          "description": "The Android Player app that allows you to browse and play music.\n\nIn order to use the Android Player you will need a pairing code that you can obtain through https://app.soundtrack.io/ using the test credentials.\n\nhttps://www.youtube.com/watch?v=y7HGAtsB6Tg",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "https://auth.api.soundtrackyourbrand.com/",
-          "description": "Our authentication service.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "other",
-          "endpoint": "https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest",
-          "description": "The Windows Player that allows you to play music. No user interface except for a tray icon.\n\nIn order to use the Windows Player you will need a pairing code that you can obtain through https://app.soundtrack.io/ using the test credentials.\n\nhttps://www.youtube.com/watch?v=HjFfXcjSEmM",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "https://radio.api.soundtrackyourbrand.com/",
-          "description": "Our playlisting service.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "other",
-          "endpoint": "macOS app",
-          "description": "The macOS Player app allows you to browse and play music. You can find it in the App Store: https://apps.apple.com/se/app/soundtrack-player/id1114799709?l=en\n\nIn order to use the macOS you will need a pairing code that you can obtain through https://app.soundtrack.io/ using the test credentials.\n\nhttps://www.youtube.com/watch?v=y7HGAtsB6Tg",
-          "impact": "Tier 1"
         }
       ],
       "out_of_scope": []
