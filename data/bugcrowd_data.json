@@ -9714,6 +9714,34 @@
           "uri": "https://fivetran.com/login",
           "name": "*.fivetran.com",
           "ipAddress": ""
+        },
+        {
+          "type": "other",
+          "target": "https://it-fivetran.com",
+          "uri": "https://it-fivetran.com",
+          "name": "it-fivetran.com",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://*.getdbt.com",
+          "uri": "https://*.getdbt.com",
+          "name": "https://*.getdbt.com",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://*.dbt.com",
+          "uri": "https://*.dbt.com",
+          "name": "https://*.dbt.com",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://*.dbtlabs.com",
+          "uri": "https://*.dbtlabs.com",
+          "name": "https://*.dbtlabs.com",
+          "ipAddress": null
         }
       ],
       "out_of_scope": [
@@ -10321,62 +10349,6 @@
           "uri": "",
           "name": "*.hostgator.mx",
           "ipAddress": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "HotDoc",
-    "url": "https://bugcrowd.com/engagements/hotdoc",
-    "allows_disclosure": true,
-    "managed_by_bugcrowd": true,
-    "safe_harbor": "partial",
-    "max_payout": 8000,
-    "targets": {
-      "in_scope": [
-        {
-          "type": "website",
-          "target": "█████████████████████████████████████████",
-          "uri": null,
-          "name": "█████████████████████████████████████████",
-          "ipAddress": null
-        },
-        {
-          "type": "api",
-          "target": "██████████████████████████████████",
-          "uri": null,
-          "name": "██████████████████████████████████",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "███████████████████████████████████████████████████████████",
-          "uri": null,
-          "name": "███████████████████████████████████████████████████████████",
-          "ipAddress": null
-        }
-      ],
-      "out_of_scope": [
-        {
-          "type": "android",
-          "target": "███████████",
-          "uri": null,
-          "name": "███████████",
-          "ipAddress": null
-        },
-        {
-          "type": "ios",
-          "target": "███████",
-          "uri": null,
-          "name": "███████",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "██████████████████████████████████████████",
-          "uri": null,
-          "name": "██████████████████████████████████████████",
-          "ipAddress": null
         }
       ]
     }
