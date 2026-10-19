@@ -1820,6 +1820,36 @@
     }
   },
   {
+    "id": "4a0c9a8c-4b88-476a-87cd-3e97ac6ea027",
+    "name": "Challenge 1026",
+    "company_handle": "intigriti",
+    "handle": "challenge1026",
+    "url": "https://www.intigriti.com/programs/intigriti/challenge1026/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "tacRequired": false,
+    "twoFactorRequired": false,
+    "min_bounty": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "https://challenge-1026.challenges.intigriti.io",
+          "description": null,
+          "impact": "Tier 2"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
     "id": "96d3f49a-4c5f-4bc8-835a-77f734eefe4e",
     "name": "Citymesh Responsible Vulnerability Disclosure Program",
     "company_handle": "citymesh",
@@ -2858,199 +2888,6 @@
         }
       ],
       "out_of_scope": []
-    }
-  },
-  {
-    "id": "bd22f48d-633e-4b26-bf71-e4778d41b247",
-    "name": "DataCamp",
-    "company_handle": "datacamp",
-    "handle": "datacamp",
-    "url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-    "status": "open",
-    "confidentiality_level": "public",
-    "tacRequired": false,
-    "twoFactorRequired": false,
-    "min_bounty": {
-      "value": 25,
-      "currency": "EUR"
-    },
-    "max_bounty": {
-      "value": 1500,
-      "currency": "EUR"
-    },
-    "targets": {
-      "in_scope": [
-        {
-          "type": "url",
-          "endpoint": "profiles-api.datacamp.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "app.datacamp.com/certification",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "app.datacamp.com/groups",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "app.datacamp.com/learn",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "assessment-api.datacamp.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "assessment-v2.datacamp.com ",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "assessment.datacamp.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "campus.datacamp.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "android",
-          "endpoint": "com.datacamp",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "ios",
-          "endpoint": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "practice.datacamp.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "projects.datacamp.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "www.datacamp.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "www.datacamp.com/datalab",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.datacamp.com",
-          "description": null,
-          "impact": "Tier 3"
-        }
-      ],
-      "out_of_scope": [
-        {
-          "type": "wildcard",
-          "endpoint": "*.it.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "app.datacamp.com/recruit",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "ast-viewer.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "confluence.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "dccertified.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "intranet.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "jira.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "links.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "rdocumentation.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "signature.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "status.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "support.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "talent-jobs-api.datacamp.com",
-          "description": null,
-          "impact": "Out of scope"
-        }
-      ]
     }
   },
   {
@@ -9791,6 +9628,85 @@
     }
   },
   {
+    "id": "64f80113-969e-4c55-9649-8a044487941c",
+    "name": "PDQ bug bounty program",
+    "company_handle": "pdq",
+    "handle": "pdqcomprivate",
+    "url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "tacRequired": false,
+    "twoFactorRequired": false,
+    "min_bounty": {
+      "value": 50,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 3500,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "https://auth2.pdq.com/",
+          "description": "Production environment for our authentication tool — please take care not to disrupt any services when testing",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "https://library.pdq.com/",
+          "description": "Production environment for our Package Library — please take care not to disrupt any services when testing",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "https://portal.pdq.com/",
+          "description": "Production environment for our billing portal — please take care not to disrupt any services when testing",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "url",
+          "endpoint": "https://app.pdq.com/",
+          "description": "Production environment for our PDQ Connect — please take care not to disrupt any services when testing",
+          "impact": "Tier 3"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "url",
+          "endpoint": "https://a.simplemdm.com/",
+          "description": "Production environment for SimpleMDM — please take care not to disrupt any services when testing",
+          "impact": "Out of scope"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "https://*.pdq.com/",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "https://*.pdq.tools/",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "https://*.simplemdm.com/ ",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "https://*.smartdeploy.com/ ",
+          "description": null,
+          "impact": "Out of scope"
+        }
+      ]
+    }
+  },
+  {
     "id": "9ef59fe8-d021-4d23-9521-0d7d01da03ee",
     "name": "PeopleCert VDP",
     "company_handle": "peoplecert",
@@ -11885,22 +11801,34 @@
       "currency": "EUR"
     },
     "max_bounty": {
-      "value": 750,
+      "value": 1000,
       "currency": "EUR"
     },
     "targets": {
       "in_scope": [
         {
           "type": "ios",
-          "endpoint": "910898851",
-          "description": "We expect that issued items are including print-screen of the version of the app.  \n\n![Flow to get to version number](https://media.socialdeal.nl/img/flow-about-this-app.png)",
+          "endpoint": "Social Deal IOS APP",
+          "description": "We expect that issued items are including print-screen of the version of the app.\n\n[Flow to get to version number](https://app.intigriti.com/company/programs/socialdeal/socialdeal/detail#:~:text=of%20the%20app.-,Flow%20to%20get%20to%20version%20number,-app.nl.socialdeal)",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.socialdeal.nl/blog/",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "https://www.spontaan.nl/",
+          "description": null,
           "impact": "Tier 2"
         },
         {
           "type": "android",
           "endpoint": "app.nl.socialdeal",
           "description": "We expect that issued items are including print-screen of the version of the app.  \n\n![Flow to get to version number](https://media.socialdeal.nl/img/flow-about-this-app.png)",
-          "impact": "Tier 2"
+          "impact": "Tier 1"
         },
         {
           "type": "url",
@@ -11923,8 +11851,8 @@
         {
           "type": "url",
           "endpoint": "www.socialdeal.nl",
-          "description": "Our main website. \nwww.socialdeal.be and www.socialdeal.de are the same websites, with different Locale.\n",
-          "impact": "Tier 2"
+          "description": "Our main website. \nwww.socialdeal.be and www.socialdeal.de are the same websites, with different Locale.",
+          "impact": "Tier 1"
         }
       ],
       "out_of_scope": []
@@ -13338,6 +13266,307 @@
     }
   },
   {
+    "id": "ed04d1ef-1aa3-49dd-92f1-06f50f9756b9",
+    "name": "TrueLayer",
+    "company_handle": "truelayer",
+    "handle": "truelayer",
+    "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "tacRequired": false,
+    "twoFactorRequired": false,
+    "min_bounty": {
+      "value": 75,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 6000,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "api.truelayer[-sandbox].com",
+          "description": "The majority of our API endpoints live here",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "api.mtls.truelayer[-sandbox].com",
+          "description": "The same API as `api.truelayer[-sandbox].com` but with mutual TLS setup",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "auth.truelayer[-sandbox].com",
+          "description": "Our service for getting OAuth access tokens to access our APIs",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "auth.mtls.truelayer[-sandbox].com",
+          "description": "The same service as `auth.truelayer[-sandbox].com` but with mutual TLS setup",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "app.truelayer[-sandbox].com",
+          "description": "Hosted Payments Page v2",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "login-api.truelayer[-sandbox].com",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "login.truelayer[-sandbox].com",
+          "description": "Where you can connect your bank account and use Open Banking to pull data such as transactions",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "onboarding-api.truelayer.com",
+          "description": "Used in the developer console",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "pay-api.truelayer[-sandbox].com",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "pay.truelayer[-sandbox].com",
+          "description": "Some of our older payment API endpoints live here rather than on api.truelayer.com",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "paydirect.truelayer[-sandbox].com",
+          "description": "Some of our older payment API endpoints live here rather than on api.truelayer.com",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "payment.truelayer[-sandbox].com",
+          "description": "Our hosted payments page for merchants that want us to manage the UI screens for making payments",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "payments-experience-api.truelayer[-sandbox].com",
+          "description": "Hosted Payments Page dependency (e.g. for handoff)",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "user-authentication-api.truelayer[-sandbox].com",
+          "description": "Remember Me functionality for payments. See https://truelayer.com/legal/enduser_tos/#save-my-details-remember-me",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "users-api.truelayer.com",
+          "description": "Internal service for managing users",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "other",
+          "endpoint": "C# SDK",
+          "description": "https://github.com/TrueLayer/truelayer-dotnet",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "console-backend.truelayer[-sandbox].com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "console.truelayer[-sandbox].com",
+          "description": "Our developer console where you can login, create applications, manage your OAuth client ID/secret, upload public keys for request signing, view transactions",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "sftp.reports.truelayer.com",
+          "description": "SFTP reporting functionality in the Console. See https://docs.truelayer.com/docs/sftp-in-console",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "other",
+          "endpoint": "Java SDK",
+          "description": "https://github.com/TrueLayer/truelayer-java",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "other",
+          "endpoint": "PHP SDK",
+          "description": "https://github.com/TrueLayer/truelayer-php",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "other",
+          "endpoint": "TrueLayer for Magento (Magento plugin)",
+          "description": "https://github.com/TrueLayer/magento2",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "shopify-admin.truelayer.com",
+          "description": "Shopify Plugin backend admin page. See https://docs.truelayer.com/docs/shopify",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "shop-pay-app-api.truelayer.com",
+          "description": "Shopify Plugin backend API. See https://docs.truelayer.com/docs/shopify",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "other",
+          "endpoint": "truelayer-signing",
+          "description": "https://github.com/TrueLayer/truelayer-signing is our open source library for generating signed requests for calling TrueLayer APIs. Many languages are supported including Rust, C#, NodeJS, Go, Java and PHP.",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "webhooks.truelayer[-sandbox].com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.truelayer.cloud",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.truelayer.com",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.truelayer.io",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "other",
+          "endpoint": "iOS SDK",
+          "description": "https://github.com/TrueLayer/TrueLayer-iOS-SDK",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "other",
+          "endpoint": "React Native SDK",
+          "description": "https://github.com/TrueLayer/truelayer-react-native-sdk",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "other",
+          "endpoint": "Web SDK",
+          "description": "https://www.npmjs.com/package/truelayer-web-sdk\n\nA lightweight web SDK for integrating Truelayer's payment services into your web application.",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "other",
+          "endpoint": "Rust SDK",
+          "description": "https://github.com/TrueLayer/truelayer-rust\n\nCurrently we are not paying bounties for this asset as it's still in alpha.",
+          "impact": "No Bounty"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "url",
+          "endpoint": "trust.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "other",
+          "endpoint": "TrueLayer for WooCommerce (WordPress plugin)",
+          "description": "https://wordpress.org/plugins/truelayer-for-woocommerce/ is our WordPress plugin allowing you to use TrueLayer as a checkout option in your WooCommerce store. The source code is also [available on GitHub](https://github.com/TrueLayer/truelayer-woocommerce).",
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "banks.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "careers.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "docs.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "docs.houston.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "https://truelayer.com/contact/",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "index.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "info.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "signin.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "support.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "status.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "truelayer.zendesk.com",
+          "description": null,
+          "impact": "Out of scope"
+        }
+      ]
+    }
+  },
+  {
     "id": "7d2af06f-9f70-4561-9ba6-4c044274a94a",
     "name": "TrueLayer VDP",
     "company_handle": "truelayer",
@@ -13477,6 +13706,283 @@
         {
           "type": "url",
           "endpoint": "elect.tweakers.net",
+          "description": null,
+          "impact": "Out of scope"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2cf03670-6a2d-4ac7-8b1e-2e0d84338204",
+    "name": "UZ Leuven",
+    "company_handle": "uz leuven",
+    "handle": "uzleuven",
+    "url": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "tacRequired": false,
+    "twoFactorRequired": false,
+    "min_bounty": {
+      "value": 50,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 5000,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "autodiscover.uzleuven.be",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "ecrf.uzleuven.be",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "extranet-asa.uzleuven.be",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "extranet.uzleuven.be",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "liquidfiles.uzleuven.be",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "mx1.uzleuven.be",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "mx2.uzleuven.be",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "pcrstudioruzb.uzleuven.be",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "prddsplunkhf.uzleuven.be",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "sts.uzleuven.be",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.uzleuven.be",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "iprange",
+          "endpoint": "193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111",
+          "description": "These are the ip's used by our reverse proxy.\nThe Host header will determine the bounty tier.\nIf a report is submitted where the Host header is not used we will default to Tier 2.",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "wp5-truststroke.uzleuven.be",
+          "description": "* access to /api/ should only work from BE or NL ip's\n* access to other paths or / should not work",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "cardsonline.azdiest.be",
+          "description": "This webapp should return a http 403 error due to ip whitelisting.",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "liquidfilestest.uzleuven.be",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "random.uzleuven.be/random/",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "teststs.uzleuven.be",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "w1.uzleuven.be",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "cardsonlinetst.azdiest.be",
+          "description": "This webapp should return a http 403 error due to ip whitelisting.",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.kwsdose.be",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.playuzleuven.be",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.uzleuven.*",
+          "description": "#### *.uzleuven.be (tier 3) only applies to everything that hasn't been listed in the scope.",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.contactallerg(y|ie).uzleuven.be",
+          "description": null,
+          "impact": "No Bounty"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.mir.uzleuven.be",
+          "description": null,
+          "impact": "No Bounty"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*dev.uzleuven.be",
+          "description": null,
+          "impact": "No Bounty"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*idp*.uzleuven.be",
+          "description": null,
+          "impact": "No Bounty"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*stag*.uzleuven.be",
+          "description": null,
+          "impact": "No Bounty"
+        },
+        {
+          "type": "url",
+          "endpoint": "files.uzleuven.be",
+          "description": null,
+          "impact": "No Bounty"
+        },
+        {
+          "type": "url",
+          "endpoint": "kumulus.uzleuven.be",
+          "description": null,
+          "impact": "No Bounty"
+        },
+        {
+          "type": "url",
+          "endpoint": "mijnacc.uzleuven.be",
+          "description": null,
+          "impact": "No Bounty"
+        },
+        {
+          "type": "url",
+          "endpoint": "mirc.uzleuven.be",
+          "description": null,
+          "impact": "No Bounty"
+        },
+        {
+          "type": "url",
+          "endpoint": "prddnighting01.uzleuven.be",
+          "description": null,
+          "impact": "No Bounty"
+        },
+        {
+          "type": "url",
+          "endpoint": "w1.uzleuven.be/random",
+          "description": null,
+          "impact": "No Bounty"
+        },
+        {
+          "type": "url",
+          "endpoint": "ziekenhuisschool.be",
+          "description": null,
+          "impact": "No Bounty"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "url",
+          "endpoint": "boekentoy.uzleuven.be",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "uz-laboboeken.web.app",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "laboboeken.uzleuven.be",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "boekentoy.firebaseio.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "uz-laboboeken.firebaseio.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "jobs.uzleuven.be",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "uzleuven.atlassian.net",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "vacatures.uzleuven.be",
           "description": null,
           "impact": "Out of scope"
         }
@@ -14166,115 +14672,6 @@
     }
   },
   {
-    "id": "acb142c1-ffeb-41c3-a9e7-1624054f42e4",
-    "name": "Veriff Bug Bounty",
-    "company_handle": "veriff",
-    "handle": "veriffbugbounty",
-    "url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
-    "status": "open",
-    "confidentiality_level": "public",
-    "tacRequired": false,
-    "twoFactorRequired": false,
-    "min_bounty": {
-      "value": 5,
-      "currency": "EUR"
-    },
-    "max_bounty": {
-      "value": 4000,
-      "currency": "EUR"
-    },
-    "targets": {
-      "in_scope": [
-        {
-          "type": "ios",
-          "endpoint": "1467907532",
-          "description": "An iOS application for demoing our product.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "alchemy.veriff.com",
-          "description": "This is an end user (internal) API endpoint.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "api.flamingo-eu.veriff.com",
-          "description": "This is a public API endpoint.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "api.us.veriff.me",
-          "description": "This is a public API endpoint.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "api.veriff.me",
-          "description": "This is a public API endpoint.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "android",
-          "endpoint": "com.veriff.demo",
-          "description": "An Android application for demoing our product.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "louvre.veriff.me",
-          "description": "This is an end user (internal) API endpoint.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "magic.veriff.me",
-          "description": "This is an end user (internal) API endpoint.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "station.veriff.com",
-          "description": "Here you can find our Veriff Station application.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "stationapi.veriff.com",
-          "description": "This is the backend for our Station application.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.veriff.com",
-          "description": "Please note that third party services are out of scope unless the issue is caused due to a misconfiguration by Veriff.",
-          "impact": "Tier 3"
-        },
-        {
-          "type": "url",
-          "endpoint": "developers.veriff.me",
-          "description": "You can find our developers documentation here.",
-          "impact": "Tier 3"
-        },
-        {
-          "type": "url",
-          "endpoint": "www.veriff.com",
-          "description": "This is our marketing website.",
-          "impact": "Tier 3"
-        }
-      ],
-      "out_of_scope": [
-        {
-          "type": "url",
-          "endpoint": "https://station.veriff.com/config/",
-          "description": "Configuration includes public keys what are needed for frontend working properly.",
-          "impact": "Out of scope"
-        }
-      ]
-    }
-  },
-  {
     "id": "0f95dabb-d299-4574-befc-bb96a3bafb42",
     "name": "Visma",
     "company_handle": "visma",
@@ -14370,30 +14767,6 @@
           "type": "url",
           "endpoint": "photoservice.stage.vismaonline.com",
           "description": "**Visma Scanner**\n\nBackend service for Visma Scanner mobile app, see instructions for domain \"com.visma.blue\" or “564141518”",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "ai-testing.maventa.com",
-          "description": "**Visma AutoInvoice/Maventa**\nThis is the main UI for Visma AutoInvoice. AutoInvoice is Visma's automated and fully ERP integrated service for sending, receiving and handling invoices. AutoInvoice converts and exchanges electronic invoices, optionally prints invoices that can't be sent electronically, receives and interpret PDF invoices and offers services for scanning and interpretation of paper invoices. AutoInvoice handles both Business to Business (B2B) and Business to Consumer (B2C) invoices.\n\nUses partially the embeddable user interface from `autointerface-embeddable-stage.maventa.com`\n\nCreate a test account on https://ai-testing.maventa.com/registrations, or use one of the demo accounts in the getting started instructions below:\nhttps://vismabugbountyprod.z16.web.core.windows.net/VismaAutoinvoice-tHNjPCTbrmGiPY5y0xr8-getting-started.pdf\n\n \n\n**Out of scope or works as expected (accepted risk):**\n* adding users to your own company without consent\n* changing other user's notification settings as company admin\n* language change CSRF\n* application level DOS from /gdpr endpoint\n* duplicate BID/organization number check on registration can be circumvented by race condition (e.g. open two accounts with same BID/org number at same time)\n* IDOR to delete Invoice ID's belonging to different companies by using GDPR removal form (background job checks the right to delete invoices)\n* Hyperlink Injection via emails while adding users to your company\n* User Enumeration via Timing Discrepancy while registering new users\n* Logout CSRF\n* Customer service/chatbot (these are a 3rd party service)\n* Note! ai-testing.maventa.com and testing.maventa.com point to the same application but have different branding on the UI. Authentication to the user interface is handled using the Visma Connect service.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "ax-stage.maventa.com",
-          "description": "**Visma AutoInvoice/Maventa**\nhttps://ax-stage.maventa.com is a REST API connected to Visma AutoInvoice.\n\nAPI documentation is available on https://documentation.maventa.com/rest-api/ and https://ax-stage.maventa.com/swagger/#/\n\nSee instructions for domain `ai-testing.maventa.com` to get user credentials.\n\n**Out of scope or works as expected (accepted risk):**\n* Regular users are allowed to read certain company settings even though they are not perhaps visible in the UI (but they are not allowed to edit the settings)\n* Adding users to your own company without consent\n* Changing other user's notification settings as company admin",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "autointerface.stag.visma.net",
-          "description": "**Visma AutoInvoice/Maventa**\nSee instructions for domain 'ai-testing.maventa.com' to get user credentials.\n\nThe same resource can be accessed through the URL autointerface-embeddable-stage.maventa.com\n\nAll data processing is done through the REST API at ax-stage.maventa.com\n\n**Out of scope or works as expected (accepted risk):**\n* Clickjacking is out of scope for this asset since it is designed to be framed (embedded) in other 3rd party services.\n* Regular users are allowed to view certain admin settings pages (but not allowed to edit the settings)\n* Permissive CORS on the embeddable UI. The component is designed to be embedded by third-party integrators from unknown/arbitrary origins, so cross-origin access is intentional and out of scope",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "testing.maventa.com",
-          "description": "**Visma AutoInvoice/Maventa**\t\nhttps://testing.maventa.com/apis/v1.1/wsdl is a SOAP API connected to Visma AutoInvoice.\n\nAPI documentation is available on https://documentation.maventa.com/soap-api/\n\nSee instructions for domain 'ai-testing.maventa.com' to get user credentials.",
           "impact": "Tier 2"
         }
       ],
