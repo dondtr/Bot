@@ -7054,17 +7054,10 @@
       "in_scope": [
         {
           "type": "website",
-          "target": "████████████████████",
+          "target": "██████████████████████",
           "uri": null,
-          "name": "████████████████████",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "███████████████████████",
-          "uri": null,
-          "name": "███████████████████████",
-          "ipAddress": ""
+          "name": "██████████████████████",
+          "ipAddress": null
         },
         {
           "type": "website",
@@ -7078,6 +7071,20 @@
           "target": "████████████████████",
           "uri": null,
           "name": "████████████████████",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "███████████████████████",
+          "uri": null,
+          "name": "███████████████████████",
+          "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "██████████████████████",
+          "uri": null,
+          "name": "██████████████████████",
           "ipAddress": ""
         },
         {
@@ -7092,14 +7099,14 @@
           "target": "████████████████",
           "uri": null,
           "name": "████████████████",
-          "ipAddress": ""
+          "ipAddress": null
         },
         {
           "type": "website",
-          "target": "█████████████",
+          "target": "███████████████████",
           "uri": null,
-          "name": "█████████████",
-          "ipAddress": ""
+          "name": "███████████████████",
+          "ipAddress": null
         },
         {
           "type": "website",
@@ -7107,24 +7114,51 @@
           "uri": null,
           "name": "███████████████████████████",
           "ipAddress": ""
-        }
-      ],
-      "out_of_scope": [
+        },
         {
           "type": "website",
-          "target": "████████████████████████████████████████████████████████████████████████████████████",
+          "target": "█████████████████",
           "uri": null,
-          "name": "████████████████████████████████████████████████████████████████████████████████████",
+          "name": "█████████████████",
           "ipAddress": ""
         },
         {
           "type": "website",
-          "target": "██████████████████████████████████",
+          "target": "██████████████████████",
           "uri": null,
-          "name": "██████████████████████████████████",
+          "name": "██████████████████████",
+          "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "████████████████████████████",
+          "uri": null,
+          "name": "████████████████████████████",
+          "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "████████████████████████",
+          "uri": null,
+          "name": "████████████████████████",
+          "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "██████████████████████████████",
+          "uri": null,
+          "name": "██████████████████████████████",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "████████████████████████████",
+          "uri": null,
+          "name": "████████████████████████████",
           "ipAddress": ""
         }
-      ]
+      ],
+      "out_of_scope": []
     }
   },
   {
@@ -12639,13 +12673,6 @@
           "target": "https://marketplace.atlassian.com/apps/1212126/k-sso-saml-sso-oauth-kerberos-user-management-for-confluence?hosting=datacenter&tab=overview",
           "uri": "https://marketplace.atlassian.com/apps/1212126/k-sso-saml-sso-oauth-kerberos-user-management-for-confluence?hosting=datacenter&tab=overview",
           "name": "K-SSO SAML SSO OAuth Kerberos User Management for Confluence - Data Center - https://marketplace.atlassian.com/apps/1212126/k-sso-saml-sso-oauth-kerberos-user-management-for-confluence?hosting=datacenter&tab=overview",
-          "ipAddress": null
-        },
-        {
-          "type": "other",
-          "target": "https://marketplace.atlassian.com/apps/1215263/k-sso-saml-sso-oauth-kerberos-user-management-for-fecru?hosting=server&tab=overview",
-          "uri": "https://marketplace.atlassian.com/apps/1215263/k-sso-saml-sso-oauth-kerberos-user-management-for-fecru?hosting=server&tab=overview",
-          "name": "K-SSO SAML SSO OAuth Kerberos User Management for FeCru - Server - https://marketplace.atlassian.com/apps/1215263/k-sso-saml-sso-oauth-kerberos-user-management-for-fecru?hosting=server&tab=overview",
           "ipAddress": null
         },
         {
@@ -27854,7 +27881,7 @@
           "type": "network",
           "target": "http://10.72.218.66/flag.txt",
           "uri": "http://10.72.218.66/flag.txt",
-          "name": "T&P Servers",
+          "name": "T&P Servers (Temporarily Out of Scope)",
           "ipAddress": null
         },
         {
