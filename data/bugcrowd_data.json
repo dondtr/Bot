@@ -14921,68 +14921,6 @@
     }
   },
   {
-    "name": "Luno Bug Bounty Program",
-    "url": "https://bugcrowd.com/engagements/luno-og",
-    "allows_disclosure": false,
-    "managed_by_bugcrowd": true,
-    "safe_harbor": "full",
-    "max_payout": 7500,
-    "targets": {
-      "in_scope": [
-        {
-          "type": "android",
-          "target": "https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet",
-          "uri": "https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet",
-          "name": "Luno Android Application",
-          "ipAddress": null
-        },
-        {
-          "type": "ios",
-          "target": "https://apps.apple.com/app/bitx-wallet/id927362479",
-          "uri": "https://apps.apple.com/app/bitx-wallet/id927362479",
-          "name": "Luno iOS Application",
-          "ipAddress": null
-        },
-        {
-          "type": "api",
-          "target": "https://mobileapi.staging.luno.com/",
-          "uri": "https://mobileapi.staging.luno.com/",
-          "name": "https://mobileapi.staging.luno.com/",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://staging.luno.com/",
-          "uri": "https://staging.luno.com/",
-          "name": "*.staging.luno.com/",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://staging.luno.com.ng",
-          "uri": "https://staging.luno.com.ng",
-          "name": "*staging.luno.com.ng/",
-          "ipAddress": ""
-        },
-        {
-          "type": "api",
-          "target": "https://api.staging.luno.com/",
-          "uri": "https://api.staging.luno.com/",
-          "name": "https://api.staging.luno.com/",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://app.staging.luno.com/",
-          "uri": "https://app.staging.luno.com/",
-          "name": "https://app.staging.luno.com/",
-          "ipAddress": null
-        }
-      ],
-      "out_of_scope": []
-    }
-  },
-  {
     "name": "Majid Al Futtaim Lifestyle",
     "url": "https://bugcrowd.com/engagements/maffashion",
     "allows_disclosure": true,
@@ -15081,6 +15019,13 @@
           "uri": "",
           "name": "fashion4less.me",
           "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "https://www.pacsun.me/",
+          "uri": "https://www.pacsun.me/",
+          "name": "www.pacsun.me",
+          "ipAddress": null
         }
       ],
       "out_of_scope": [
@@ -16769,6 +16714,13 @@
           "target": "https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189",
           "uri": "https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189",
           "name": "Moneytree iOS Mobile Application (production; see below)",
+          "ipAddress": null
+        },
+        {
+          "type": "api",
+          "target": "https://mcp-staging.getmoneytree.com/",
+          "uri": "https://mcp-staging.getmoneytree.com/",
+          "name": "MCP Server",
           "ipAddress": null
         }
       ],
@@ -28716,7 +28668,7 @@
   {
     "name": "TheFork Managed Bug Bounty Engagement",
     "url": "https://bugcrowd.com/engagements/thefork-mbb-og",
-    "allows_disclosure": false,
+    "allows_disclosure": true,
     "managed_by_bugcrowd": true,
     "safe_harbor": "full",
     "max_payout": 3500,
