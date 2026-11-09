@@ -6789,6 +6789,13 @@
         },
         {
           "type": "website",
+          "target": "https://data.wien.gv.at/daten/*",
+          "uri": "",
+          "name": "https://data.wien.gv.at/daten/*",
+          "ipAddress": ""
+        },
+        {
+          "type": "website",
           "target": "https://www.geschichtewiki.wien.gv.at",
           "uri": "https://www.geschichtewiki.wien.gv.at",
           "name": "geschichtewiki.wien.gv.at",
@@ -10549,7 +10556,7 @@
   {
     "name": "HPE Networking Product Public Program",
     "url": "https://bugcrowd.com/engagements/hpe-networking-product-public",
-    "allows_disclosure": false,
+    "allows_disclosure": true,
     "managed_by_bugcrowd": true,
     "safe_harbor": "full",
     "max_payout": 5000,
