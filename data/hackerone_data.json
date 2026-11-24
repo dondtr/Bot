@@ -85,7 +85,7 @@
     "name": "XP Inc Vulnerability Disclosure",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 91,
+    "response_efficiency_percentage": 90,
     "submission_state": "open",
     "url": "https://hackerone.com/xp_inc_vdp",
     "website": "https://www.xpi.com.br/",
@@ -742,7 +742,7 @@
     "name": "CoinDCX Vulnerability Disclosure",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 78,
+    "response_efficiency_percentage": 72,
     "submission_state": "open",
     "url": "https://hackerone.com/coindcx_vdp",
     "website": "http://coindcx.com",
@@ -862,7 +862,7 @@
     "name": "Smartsheet (VDP)",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 81,
+    "response_efficiency_percentage": 80,
     "submission_state": "open",
     "url": "https://hackerone.com/smartsheet_vdp",
     "website": "http://www.smartsheet.com",
@@ -1415,7 +1415,7 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 3.0,
-    "average_time_to_report_resolved": 619.0,
+    "average_time_to_report_resolved": 644.0,
     "handle": "prism_vdp",
     "id": 0,
     "managed_program": true,
@@ -3271,7 +3271,7 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 2.0,
-    "average_time_to_report_resolved": 642.0,
+    "average_time_to_report_resolved": 715.0,
     "handle": "omnicell",
     "id": 0,
     "managed_program": true,
@@ -3332,7 +3332,7 @@
     "name": "Aegean Airlines Vulnerability Disclosure",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 91,
+    "response_efficiency_percentage": 90,
     "submission_state": "open",
     "url": "https://hackerone.com/aegean_airlines_vdp",
     "website": "http://aegeanair.com",
@@ -6569,7 +6569,7 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 35.0,
+    "average_time_to_first_program_response": 30.0,
     "average_time_to_report_resolved": 1854.0,
     "handle": "phonepe_vdp",
     "id": 0,
@@ -7300,7 +7300,7 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 409.0,
+    "average_time_to_bounty_awarded": 421.0,
     "average_time_to_first_program_response": 2.0,
     "average_time_to_report_resolved": 1184.0,
     "handle": "coupang_tw",
@@ -13649,6 +13649,50 @@
           "instruction": null,
           "integrity_requirement": null,
           "max_severity": "none"
+        },
+        {
+          "asset_identifier": "https://tena.com.my/",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
+          "asset_identifier": "https://tena.com.sg/",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
+          "asset_identifier": "https://tena.ph",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
+          "asset_identifier": "https://tena.ph/",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
         }
       ]
     }
@@ -14049,7 +14093,7 @@
     "name": "Bose (VDP)",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 86,
+    "response_efficiency_percentage": 87,
     "submission_state": "open",
     "url": "https://hackerone.com/bose_vdp",
     "website": "http://bose.com",
@@ -14194,7 +14238,7 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 12.0,
+    "average_time_to_first_program_response": 13.0,
     "average_time_to_report_resolved": 351.0,
     "handle": "mod_supply_chain_vdp",
     "id": 0,
@@ -16556,7 +16600,7 @@
     "name": "Cognition",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 58,
+    "response_efficiency_percentage": 59,
     "submission_state": "open",
     "url": "https://hackerone.com/cognition",
     "website": "https://cognition.ai",
@@ -16701,7 +16745,7 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 0.0,
-    "average_time_to_report_resolved": 806.0,
+    "average_time_to_report_resolved": 2106.0,
     "handle": "taxwell-vdp",
     "id": 0,
     "managed_program": true,
@@ -16897,9 +16941,9 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 81.0,
+    "average_time_to_bounty_awarded": 80.0,
     "average_time_to_first_program_response": 1.0,
-    "average_time_to_report_resolved": 1853.0,
+    "average_time_to_report_resolved": 1857.0,
     "handle": "twilio",
     "id": 0,
     "managed_program": true,
@@ -19094,7 +19138,7 @@
     "name": "Mueller Water Products (VDP)",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 80,
+    "response_efficiency_percentage": 100,
     "submission_state": "open",
     "url": "https://hackerone.com/mueller_water_products_vdp",
     "website": "http://muellerwaterproducts.com",
@@ -19370,7 +19414,7 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 1.0,
-    "average_time_to_report_resolved": 148.0,
+    "average_time_to_report_resolved": 146.0,
     "handle": "henkel_vdp",
     "id": 0,
     "managed_program": true,
@@ -24769,7 +24813,7 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 1.0,
-    "average_time_to_report_resolved": 636.0,
+    "average_time_to_report_resolved": 600.0,
     "handle": "tucows_vdp",
     "id": 0,
     "managed_program": true,
@@ -24976,9 +25020,9 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 627.0,
-    "average_time_to_first_program_response": 23.0,
-    "average_time_to_report_resolved": 5938.0,
+    "average_time_to_bounty_awarded": 702.0,
+    "average_time_to_first_program_response": 24.0,
+    "average_time_to_report_resolved": 5656.0,
     "handle": "banco_plata",
     "id": 0,
     "managed_program": true,
@@ -25302,7 +25346,7 @@
     "name": "Meesho",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 69,
+    "response_efficiency_percentage": 66,
     "submission_state": "open",
     "url": "https://hackerone.com/meesho_bbp",
     "website": "https://meesho.com",
@@ -26249,9 +26293,9 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 399.0,
+    "average_time_to_bounty_awarded": 358.0,
     "average_time_to_first_program_response": 1.0,
-    "average_time_to_report_resolved": 2740.0,
+    "average_time_to_report_resolved": 2599.0,
     "handle": "coupang",
     "id": 0,
     "managed_program": true,
@@ -27169,7 +27213,7 @@
     "name": "Hertz VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 62,
+    "response_efficiency_percentage": 63,
     "submission_state": "open",
     "url": "https://hackerone.com/hertz",
     "website": "http://hertz.com",
@@ -27628,7 +27672,7 @@
     "name": "VF Corporation - VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 78,
+    "response_efficiency_percentage": 67,
     "submission_state": "open",
     "url": "https://hackerone.com/vf-corporation-vdp",
     "website": "http://vfc.com",
@@ -33774,7 +33818,7 @@
     "name": "HubSpot",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 68,
+    "response_efficiency_percentage": 67,
     "submission_state": "open",
     "url": "https://hackerone.com/hubspot",
     "website": "http://hubspot.com",
@@ -34349,7 +34393,7 @@
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 509.0,
     "average_time_to_first_program_response": 1.0,
-    "average_time_to_report_resolved": 383.0,
+    "average_time_to_report_resolved": 401.0,
     "handle": "oppo_bbp",
     "id": 0,
     "managed_program": true,
@@ -35852,7 +35896,7 @@
     "name": "BILL VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 60,
+    "response_efficiency_percentage": 56,
     "submission_state": "open",
     "url": "https://hackerone.com/bill_vdp",
     "website": "https://www.bill.com",
@@ -36434,7 +36478,7 @@
     "name": "Neon",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 78,
+    "response_efficiency_percentage": 79,
     "submission_state": "open",
     "url": "https://hackerone.com/neon_bbp",
     "website": "http://neon.tech",
@@ -36531,7 +36575,7 @@
     "name": "Starbucks Japan",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 86,
+    "response_efficiency_percentage": 83,
     "submission_state": "open",
     "url": "https://hackerone.com/starbucks_japan",
     "website": "http://starbucks.com",
@@ -37125,14 +37169,14 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 0.0,
-    "average_time_to_report_resolved": 3676.0,
+    "average_time_to_report_resolved": 3957.0,
     "handle": "pepsico_vdp",
     "id": 0,
     "managed_program": true,
     "name": "PepsiCo VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 63,
+    "response_efficiency_percentage": 64,
     "submission_state": "open",
     "url": "https://hackerone.com/pepsico_vdp",
     "website": "http://pepsico.com",
@@ -39642,8 +39686,8 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 184.0,
-    "average_time_to_report_resolved": 1170.0,
+    "average_time_to_first_program_response": 186.0,
+    "average_time_to_report_resolved": 1164.0,
     "handle": "aws_vdp",
     "id": 0,
     "managed_program": true,
@@ -51182,14 +51226,14 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 1.0,
-    "average_time_to_report_resolved": 1361.0,
+    "average_time_to_report_resolved": 1389.0,
     "handle": "hpe_vdp",
     "id": 0,
     "managed_program": true,
     "name": "HPE VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 56,
+    "response_efficiency_percentage": 60,
     "submission_state": "open",
     "url": "https://hackerone.com/hpe_vdp",
     "website": "http://hpe.com",
@@ -55007,15 +55051,15 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 98.0,
-    "average_time_to_report_resolved": 723.0,
+    "average_time_to_first_program_response": 97.0,
+    "average_time_to_report_resolved": 717.0,
     "handle": "supabase",
     "id": 0,
     "managed_program": false,
     "name": "Supabase",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 74,
+    "response_efficiency_percentage": 75,
     "submission_state": "open",
     "url": "https://hackerone.com/supabase",
     "website": "https://supabase.com",
@@ -56488,7 +56532,7 @@
   {
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 247.0,
-    "average_time_to_first_program_response": 2.0,
+    "average_time_to_first_program_response": 1.0,
     "average_time_to_report_resolved": 1813.0,
     "handle": "varonis",
     "id": 0,
@@ -56496,7 +56540,7 @@
     "name": "Varonis",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 66,
+    "response_efficiency_percentage": 65,
     "submission_state": "open",
     "url": "https://hackerone.com/varonis",
     "website": "https://www.varonis.com/",
@@ -56617,7 +56661,7 @@
     "name": "ION Group",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 72,
+    "response_efficiency_percentage": 73,
     "submission_state": "open",
     "url": "https://hackerone.com/ion",
     "website": "https://iongroup.com/",
@@ -72541,35 +72585,13 @@
     "targets": {
       "in_scope": [
         {
-          "asset_identifier": "*.uat.unico.app",
-          "asset_type": "WILDCARD",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
           "asset_identifier": "[Unico] Liveness Bypass",
           "asset_type": "OTHER",
           "availability_requirement": null,
           "confidentiality_requirement": null,
           "eligible_for_bounty": true,
           "eligible_for_submission": true,
-          "instruction": "Test environment for identifying weaknesses in the Liveness verification system and exploring potential bypass methods.\n\nCurrently available as:\n1. APK (Android)\n2. IPA (iOS)\n3. Web Page\n\nPlease refer to the program policy for detailed test criteria and artifact links.\n\nDetailed Info: https://sdk-h1.unico.io/docs",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "accountshomolog.acesso.io",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "",
+          "instruction": "Test environment for identifying weaknesses in the Liveness verification system and exploring potential bypass methods.\n\nPlease refer to the program policy for detailed test criteria and artifact links.\n\nDetailed Info: https://sdk-h1.unico.io/docs",
           "integrity_requirement": null,
           "max_severity": "critical"
         },
@@ -72662,61 +72684,6 @@
           "max_severity": "critical"
         },
         {
-          "asset_identifier": "idcash-uat.unico.io",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "identityhomolog.acesso.io",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "idpay-uat.unico.io",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "issuer.idpay-uat.unico.io",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "secure.unico.io",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
           "asset_identifier": "unico.io",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -72728,30 +72695,7 @@
           "max_severity": "critical"
         }
       ],
-      "out_of_scope": [
-        {
-          "asset_identifier": "*.cadastro.uat.unico.app",
-          "asset_type": "WILDCARD",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": false,
-          "eligible_for_submission": false,
-          "instruction": "\nScope related to the By Unico API.\n\nThe API reference for the By Unico API is available at https://devcenter.unico.io/unico-idcloud/by-unico-integration/by-unico-api/api-reference.\n",
-          "integrity_requirement": null,
-          "max_severity": "none"
-        },
-        {
-          "asset_identifier": "uconf.uat.unico.app",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": false,
-          "eligible_for_submission": false,
-          "instruction": "",
-          "integrity_requirement": null,
-          "max_severity": "none"
-        }
-      ]
+      "out_of_scope": []
     }
   },
   {
@@ -72941,7 +72885,7 @@
     "name": "TomTom",
     "offers_bounties": false,
     "offers_swag": true,
-    "response_efficiency_percentage": 74,
+    "response_efficiency_percentage": 75,
     "submission_state": "open",
     "url": "https://hackerone.com/tomtom",
     "website": "https://www.tomtom.com/",
@@ -73317,7 +73261,7 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 2.0,
+    "average_time_to_first_program_response": 1.0,
     "average_time_to_report_resolved": null,
     "handle": "lowes",
     "id": 0,
@@ -73325,7 +73269,7 @@
     "name": "Lowe's Companies VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 70,
+    "response_efficiency_percentage": 75,
     "submission_state": "open",
     "url": "https://hackerone.com/lowes",
     "website": "http://lowes.com",
@@ -73712,7 +73656,7 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 190.0,
+    "average_time_to_bounty_awarded": 184.0,
     "average_time_to_first_program_response": 13.0,
     "average_time_to_report_resolved": null,
     "handle": "chia_network",
@@ -73834,14 +73778,14 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 1.0,
-    "average_time_to_report_resolved": 530.0,
+    "average_time_to_report_resolved": 748.0,
     "handle": "corebridge_financial",
     "id": 0,
     "managed_program": true,
     "name": "Corebridge Financial",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 73,
+    "response_efficiency_percentage": 77,
     "submission_state": "open",
     "url": "https://hackerone.com/corebridge_financial",
     "website": "https://www.corebridgefinancial.com/",
@@ -74084,9 +74028,9 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 151.0,
+    "average_time_to_bounty_awarded": 150.0,
     "average_time_to_first_program_response": 20.0,
-    "average_time_to_report_resolved": 1950.0,
+    "average_time_to_report_resolved": 1899.0,
     "handle": "3cx",
     "id": 0,
     "managed_program": false,
@@ -74965,7 +74909,7 @@
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 147.0,
     "average_time_to_first_program_response": 1.0,
-    "average_time_to_report_resolved": 2482.0,
+    "average_time_to_report_resolved": 2731.0,
     "handle": "netflix",
     "id": 0,
     "managed_program": true,
@@ -75423,7 +75367,7 @@
     "name": "TransUnion LLC",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 92,
+    "response_efficiency_percentage": 93,
     "submission_state": "open",
     "url": "https://hackerone.com/transunion",
     "website": "http://transunion.com",
@@ -78526,7 +78470,7 @@
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 25.0,
     "average_time_to_first_program_response": 5.0,
-    "average_time_to_report_resolved": null,
+    "average_time_to_report_resolved": 5.0,
     "handle": "bykea",
     "id": 0,
     "managed_program": false,
@@ -78746,7 +78690,7 @@
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 135.0,
     "average_time_to_first_program_response": 13.0,
-    "average_time_to_report_resolved": 1500.0,
+    "average_time_to_report_resolved": 1506.0,
     "handle": "anthropic",
     "id": 0,
     "managed_program": false,
@@ -78998,7 +78942,7 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 3.0,
-    "average_time_to_report_resolved": 1469.0,
+    "average_time_to_report_resolved": 1399.0,
     "handle": "aon",
     "id": 0,
     "managed_program": true,
@@ -82109,7 +82053,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "medium"
         },
         {
           "asset_identifier": "africa.visa.com",
@@ -82131,7 +82075,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "medium"
         },
         {
           "asset_identifier": "bd.visa.com",
@@ -82164,7 +82108,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "medium"
         },
         {
           "asset_identifier": "cis.visa.com",
@@ -82186,7 +82130,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "medium"
+          "max_severity": "low"
         },
         {
           "asset_identifier": "console.tink.com",
@@ -82197,7 +82141,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "developer.authorize.net",
@@ -82208,7 +82152,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "developer.currencycloud.com",
@@ -82230,7 +82174,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "developer.plus.authorize.net",
@@ -82241,7 +82185,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "developer.visa.com",
@@ -82285,7 +82229,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "medium"
         },
         {
           "asset_identifier": "ebctest.cybersource.com",
@@ -82329,7 +82273,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "medium"
         },
         {
           "asset_identifier": "https://ebc2test.cybersource.com/settings",
@@ -82362,7 +82306,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/bin",
@@ -82384,7 +82328,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/boarding/v1/templates",
@@ -82395,7 +82339,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/bos",
@@ -82406,7 +82350,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/casemanagement",
@@ -82428,7 +82372,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/devicemanagement",
@@ -82450,7 +82394,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/epcapi",
@@ -82461,7 +82405,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/identity",
@@ -82483,7 +82427,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/jobs",
@@ -82494,7 +82438,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "medium"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/kms/",
@@ -82505,7 +82449,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "medium"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/listmanager",
@@ -82527,7 +82471,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/merchantvelocity",
@@ -82549,7 +82493,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/notification-subscriptions",
@@ -82560,7 +82504,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/oms",
@@ -82571,7 +82515,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/partner",
@@ -82615,7 +82559,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/prcs",
@@ -82637,7 +82581,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "medium"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/processorconfigapi",
@@ -82648,7 +82592,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/products/virtual-terminal",
@@ -82681,7 +82625,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/reporting",
@@ -82692,7 +82636,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/riskui",
@@ -82703,7 +82647,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/saconfig",
@@ -82780,7 +82724,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/unifiedpayments",
@@ -82802,7 +82746,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "medium"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/vdm",
@@ -82824,7 +82768,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "https://ebctest.cybersource.com/vts",
@@ -82857,7 +82801,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "medium"
         },
         {
           "asset_identifier": "https://www.myvisacardportal.com/enbd/en_ae/landing/",
@@ -82912,7 +82856,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "myanmar.visa.com",
@@ -82934,7 +82878,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "medium"
+          "max_severity": "low"
         },
         {
           "asset_identifier": "releasor.payworks.com/",
@@ -82945,7 +82889,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "medium"
         },
         {
           "asset_identifier": "rs.visa.com",
@@ -82978,7 +82922,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "sandbox.secure.checkout.visa.com",
@@ -83000,7 +82944,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "medium"
         },
         {
           "asset_identifier": "survey.visa.com",
@@ -83011,7 +82955,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "test.payworks.io",
@@ -83033,7 +82977,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "usa.visa.com",
@@ -83055,7 +82999,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "medium"
         },
         {
           "asset_identifier": "vgov.catalogue.digitalcontrolroom.com",
@@ -83066,7 +83010,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "medium"
+          "max_severity": "low"
         },
         {
           "asset_identifier": "visa.co.za",
@@ -83132,7 +83076,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "medium"
+          "max_severity": "low"
         },
         {
           "asset_identifier": "visaonchainanalytics.com",
@@ -83143,7 +83087,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "medium"
+          "max_severity": "low"
         },
         {
           "asset_identifier": "visasgic.api-xperience.com",
@@ -83154,7 +83098,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "medium"
         },
         {
           "asset_identifier": "vwcm.visa.com",
@@ -83165,7 +83109,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "medium"
         },
         {
           "asset_identifier": "www.authorize.net",
@@ -83176,7 +83120,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "www.cybersource.com",
@@ -83187,7 +83131,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "www.practicalbusinessskills.org",
@@ -83198,7 +83142,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "www.practicalmoneyskills.com",
@@ -83209,7 +83153,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "www.practicalmoneyskills.org",
@@ -83220,7 +83164,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "www.tink.com",
@@ -83231,7 +83175,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "high"
         },
         {
           "asset_identifier": "www.trialpay.com",
@@ -83242,7 +83186,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": "not_defined",
-          "max_severity": "critical"
+          "max_severity": "medium"
         },
         {
           "asset_identifier": "www.visa.be",
@@ -83605,7 +83549,7 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": null,
-          "max_severity": "critical"
+          "max_severity": "medium"
         },
         {
           "asset_identifier": "www.visa.com.sg",
@@ -86530,15 +86474,15 @@
   {
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 481.0,
-    "average_time_to_first_program_response": 112.0,
-    "average_time_to_report_resolved": 4722.0,
+    "average_time_to_first_program_response": 118.0,
+    "average_time_to_report_resolved": 4336.0,
     "handle": "ring",
     "id": 0,
     "managed_program": false,
     "name": "Ring",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 70,
+    "response_efficiency_percentage": 71,
     "submission_state": "open",
     "url": "https://hackerone.com/ring",
     "website": "http://ring.com",
@@ -87121,7 +87065,7 @@
     "name": "SIX Group",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 84,
+    "response_efficiency_percentage": 83,
     "submission_state": "open",
     "url": "https://hackerone.com/six-group",
     "website": "https://six-group.com",
@@ -87904,16 +87848,16 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 255.0,
+    "average_time_to_bounty_awarded": 244.0,
     "average_time_to_first_program_response": 3.0,
-    "average_time_to_report_resolved": 749.0,
+    "average_time_to_report_resolved": 985.0,
     "handle": "anker",
     "id": 0,
     "managed_program": true,
     "name": "Anker",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 57,
+    "response_efficiency_percentage": 58,
     "submission_state": "open",
     "url": "https://hackerone.com/anker",
     "website": "https://www.anker-in.com/",
@@ -88135,7 +88079,7 @@
   {
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 484.0,
-    "average_time_to_first_program_response": 77.0,
+    "average_time_to_first_program_response": 74.0,
     "average_time_to_report_resolved": 1702.0,
     "handle": "eero",
     "id": 0,
@@ -88143,7 +88087,7 @@
     "name": "eero",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 77,
+    "response_efficiency_percentage": 78,
     "submission_state": "open",
     "url": "https://hackerone.com/eero",
     "website": "https://eero.com/",
@@ -88528,7 +88472,7 @@
     "name": "Stripchat",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 96,
+    "response_efficiency_percentage": 97,
     "submission_state": "open",
     "url": "https://hackerone.com/stripchat",
     "website": "https://stripchat.com",
@@ -89058,7 +89002,7 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 0.0,
+    "average_time_to_bounty_awarded": 17.0,
     "average_time_to_first_program_response": 3.0,
     "average_time_to_report_resolved": 257.0,
     "handle": "wisdomtree",
@@ -89276,7 +89220,7 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 152.0,
+    "average_time_to_bounty_awarded": 158.0,
     "average_time_to_first_program_response": 2.0,
     "average_time_to_report_resolved": null,
     "handle": "superbet",
@@ -89285,7 +89229,7 @@
     "name": "Superbet",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 94,
+    "response_efficiency_percentage": 93,
     "submission_state": "open",
     "url": "https://hackerone.com/superbet",
     "website": "https://superbet.ro",
@@ -90516,7 +90460,7 @@
     "name": "U.S. Department of State",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 95,
+    "response_efficiency_percentage": 96,
     "submission_state": "open",
     "url": "https://hackerone.com/us-department-of-state",
     "website": "https://www.state.gov",
@@ -90892,7 +90836,7 @@
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 579.0,
     "average_time_to_first_program_response": 1.0,
-    "average_time_to_report_resolved": 848.0,
+    "average_time_to_report_resolved": 836.0,
     "handle": "vercel",
     "id": 0,
     "managed_program": true,
@@ -91899,7 +91843,7 @@
     "name": "Intuit",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 92,
+    "response_efficiency_percentage": 91,
     "submission_state": "open",
     "url": "https://hackerone.com/intuit_rdp",
     "website": "https://intuit.com",
@@ -91968,7 +91912,7 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 5.0,
-    "average_time_to_report_resolved": null,
+    "average_time_to_report_resolved": 812.0,
     "handle": "fifth_third_bank_vdp",
     "id": 0,
     "managed_program": true,
@@ -95124,7 +95068,7 @@
   {
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 69.0,
-    "average_time_to_first_program_response": 11.0,
+    "average_time_to_first_program_response": 12.0,
     "average_time_to_report_resolved": 330.0,
     "handle": "mergify",
     "id": 0,
@@ -95341,7 +95285,7 @@
     "name": "ProductBoard, Inc.",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 42,
+    "response_efficiency_percentage": 38,
     "submission_state": "open",
     "url": "https://hackerone.com/productboard",
     "website": "http://productboard.com",
@@ -108208,7 +108152,7 @@
   {
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 1663.0,
-    "average_time_to_first_program_response": 4.0,
+    "average_time_to_first_program_response": 3.0,
     "average_time_to_report_resolved": null,
     "handle": "yuga_labs",
     "id": 0,
@@ -108577,7 +108521,7 @@
     "name": "Daimler Truck",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 69,
+    "response_efficiency_percentage": 70,
     "submission_state": "open",
     "url": "https://hackerone.com/daimler_truck",
     "website": "https://www.daimlertruck.com/",
@@ -111646,7 +111590,7 @@
     "name": "Canada Goose Inc.",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 75,
+    "response_efficiency_percentage": 83,
     "submission_state": "open",
     "url": "https://hackerone.com/canada_goose_inc",
     "website": "https://canadagoose.com",
@@ -111765,7 +111709,7 @@
     "name": "Clarivate",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 54,
+    "response_efficiency_percentage": 53,
     "submission_state": "open",
     "url": "https://hackerone.com/clarivate",
     "website": "http://clarivate.com",
@@ -167174,9 +167118,9 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 1523.0,
+    "average_time_to_bounty_awarded": 1554.0,
     "average_time_to_first_program_response": 9.0,
-    "average_time_to_report_resolved": 4852.0,
+    "average_time_to_report_resolved": 4985.0,
     "handle": "floqast",
     "id": 0,
     "managed_program": false,
@@ -168395,7 +168339,7 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 689.0,
+    "average_time_to_bounty_awarded": 723.0,
     "average_time_to_first_program_response": 2.0,
     "average_time_to_report_resolved": 1265.0,
     "handle": "mongodb",
@@ -169977,16 +169921,16 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 325.0,
+    "average_time_to_bounty_awarded": 334.0,
     "average_time_to_first_program_response": 1.0,
-    "average_time_to_report_resolved": 325.0,
+    "average_time_to_report_resolved": 334.0,
     "handle": "sorare",
     "id": 0,
     "managed_program": true,
     "name": "Sorare",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 79,
+    "response_efficiency_percentage": 78,
     "submission_state": "open",
     "url": "https://hackerone.com/sorare",
     "website": "https://sorare.com",
@@ -170080,7 +170024,7 @@
     "name": "The Walt Disney Company",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 67,
+    "response_efficiency_percentage": 68,
     "submission_state": "open",
     "url": "https://hackerone.com/disney",
     "website": "https://thewaltdisneycompany.com/",
@@ -171414,7 +171358,7 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 0.0,
-    "average_time_to_report_resolved": 1207.0,
+    "average_time_to_report_resolved": 1215.0,
     "handle": "vodafone",
     "id": 0,
     "managed_program": true,
@@ -172796,7 +172740,7 @@
     "name": "Wells Fargo Bounty",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 87,
+    "response_efficiency_percentage": 88,
     "submission_state": "open",
     "url": "https://hackerone.com/wellsfargo-bbp",
     "website": "https://www.wellsfargo.com",
@@ -172964,14 +172908,14 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 3.0,
-    "average_time_to_report_resolved": 3487.0,
+    "average_time_to_report_resolved": 3811.0,
     "handle": "allegion",
     "id": 0,
     "managed_program": true,
     "name": "Allegion",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 85,
+    "response_efficiency_percentage": 86,
     "submission_state": "open",
     "url": "https://hackerone.com/allegion",
     "website": "http://allegion.com",
@@ -175424,7 +175368,7 @@
     "name": "Wickr",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 66,
+    "response_efficiency_percentage": 65,
     "submission_state": "open",
     "url": "https://hackerone.com/wickr",
     "website": "http://www.wickr.com",
@@ -175600,7 +175544,7 @@
     "name": "PagerDuty",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 72,
+    "response_efficiency_percentage": 73,
     "submission_state": "open",
     "url": "https://hackerone.com/pagerduty",
     "website": "https://pagerduty.com",
@@ -176568,8 +176512,8 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 138.0,
-    "average_time_to_first_program_response": 25.0,
+    "average_time_to_bounty_awarded": 133.0,
+    "average_time_to_first_program_response": 26.0,
     "average_time_to_report_resolved": 283.0,
     "handle": "moonpay",
     "id": 0,
@@ -177258,7 +177202,7 @@
     "name": "Veeam",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 69,
+    "response_efficiency_percentage": 68,
     "submission_state": "open",
     "url": "https://hackerone.com/veeam",
     "website": "http://www.veeam.com",
@@ -177368,7 +177312,7 @@
     "name": "Redis VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 78,
+    "response_efficiency_percentage": 77,
     "submission_state": "open",
     "url": "https://hackerone.com/redis-vdp",
     "website": "http://redis.io",
@@ -177470,7 +177414,7 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 0.0,
-    "average_time_to_report_resolved": 16324.0,
+    "average_time_to_report_resolved": 24091.0,
     "handle": "godaddy-vdp",
     "id": 0,
     "managed_program": true,
@@ -182305,7 +182249,7 @@
   {
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 214.0,
-    "average_time_to_first_program_response": 96.0,
+    "average_time_to_first_program_response": 100.0,
     "average_time_to_report_resolved": null,
     "handle": "razorpay",
     "id": 0,
@@ -182447,7 +182391,7 @@
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 3.0,
     "average_time_to_first_program_response": 1.0,
-    "average_time_to_report_resolved": 1948.0,
+    "average_time_to_report_resolved": 2024.0,
     "handle": "zooplus",
     "id": 0,
     "managed_program": true,
@@ -182886,7 +182830,7 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 0.0,
+    "average_time_to_first_program_response": 1.0,
     "average_time_to_report_resolved": 877.0,
     "handle": "tenable",
     "id": 0,
@@ -183257,7 +183201,7 @@
     "name": "Newegg",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 94,
+    "response_efficiency_percentage": 95,
     "submission_state": "open",
     "url": "https://hackerone.com/newegg",
     "website": "https://newegg.com",
@@ -183366,7 +183310,7 @@
     "name": "Octopus Energy Group",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 71,
+    "response_efficiency_percentage": 100,
     "submission_state": "open",
     "url": "https://hackerone.com/octopus-energy",
     "website": "https://octopusenergy.group/",
@@ -183391,7 +183335,7 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 2.0,
-    "average_time_to_report_resolved": 840.0,
+    "average_time_to_report_resolved": 868.0,
     "handle": "semtech",
     "id": 0,
     "managed_program": true,
@@ -183881,7 +183825,7 @@
     "name": "Fastly VDP",
     "offers_bounties": false,
     "offers_swag": true,
-    "response_efficiency_percentage": 25,
+    "response_efficiency_percentage": 60,
     "submission_state": "open",
     "url": "https://hackerone.com/fastly-vdp",
     "website": "http://fastly.com",
@@ -184002,7 +183946,7 @@
     "name": "ServiceNow Disclosure",
     "offers_bounties": false,
     "offers_swag": true,
-    "response_efficiency_percentage": 78,
+    "response_efficiency_percentage": 80,
     "submission_state": "open",
     "url": "https://hackerone.com/servicenow-disclosure",
     "website": "https://www.servicenow.com/",
@@ -184049,14 +183993,14 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 1.0,
-    "average_time_to_report_resolved": 1107.0,
+    "average_time_to_report_resolved": 1167.0,
     "handle": "zurich-insurance",
     "id": 0,
     "managed_program": true,
     "name": "Zurich Insurance",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 53,
+    "response_efficiency_percentage": 55,
     "submission_state": "open",
     "url": "https://hackerone.com/zurich-insurance",
     "website": "http://zurich.com",
@@ -184803,7 +184747,7 @@
     "name": "Whatnot",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 88,
+    "response_efficiency_percentage": 89,
     "submission_state": "open",
     "url": "https://hackerone.com/whatnot",
     "website": "https://www.whatnot.com",
@@ -184901,7 +184845,7 @@
     "name": "LATAM Airlines",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 87,
+    "response_efficiency_percentage": 86,
     "submission_state": "open",
     "url": "https://hackerone.com/latamairlines",
     "website": "https://latam.com",
@@ -185847,12 +185791,23 @@
     "name": "KHealth",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 85,
+    "response_efficiency_percentage": 86,
     "submission_state": "open",
     "url": "https://hackerone.com/khealth",
     "website": "https://www.khealth.com",
     "targets": {
       "in_scope": [
+        {
+          "asset_identifier": "*.atlantichealthvirtualcare.org",
+          "asset_type": "WILDCARD",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": "",
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
         {
           "asset_identifier": "*.csconnect.org",
           "asset_type": "WILDCARD",
@@ -185953,6 +185908,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "*.uvahealthpcod.org",
+          "asset_type": "WILDCARD",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": "",
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "6741442288",
           "asset_type": "APPLE_STORE_APP_ID",
           "availability_requirement": null,
@@ -185993,6 +185959,28 @@
           "eligible_for_bounty": true,
           "eligible_for_submission": true,
           "instruction": "HHC 24/7 Android app ([Play Store link](https://play.google.com/store/apps/details?id=org.hartfordhealthcare.hhc247)).",
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "patientgpt.pennmedicine.k-test.connect-visit.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": "",
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "pennmedicine.k-test.connect-visit.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": "",
           "integrity_requirement": null,
           "max_severity": "critical"
         }
@@ -186067,7 +186055,7 @@
     "name": "SMTP2GO BBP",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 84,
+    "response_efficiency_percentage": 85,
     "submission_state": "open",
     "url": "https://hackerone.com/smtp2go",
     "website": "http://smtp2go.com",
@@ -186484,7 +186472,7 @@
     "name": "Zebra VDP",
     "offers_bounties": false,
     "offers_swag": true,
-    "response_efficiency_percentage": 95,
+    "response_efficiency_percentage": 93,
     "submission_state": "open",
     "url": "https://hackerone.com/zebra_vdp",
     "website": "http://zebra.com",
@@ -187401,7 +187389,7 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 0.0,
-    "average_time_to_report_resolved": 1171.0,
+    "average_time_to_report_resolved": 1164.0,
     "handle": "fiserv",
     "id": 0,
     "managed_program": true,
@@ -307826,7 +307814,7 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 4.0,
+    "average_time_to_bounty_awarded": 9.0,
     "average_time_to_first_program_response": 10.0,
     "average_time_to_report_resolved": 2627.0,
     "handle": "playtika",
@@ -307835,7 +307823,7 @@
     "name": "Playtika",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 95,
+    "response_efficiency_percentage": 96,
     "submission_state": "open",
     "url": "https://hackerone.com/playtika",
     "website": "https://www.playtika.com",
@@ -308564,7 +308552,7 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 4.0,
-    "average_time_to_report_resolved": 6362.0,
+    "average_time_to_report_resolved": 6684.0,
     "handle": "beiersdorf",
     "id": 0,
     "managed_program": true,
@@ -311348,6 +311336,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "api-us-prod-e00.deere.com",
+          "asset_type": "URL",
+          "availability_requirement": "medium",
+          "confidentiality_requirement": "medium",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "medium",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "api.agrisync.com",
           "asset_type": "URL",
           "availability_requirement": "low",
@@ -311433,6 +311432,17 @@
           "eligible_for_submission": true,
           "instruction": null,
           "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "api.tartarus.prod.mesa.brtws.com",
+          "asset_type": "URL",
+          "availability_requirement": "low",
+          "confidentiality_requirement": "low",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "low",
           "max_severity": "critical"
         },
         {
@@ -332320,9 +332330,9 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 100.0,
+    "average_time_to_bounty_awarded": 101.0,
     "average_time_to_first_program_response": 0.0,
-    "average_time_to_report_resolved": 775.0,
+    "average_time_to_report_resolved": 810.0,
     "handle": "trendyol",
     "id": 0,
     "managed_program": false,
@@ -345483,7 +345493,7 @@
     "name": "Costco",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 91,
+    "response_efficiency_percentage": 96,
     "submission_state": "open",
     "url": "https://hackerone.com/costco",
     "website": "http://www.costco.com",
@@ -345960,14 +345970,14 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 13.0,
-    "average_time_to_report_resolved": 873.0,
+    "average_time_to_report_resolved": 868.0,
     "handle": "mars",
     "id": 0,
     "managed_program": true,
     "name": "Mars",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 83,
+    "response_efficiency_percentage": 84,
     "submission_state": "open",
     "url": "https://hackerone.com/mars",
     "website": "http://mars.com",
@@ -348056,7 +348066,7 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 3.0,
+    "average_time_to_first_program_response": 2.0,
     "average_time_to_report_resolved": null,
     "handle": "paystack-vdp",
     "id": 0,
@@ -348230,7 +348240,7 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 43.0,
+    "average_time_to_bounty_awarded": 40.0,
     "average_time_to_first_program_response": null,
     "average_time_to_report_resolved": null,
     "handle": "freshworks",
@@ -348239,7 +348249,7 @@
     "name": "Freshworks ",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 63,
+    "response_efficiency_percentage": 64,
     "submission_state": "open",
     "url": "https://hackerone.com/freshworks",
     "website": "https://www.freshworks.com/",
@@ -348693,7 +348703,7 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 0.0,
-    "average_time_to_report_resolved": 1234.0,
+    "average_time_to_report_resolved": 1242.0,
     "handle": "cbre",
     "id": 0,
     "managed_program": true,
@@ -444740,7 +444750,7 @@
     "name": "Cloud Software Group",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 43,
+    "response_efficiency_percentage": 45,
     "submission_state": "open",
     "url": "https://hackerone.com/csg-public",
     "website": "http://citrix.com",
@@ -445116,7 +445126,7 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 4.0,
+    "average_time_to_bounty_awarded": 284.0,
     "average_time_to_first_program_response": 5.0,
     "average_time_to_report_resolved": 1585.0,
     "handle": "xvideos",
@@ -445224,7 +445234,7 @@
     "name": "Anywhere Real Estate",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 72,
+    "response_efficiency_percentage": 70,
     "submission_state": "open",
     "url": "https://hackerone.com/anywhererealestate",
     "website": "http://anywhere.re",
@@ -447194,7 +447204,7 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 299.0,
+    "average_time_to_bounty_awarded": 298.0,
     "average_time_to_first_program_response": 5.0,
     "average_time_to_report_resolved": null,
     "handle": "tiktok",
@@ -447757,7 +447767,7 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 1.0,
-    "average_time_to_report_resolved": 388.0,
+    "average_time_to_report_resolved": 369.0,
     "handle": "aig",
     "id": 0,
     "managed_program": true,
@@ -448632,7 +448642,7 @@
     "name": "Vendasta",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 69,
+    "response_efficiency_percentage": 71,
     "submission_state": "open",
     "url": "https://hackerone.com/vendasta",
     "website": "http://vendasta.com",
@@ -449581,8 +449591,8 @@
   {
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 467.0,
-    "average_time_to_first_program_response": 130.0,
-    "average_time_to_report_resolved": 3052.0,
+    "average_time_to_first_program_response": 129.0,
+    "average_time_to_report_resolved": 3033.0,
     "handle": "amazonvrp",
     "id": 0,
     "managed_program": false,
@@ -451032,9 +451042,9 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 390.0,
-    "average_time_to_first_program_response": 2469.0,
-    "average_time_to_report_resolved": 6669.0,
+    "average_time_to_bounty_awarded": 378.0,
+    "average_time_to_first_program_response": 2434.0,
+    "average_time_to_report_resolved": 6435.0,
     "handle": "cs_money",
     "id": 0,
     "managed_program": false,
@@ -451592,7 +451602,7 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 90.0,
+    "average_time_to_bounty_awarded": 91.0,
     "average_time_to_first_program_response": 5.0,
     "average_time_to_report_resolved": 749.0,
     "handle": "hostinger",
@@ -451765,7 +451775,7 @@
     "name": "Shutterfly VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 65,
+    "response_efficiency_percentage": 68,
     "submission_state": "open",
     "url": "https://hackerone.com/shutterfly_vdp",
     "website": "https://www.shutterfly.com",
@@ -452416,7 +452426,7 @@
   {
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 206.0,
-    "average_time_to_first_program_response": 8.0,
+    "average_time_to_first_program_response": 9.0,
     "average_time_to_report_resolved": null,
     "handle": "shein",
     "id": 0,
@@ -452984,8 +452994,8 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 1876.0,
-    "average_time_to_report_resolved": 1556.0,
+    "average_time_to_first_program_response": 2305.0,
+    "average_time_to_report_resolved": 18815.0,
     "handle": "thnks",
     "id": 0,
     "managed_program": false,
@@ -453145,7 +453155,7 @@
     "name": "Faraday, Inc.",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 96,
+    "response_efficiency_percentage": 97,
     "submission_state": "open",
     "url": "https://hackerone.com/faraday_inc",
     "website": "https://faraday.ai",
@@ -453336,7 +453346,7 @@
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 129.0,
     "average_time_to_first_program_response": 1.0,
-    "average_time_to_report_resolved": 1514.0,
+    "average_time_to_report_resolved": 1510.0,
     "handle": "playstation",
     "id": 0,
     "managed_program": true,
@@ -454321,7 +454331,7 @@
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 657.0,
     "average_time_to_first_program_response": 1.0,
-    "average_time_to_report_resolved": 1300.0,
+    "average_time_to_report_resolved": 1310.0,
     "handle": "box_private",
     "id": 0,
     "managed_program": true,
@@ -455164,185 +455174,9 @@
     }
   },
   {
-    "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": null,
-    "average_time_to_report_resolved": 11512.0,
-    "handle": "oasisprotocol",
-    "id": 0,
-    "managed_program": false,
-    "name": "Oasis Protocol Foundation",
-    "offers_bounties": true,
-    "offers_swag": true,
-    "response_efficiency_percentage": 24,
-    "submission_state": "open",
-    "url": "https://hackerone.com/oasisprotocol",
-    "website": "https://oasisprotocol.org",
-    "targets": {
-      "in_scope": [
-        {
-          "asset_identifier": "github.com/oasisprotocol/explorer",
-          "asset_type": "SOURCE_CODE",
-          "availability_requirement": null,
-          "confidentiality_requirement": "none",
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": null,
-          "integrity_requirement": "high",
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "http://emerald.oasis.dev",
-          "asset_type": "URL",
-          "availability_requirement": "high",
-          "confidentiality_requirement": "none",
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": null,
-          "integrity_requirement": "high",
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "http://grpc.oasis.dev",
-          "asset_type": "URL",
-          "availability_requirement": "high",
-          "confidentiality_requirement": "none",
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": null,
-          "integrity_requirement": "high",
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "http://rosetta.oasis.dev/api/mainnet",
-          "asset_type": "URL",
-          "availability_requirement": "high",
-          "confidentiality_requirement": "none",
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": null,
-          "integrity_requirement": "high",
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "http://sapphire.oasis.io",
-          "asset_type": "URL",
-          "availability_requirement": "high",
-          "confidentiality_requirement": "none",
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": null,
-          "integrity_requirement": "high",
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "https://github.com/oasisprotocol/curve25519-voi",
-          "asset_type": "SOURCE_CODE",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "Ed25519/Sr25519 implementation.",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "https://github.com/oasisprotocol/deoxysii",
-          "asset_type": "SOURCE_CODE",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "https://github.com/oasisprotocol/deoxysii-rust",
-          "asset_type": "SOURCE_CODE",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "https://github.com/oasisprotocol/oasis-core",
-          "asset_type": "SOURCE_CODE",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "Blockchain Software",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "https://github.com/oasisprotocol/oasis-sdk",
-          "asset_type": "SOURCE_CODE",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "Blockchain Software",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "https://github.com/oasisprotocol/oasis-wallet-web",
-          "asset_type": "SOURCE_CODE",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "status.oasis.io",
-          "asset_type": "URL",
-          "availability_requirement": "high",
-          "confidentiality_requirement": "none",
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": null,
-          "integrity_requirement": "medium",
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "wallet.oasis.io",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": null,
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        }
-      ],
-      "out_of_scope": [
-        {
-          "asset_identifier": "Not in Scope",
-          "asset_type": "OTHER",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": false,
-          "eligible_for_submission": false,
-          "instruction": "* Vulnerabilities in SGX hardware that cannot be fixed with software refactors\n* The Oasis Protocol Website (oasisprotocol.org)\n* Layer 3/Layer 4 DoS attacks on testnet infrastructure\n* Social Engineering Attacks on Oasis Protocol Foundation staff\n* Operational vulnerabilities related to any node operator of a testnet or the mainnet\n\n###Domains\n* *.oasisprotocol.org\n",
-          "integrity_requirement": null,
-          "max_severity": "none"
-        }
-      ]
-    }
-  },
-  {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 30.0,
+    "average_time_to_first_program_response": 31.0,
     "average_time_to_report_resolved": 166.0,
     "handle": "lemlist",
     "id": 0,
@@ -455350,7 +455184,7 @@
     "name": "lemlist",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 95,
+    "response_efficiency_percentage": 92,
     "submission_state": "open",
     "url": "https://hackerone.com/lemlist",
     "website": "https://lemlist.com",
@@ -455515,7 +455349,7 @@
     "name": "Exodus",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 94,
+    "response_efficiency_percentage": 95,
     "submission_state": "open",
     "url": "https://hackerone.com/exodus",
     "website": "https://www.exodus.com",
@@ -456736,7 +456570,7 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 38.0,
+    "average_time_to_first_program_response": 33.0,
     "average_time_to_report_resolved": 1504.0,
     "handle": "mtn_group",
     "id": 0,
@@ -463894,7 +463728,7 @@
     "name": "Kubernetes",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 88,
+    "response_efficiency_percentage": 87,
     "submission_state": "open",
     "url": "https://hackerone.com/kubernetes",
     "website": "https://kubernetes.io/",
@@ -464831,7 +464665,7 @@
   },
   {
     "allows_bounty_splitting": false,
-    "average_time_to_bounty_awarded": 42.0,
+    "average_time_to_bounty_awarded": 19.0,
     "average_time_to_first_program_response": null,
     "average_time_to_report_resolved": null,
     "handle": "coinspot",
@@ -464840,7 +464674,7 @@
     "name": "CoinSpot",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 90,
+    "response_efficiency_percentage": 87,
     "submission_state": "open",
     "url": "https://hackerone.com/coinspot",
     "website": "http://coinspot.com.au",
@@ -465389,7 +465223,7 @@
     "name": "Equifax-vdp",
     "offers_bounties": false,
     "offers_swag": true,
-    "response_efficiency_percentage": 87,
+    "response_efficiency_percentage": 88,
     "submission_state": "open",
     "url": "https://hackerone.com/equifax",
     "website": "http://www.equifax.com",
@@ -469384,7 +469218,7 @@
   },
   {
     "allows_bounty_splitting": false,
-    "average_time_to_bounty_awarded": 2142.0,
+    "average_time_to_bounty_awarded": 2099.0,
     "average_time_to_first_program_response": 18.0,
     "average_time_to_report_resolved": null,
     "handle": "att",
@@ -470273,7 +470107,7 @@
     "name": "Lark Technologies",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 56,
+    "response_efficiency_percentage": 57,
     "submission_state": "open",
     "url": "https://hackerone.com/lark_technologies",
     "website": "https://www.larksuite.com",
@@ -470527,6 +470361,61 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
+    "average_time_to_first_program_response": 86.0,
+    "average_time_to_report_resolved": 399.0,
+    "handle": "solidus",
+    "id": 0,
+    "managed_program": false,
+    "name": "Solidus",
+    "offers_bounties": false,
+    "offers_swag": true,
+    "response_efficiency_percentage": 78,
+    "submission_state": "open",
+    "url": "https://hackerone.com/solidus",
+    "website": "http://solidus.io",
+    "targets": {
+      "in_scope": [
+        {
+          "asset_identifier": "https://github.com/solidusio/solidus",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": "medium",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": "",
+          "integrity_requirement": "low",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://github.com/solidusio/solidus_auth_devise",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": "medium",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": "",
+          "integrity_requirement": "low",
+          "max_severity": "critical"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "asset_identifier": "*solidus.io",
+          "asset_type": "WILDCARD",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": "",
+          "integrity_requirement": null,
+          "max_severity": "none"
+        }
+      ]
+    }
+  },
+  {
+    "allows_bounty_splitting": false,
+    "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 104.0,
     "average_time_to_report_resolved": 326.0,
     "handle": "worklytics",
@@ -470559,7 +470448,7 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 112.0,
+    "average_time_to_first_program_response": 113.0,
     "average_time_to_report_resolved": 355.0,
     "handle": "defectdojo",
     "id": 0,
@@ -470710,7 +470599,7 @@
   {
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 171.0,
-    "average_time_to_first_program_response": 36.0,
+    "average_time_to_first_program_response": 38.0,
     "average_time_to_report_resolved": 172.0,
     "handle": "ridewithvia",
     "id": 0,
@@ -470940,16 +470829,16 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 216.0,
+    "average_time_to_bounty_awarded": 213.0,
     "average_time_to_first_program_response": 22.0,
-    "average_time_to_report_resolved": 574.0,
+    "average_time_to_report_resolved": 576.0,
     "handle": "xiaomi",
     "id": 0,
     "managed_program": false,
     "name": "Xiaomi",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 58,
+    "response_efficiency_percentage": 57,
     "submission_state": "open",
     "url": "https://hackerone.com/xiaomi",
     "website": "http://www.mi.com",
@@ -472753,7 +472642,7 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 26.0,
+    "average_time_to_first_program_response": 27.0,
     "average_time_to_report_resolved": 834.0,
     "handle": "msd",
     "id": 0,
@@ -473200,7 +473089,7 @@
     "name": "Instacart",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 77,
+    "response_efficiency_percentage": 78,
     "submission_state": "open",
     "url": "https://hackerone.com/instacart",
     "website": "https://instacart.com",
@@ -473445,7 +473334,7 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 158.0,
+    "average_time_to_first_program_response": 142.0,
     "average_time_to_report_resolved": 1366.0,
     "handle": "phpbb",
     "id": 0,
@@ -473453,7 +473342,7 @@
     "name": "phpBB",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 67,
+    "response_efficiency_percentage": 74,
     "submission_state": "open",
     "url": "https://hackerone.com/phpbb",
     "website": "https://www.phpbb.com",
@@ -473815,7 +473704,7 @@
     "name": "Front",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 69,
+    "response_efficiency_percentage": 70,
     "submission_state": "open",
     "url": "https://hackerone.com/fronthq",
     "website": "https://frontapp.com",
@@ -473902,7 +473791,7 @@
     "name": "FanDuel",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 95,
+    "response_efficiency_percentage": 94,
     "submission_state": "open",
     "url": "https://hackerone.com/fanduel",
     "website": "https://fanduel.com",
@@ -475532,8 +475421,8 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 3747.0,
-    "average_time_to_first_program_response": 15.0,
+    "average_time_to_bounty_awarded": 3691.0,
+    "average_time_to_first_program_response": 16.0,
     "average_time_to_report_resolved": 3103.0,
     "handle": "remitly",
     "id": 0,
@@ -476377,7 +476266,7 @@
     "name": "Expedia Group VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 74,
+    "response_efficiency_percentage": 79,
     "submission_state": "open",
     "url": "https://hackerone.com/expediagroup",
     "website": "https://www.expediagroup.com/",
@@ -476817,7 +476706,7 @@
     "name": "Nutanix",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 50,
+    "response_efficiency_percentage": 74,
     "submission_state": "open",
     "url": "https://hackerone.com/nutanix",
     "website": "https://www.nutanix.com",
@@ -477201,7 +477090,7 @@
     "name": "Flickr",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 53,
+    "response_efficiency_percentage": 54,
     "submission_state": "open",
     "url": "https://hackerone.com/flickr",
     "website": "https://www.flickr.com/",
@@ -480665,7 +480554,7 @@
     "name": "Flipkart",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 75,
+    "response_efficiency_percentage": 76,
     "submission_state": "open",
     "url": "https://hackerone.com/flipkart",
     "website": "https://flipkart.com",
@@ -480796,7 +480685,7 @@
     "name": "Acronis",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 36,
+    "response_efficiency_percentage": 37,
     "submission_state": "open",
     "url": "https://hackerone.com/acronis",
     "website": "https://www.acronis.com",
@@ -481337,9 +481226,9 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 2192.0,
+    "average_time_to_bounty_awarded": 2148.0,
     "average_time_to_first_program_response": 0.0,
-    "average_time_to_report_resolved": 4934.0,
+    "average_time_to_report_resolved": 4904.0,
     "handle": "paypal",
     "id": 0,
     "managed_program": true,
@@ -481918,7 +481807,7 @@
     "name": "Chaturbate",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 72,
+    "response_efficiency_percentage": 73,
     "submission_state": "open",
     "url": "https://hackerone.com/chaturbate",
     "website": "https://chaturbate.com",
@@ -482063,9 +481952,9 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 165.0,
+    "average_time_to_bounty_awarded": 156.0,
     "average_time_to_first_program_response": 1.0,
-    "average_time_to_report_resolved": 1078.0,
+    "average_time_to_report_resolved": 1015.0,
     "handle": "pixiv",
     "id": 0,
     "managed_program": true,
@@ -482318,14 +482207,14 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 97.0,
-    "average_time_to_report_resolved": 936.0,
+    "average_time_to_report_resolved": 945.0,
     "handle": "ibm",
     "id": 0,
     "managed_program": false,
     "name": "IBM",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 70,
+    "response_efficiency_percentage": 71,
     "submission_state": "open",
     "url": "https://hackerone.com/ibm",
     "website": "https://www.ibm.com",
@@ -482464,7 +482353,7 @@
     "name": "Affirm",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 79,
+    "response_efficiency_percentage": 80,
     "submission_state": "open",
     "url": "https://hackerone.com/affirm",
     "website": "http://www.affirm.com",
@@ -482521,7 +482410,7 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 118.0,
+    "average_time_to_bounty_awarded": 109.0,
     "average_time_to_first_program_response": 15.0,
     "average_time_to_report_resolved": null,
     "handle": "crypto",
@@ -483057,7 +482946,7 @@
     "name": "Ping Identity",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 71,
+    "response_efficiency_percentage": 70,
     "submission_state": "open",
     "url": "https://hackerone.com/pingidentity",
     "website": "https://www.pingidentity.com/",
@@ -485302,9 +485191,9 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 2072.0,
+    "average_time_to_bounty_awarded": 2071.0,
     "average_time_to_first_program_response": 2.0,
-    "average_time_to_report_resolved": 3242.0,
+    "average_time_to_report_resolved": 3211.0,
     "handle": "elastic",
     "id": 0,
     "managed_program": true,
@@ -486129,7 +486018,7 @@
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 199.0,
     "average_time_to_first_program_response": 1.0,
-    "average_time_to_report_resolved": 3925.0,
+    "average_time_to_report_resolved": 4154.0,
     "handle": "goldmansachs",
     "id": 0,
     "managed_program": true,
@@ -486963,9 +486852,9 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 607.0,
+    "average_time_to_bounty_awarded": 598.0,
     "average_time_to_first_program_response": 1.0,
-    "average_time_to_report_resolved": 11185.0,
+    "average_time_to_report_resolved": 10879.0,
     "handle": "valve",
     "id": 0,
     "managed_program": true,
@@ -489374,7 +489263,7 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 1.0,
-    "average_time_to_report_resolved": 1035.0,
+    "average_time_to_report_resolved": 1041.0,
     "handle": "sony",
     "id": 0,
     "managed_program": true,
@@ -489416,7 +489305,7 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 103.0,
+    "average_time_to_bounty_awarded": 102.0,
     "average_time_to_first_program_response": 1.0,
     "average_time_to_report_resolved": 4990.0,
     "handle": "superhuman",
@@ -489425,7 +489314,7 @@
     "name": "Superhuman (formerly Grammarly)",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 85,
+    "response_efficiency_percentage": 84,
     "submission_state": "open",
     "url": "https://hackerone.com/superhuman",
     "website": "https://superhuman.com/",
@@ -489812,7 +489701,7 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 8.0,
+    "average_time_to_first_program_response": 9.0,
     "average_time_to_report_resolved": 943.0,
     "handle": "monero",
     "id": 0,
@@ -490327,7 +490216,7 @@
   {
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": null,
+    "average_time_to_first_program_response": 0.0,
     "average_time_to_report_resolved": null,
     "handle": "oportun_vdp",
     "id": 0,
@@ -490335,7 +490224,7 @@
     "name": "Oportun",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 67,
+    "response_efficiency_percentage": 75,
     "submission_state": "open",
     "url": "https://hackerone.com/oportun_vdp",
     "website": "https://www.oportun.com",
@@ -491665,7 +491554,7 @@
     "name": "Bumble",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 77,
+    "response_efficiency_percentage": 78,
     "submission_state": "open",
     "url": "https://hackerone.com/bumble",
     "website": "https://bumble.com/",
@@ -492283,12 +492172,12 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 1521.0,
-    "average_time_to_first_program_response": 38.0,
-    "average_time_to_report_resolved": 2226.0,
+    "average_time_to_bounty_awarded": 1556.0,
+    "average_time_to_first_program_response": 26.0,
+    "average_time_to_report_resolved": 2061.0,
     "handle": "spotify",
     "id": 0,
-    "managed_program": false,
+    "managed_program": true,
     "name": "Spotify",
     "offers_bounties": true,
     "offers_swag": false,
@@ -492900,7 +492789,7 @@
   {
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 711.0,
-    "average_time_to_first_program_response": 172.0,
+    "average_time_to_first_program_response": 175.0,
     "average_time_to_report_resolved": 1081.0,
     "handle": "roblox",
     "id": 0,
@@ -492908,7 +492797,7 @@
     "name": "Roblox",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 63,
+    "response_efficiency_percentage": 59,
     "submission_state": "open",
     "url": "https://hackerone.com/roblox",
     "website": "https://www.roblox.com",
@@ -493010,7 +492899,7 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 36.0,
+    "average_time_to_first_program_response": 35.0,
     "average_time_to_report_resolved": 494.0,
     "handle": "stellar",
     "id": 0,
@@ -493029,7 +492918,7 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 90.0,
+    "average_time_to_bounty_awarded": 92.0,
     "average_time_to_first_program_response": 1.0,
     "average_time_to_report_resolved": 3172.0,
     "handle": "dyson",
@@ -494131,7 +494020,7 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
     "average_time_to_first_program_response": 35.0,
-    "average_time_to_report_resolved": 92.0,
+    "average_time_to_report_resolved": 91.0,
     "handle": "weblate",
     "id": 0,
     "managed_program": false,
@@ -494358,16 +494247,16 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 647.0,
-    "average_time_to_first_program_response": 17.0,
-    "average_time_to_report_resolved": 1006.0,
+    "average_time_to_bounty_awarded": 706.0,
+    "average_time_to_first_program_response": 14.0,
+    "average_time_to_report_resolved": 1016.0,
     "handle": "kiwicom",
     "id": 0,
     "managed_program": true,
     "name": "Kiwi.com",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 84,
+    "response_efficiency_percentage": 86,
     "submission_state": "open",
     "url": "https://hackerone.com/kiwicom",
     "website": "https://www.kiwi.com",
@@ -494949,7 +494838,7 @@
     "name": "Nintendo",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 72,
+    "response_efficiency_percentage": 73,
     "submission_state": "open",
     "url": "https://hackerone.com/nintendo",
     "website": "http://www.nintendo.com",
@@ -495062,7 +494951,7 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 16.0,
+    "average_time_to_first_program_response": 17.0,
     "average_time_to_report_resolved": null,
     "handle": "deptofdefense",
     "id": 0,
@@ -495090,7 +494979,7 @@
     "name": "Plaid",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 86,
+    "response_efficiency_percentage": 85,
     "submission_state": "open",
     "url": "https://hackerone.com/plaid",
     "website": "https://plaid.com",
@@ -495246,9 +495135,9 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 145.0,
-    "average_time_to_first_program_response": 6.0,
-    "average_time_to_report_resolved": 756.0,
+    "average_time_to_bounty_awarded": 144.0,
+    "average_time_to_first_program_response": 5.0,
+    "average_time_to_report_resolved": 742.0,
     "handle": "semrush",
     "id": 0,
     "managed_program": false,
@@ -495445,7 +495334,7 @@
   {
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 1521.0,
-    "average_time_to_first_program_response": 190.0,
+    "average_time_to_first_program_response": 175.0,
     "average_time_to_report_resolved": 2232.0,
     "handle": "quora",
     "id": 0,
@@ -495453,7 +495342,7 @@
     "name": "Quora",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 28,
+    "response_efficiency_percentage": 27,
     "submission_state": "open",
     "url": "https://hackerone.com/quora",
     "website": "http://www.quora.com",
@@ -495510,7 +495399,7 @@
   {
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 81.0,
-    "average_time_to_first_program_response": 13.0,
+    "average_time_to_first_program_response": 12.0,
     "average_time_to_report_resolved": null,
     "handle": "brave",
     "id": 0,
@@ -495518,7 +495407,7 @@
     "name": "Brave Software",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 99,
+    "response_efficiency_percentage": 100,
     "submission_state": "open",
     "url": "https://hackerone.com/brave",
     "website": "https://brave.com",
@@ -495586,7 +495475,7 @@
   {
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 753.0,
-    "average_time_to_first_program_response": 11.0,
+    "average_time_to_first_program_response": 12.0,
     "average_time_to_report_resolved": null,
     "handle": "portswigger",
     "id": 0,
@@ -495915,7 +495804,7 @@
   },
   {
     "allows_bounty_splitting": false,
-    "average_time_to_bounty_awarded": 23.0,
+    "average_time_to_bounty_awarded": 22.0,
     "average_time_to_first_program_response": 53.0,
     "average_time_to_report_resolved": 108.0,
     "handle": "files",
@@ -496111,7 +496000,7 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 164.0,
+    "average_time_to_bounty_awarded": 174.0,
     "average_time_to_first_program_response": 36.0,
     "average_time_to_report_resolved": 740.0,
     "handle": "exness",
@@ -496307,7 +496196,7 @@
     "name": "Scopely",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 98,
+    "response_efficiency_percentage": 99,
     "submission_state": "open",
     "url": "https://hackerone.com/scopely",
     "website": "https://scopely.com",
@@ -496628,7 +496517,7 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 709.0,
+    "average_time_to_bounty_awarded": 704.0,
     "average_time_to_first_program_response": null,
     "average_time_to_report_resolved": null,
     "handle": "wordpress",
@@ -496637,7 +496526,7 @@
     "name": "WordPress",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 95,
+    "response_efficiency_percentage": 96,
     "submission_state": "open",
     "url": "https://hackerone.com/wordpress",
     "website": "https://wordpress.org/",
@@ -497015,7 +496904,7 @@
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": 4216.0,
     "average_time_to_first_program_response": 14.0,
-    "average_time_to_report_resolved": 2839.0,
+    "average_time_to_report_resolved": 2810.0,
     "handle": "nextcloud",
     "id": 0,
     "managed_program": false,
@@ -498186,7 +498075,7 @@
     "name": "Starbucks",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 69,
+    "response_efficiency_percentage": 70,
     "submission_state": "open",
     "url": "https://hackerone.com/starbucks",
     "website": "http://www.starbucks.com",
@@ -498376,8 +498265,8 @@
   {
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 119.0,
-    "average_time_to_report_resolved": 1923.0,
+    "average_time_to_first_program_response": 127.0,
+    "average_time_to_report_resolved": 2170.0,
     "handle": "ruby",
     "id": 0,
     "managed_program": false,
@@ -498420,7 +498309,7 @@
   {
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 4.0,
-    "average_time_to_first_program_response": 9.0,
+    "average_time_to_first_program_response": 8.0,
     "average_time_to_report_resolved": null,
     "handle": "rockstargames",
     "id": 0,
@@ -498428,7 +498317,7 @@
     "name": "Rockstar Games",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 79,
+    "response_efficiency_percentage": 80,
     "submission_state": "open",
     "url": "https://hackerone.com/rockstargames",
     "website": "http://www.rockstargames.com/",
@@ -498608,7 +498497,7 @@
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 1928.0,
     "average_time_to_first_program_response": 220.0,
-    "average_time_to_report_resolved": 2480.0,
+    "average_time_to_report_resolved": 2481.0,
     "handle": "github",
     "id": 0,
     "managed_program": false,
@@ -499059,7 +498948,7 @@
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 101.0,
     "average_time_to_first_program_response": 4.0,
-    "average_time_to_report_resolved": 880.0,
+    "average_time_to_report_resolved": 885.0,
     "handle": "wealthsimple",
     "id": 0,
     "managed_program": true,
@@ -499869,16 +499758,16 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 703.0,
+    "average_time_to_bounty_awarded": 660.0,
     "average_time_to_first_program_response": 227.0,
-    "average_time_to_report_resolved": 770.0,
+    "average_time_to_report_resolved": 741.0,
     "handle": "torproject",
     "id": 0,
     "managed_program": false,
     "name": "Tor",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 36,
+    "response_efficiency_percentage": 39,
     "submission_state": "open",
     "url": "https://hackerone.com/torproject",
     "website": "https://www.torproject.org/",
@@ -499903,7 +499792,7 @@
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 76.0,
     "average_time_to_first_program_response": 10.0,
-    "average_time_to_report_resolved": 609.0,
+    "average_time_to_report_resolved": 645.0,
     "handle": "deriv",
     "id": 0,
     "managed_program": false,
@@ -500207,7 +500096,7 @@
     "name": "Tinder",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 85,
+    "response_efficiency_percentage": 86,
     "submission_state": "open",
     "url": "https://hackerone.com/tinder",
     "website": "https://tinder.com",
@@ -500550,7 +500439,7 @@
   {
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 1627.0,
-    "average_time_to_first_program_response": 35.0,
+    "average_time_to_first_program_response": 36.0,
     "average_time_to_report_resolved": 1918.0,
     "handle": "algolia",
     "id": 0,
@@ -500558,7 +500447,7 @@
     "name": "Algolia",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 95,
+    "response_efficiency_percentage": 96,
     "submission_state": "open",
     "url": "https://hackerone.com/algolia",
     "website": "https://algolia.com",
@@ -500614,7 +500503,7 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 375.0,
+    "average_time_to_bounty_awarded": 368.0,
     "average_time_to_first_program_response": 1.0,
     "average_time_to_report_resolved": null,
     "handle": "grab",
@@ -501019,9 +500908,9 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 17.0,
-    "average_time_to_report_resolved": null,
+    "average_time_to_bounty_awarded": 859.0,
+    "average_time_to_first_program_response": 18.0,
+    "average_time_to_report_resolved": 2516.0,
     "handle": "coinmate",
     "id": 0,
     "managed_program": false,
@@ -501048,7 +500937,7 @@
     "name": "CLEAR",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 80,
+    "response_efficiency_percentage": 79,
     "submission_state": "open",
     "url": "https://hackerone.com/clear",
     "website": "https://www.clearme.com/",
@@ -501336,8 +501225,8 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 212.0,
-    "average_time_to_first_program_response": 81.0,
+    "average_time_to_bounty_awarded": 202.0,
+    "average_time_to_first_program_response": 79.0,
     "average_time_to_report_resolved": 17697.0,
     "handle": "moneybird",
     "id": 0,
@@ -501345,7 +501234,7 @@
     "name": "Moneybird",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 75,
+    "response_efficiency_percentage": 76,
     "submission_state": "open",
     "url": "https://hackerone.com/moneybird",
     "website": "https://www.moneybird.com",
@@ -501442,7 +501331,7 @@
     "name": "Udemy",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 83,
+    "response_efficiency_percentage": 85,
     "submission_state": "open",
     "url": "https://hackerone.com/udemy",
     "website": "http://udemy.com",
@@ -502171,7 +502060,7 @@
   {
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 289.0,
-    "average_time_to_first_program_response": 81.0,
+    "average_time_to_first_program_response": 80.0,
     "average_time_to_report_resolved": 9923.0,
     "handle": "shopify",
     "id": 0,
@@ -502586,9 +502475,9 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 175.0,
+    "average_time_to_bounty_awarded": 178.0,
     "average_time_to_first_program_response": 3.0,
-    "average_time_to_report_resolved": 834.0,
+    "average_time_to_report_resolved": 613.0,
     "handle": "airbnb",
     "id": 0,
     "managed_program": false,
@@ -502993,7 +502882,7 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 847.0,
+    "average_time_to_bounty_awarded": 782.0,
     "average_time_to_first_program_response": 0.0,
     "average_time_to_report_resolved": 1538.0,
     "handle": "bookingcom",
@@ -503002,7 +502891,7 @@
     "name": "Booking.com",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 98,
+    "response_efficiency_percentage": 99,
     "submission_state": "open",
     "url": "https://hackerone.com/bookingcom",
     "website": "http://www.booking.com",
@@ -503860,7 +503749,7 @@
     "name": "Airtable",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 86,
+    "response_efficiency_percentage": 87,
     "submission_state": "open",
     "url": "https://hackerone.com/airtable",
     "website": "https://staging.airtable.com/",
@@ -507500,7 +507389,7 @@
     "name": "LinkedIn",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 65,
+    "response_efficiency_percentage": 66,
     "submission_state": "open",
     "url": "https://hackerone.com/linkedin",
     "website": "https://www.linkedin.com",
@@ -507774,16 +507663,16 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 1014.0,
-    "average_time_to_first_program_response": 2.0,
-    "average_time_to_report_resolved": 1617.0,
+    "average_time_to_bounty_awarded": 1026.0,
+    "average_time_to_first_program_response": 1.0,
+    "average_time_to_report_resolved": 1600.0,
     "handle": "gitlab",
     "id": 0,
     "managed_program": true,
     "name": "GitLab",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 82,
+    "response_efficiency_percentage": 83,
     "submission_state": "open",
     "url": "https://hackerone.com/gitlab",
     "website": "https://about.gitlab.com",
@@ -508289,7 +508178,7 @@
     "name": "X / xAI",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 79,
+    "response_efficiency_percentage": 80,
     "submission_state": "open",
     "url": "https://hackerone.com/x",
     "website": "https://x.com",
@@ -508566,8 +508455,8 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 833.0,
-    "average_time_to_first_program_response": 9.0,
+    "average_time_to_bounty_awarded": 830.0,
+    "average_time_to_first_program_response": 10.0,
     "average_time_to_report_resolved": null,
     "handle": "cloudflare",
     "id": 0,
@@ -509512,7 +509401,7 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 753.0,
+    "average_time_to_bounty_awarded": 705.0,
     "average_time_to_first_program_response": null,
     "average_time_to_report_resolved": null,
     "handle": "automattic",
@@ -509997,8 +509886,8 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 29.0,
-    "average_time_to_report_resolved": 5320.0,
+    "average_time_to_first_program_response": 28.0,
+    "average_time_to_report_resolved": 5654.0,
     "handle": "khanacademy",
     "id": 0,
     "managed_program": false,
@@ -510016,7 +509905,7 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 1077.0,
+    "average_time_to_bounty_awarded": 1060.0,
     "average_time_to_first_program_response": null,
     "average_time_to_report_resolved": null,
     "handle": "coinbase",
@@ -510661,7 +510550,7 @@
     "name": "Ruby on Rails",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 97,
+    "response_efficiency_percentage": 96,
     "submission_state": "open",
     "url": "https://hackerone.com/rails",
     "website": "http://rubyonrails.org/security",
@@ -510696,7 +510585,7 @@
   },
   {
     "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 1780.0,
+    "average_time_to_bounty_awarded": 1828.0,
     "average_time_to_first_program_response": 2.0,
     "average_time_to_report_resolved": 215.0,
     "handle": "security",
@@ -510705,7 +510594,7 @@
     "name": "HackerOne",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 100,
+    "response_efficiency_percentage": 99,
     "submission_state": "open",
     "url": "https://hackerone.com/security",
     "website": "https://hackerone.com",
